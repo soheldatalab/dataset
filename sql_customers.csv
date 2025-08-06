@@ -1,0 +1,501 @@
+customer_id,first_name,last_name,email,age,country,signup_date,total_orders,total_spent,is_active
+1,William,Oconnell,karen57@morris-perry.net,58,Saint Lucia,2023-10-17,9,2588.9,1
+2,John,Miller,tanya82@gmail.com,25,Sierra Leone,2025-06-11,27,1294.49,0
+3,Alexandra,Jackson,ericwright@hotmail.com,19,Falkland Islands (Malvinas),2020-09-13,8,2006.58,1
+4,Brenda,Johnson,longcheyenne@gmail.com,65,Ecuador,2023-10-29,2,1283.59,1
+5,Heather,Poole,qthomas@atkinson.net,35,Zimbabwe,2021-03-09,19,5405.05,0
+6,Steven,Frost,murphysarah@medina-lopez.info,33,Guyana,2024-04-12,23,7645.68,0
+7,Sarah,Harrison,pamelagarcia@wright-schneider.info,32,Yemen,2021-03-03,50,1932.98,0
+8,Sara,Cruz,edward23@smith.com,26,Kiribati,2024-09-30,2,2242.21,0
+9,Randall,Lowe,anthony33@holmes.com,65,Sri Lanka,2025-05-15,22,4893.57,1
+10,Charles,Hernandez,stephanieflores@yahoo.com,24,Guernsey,2024-12-29,13,7273.39,1
+11,Jacob,Lopez,sherry71@yahoo.com,61,Italy,2021-07-24,43,9768.41,1
+12,Leonard,Taylor,morsecrystal@hotmail.com,65,Brunei Darussalam,2023-01-18,15,5293.91,0
+13,Diana,Young,luke86@yahoo.com,52,Guyana,2020-09-22,42,2901.69,1
+14,Morgan,Jones,charles79@walls-wall.com,23,Latvia,2020-12-08,6,1095.21,1
+15,Jessica,Fields,russellconner@yahoo.com,55,Ghana,2023-11-09,22,2021.76,1
+16,Lisa,Watkins,conniejackson@gmail.com,45,Solomon Islands,2023-12-27,49,2352.08,1
+17,Jeffrey,Conner,allensharon@gmail.com,20,Anguilla,2020-10-22,35,1876.47,1
+18,Brenda,Gonzalez,seancarey@pacheco-miles.com,19,Azerbaijan,2020-08-31,26,240.07,0
+19,Justin,Cherry,markbennett@gmail.com,23,Ethiopia,2022-09-21,39,5387.94,0
+20,Linda,Jackson,zcherry@bernard.com,31,Algeria,2023-11-22,47,2815.68,0
+21,Matthew,Glenn,douglas00@gmail.com,32,Croatia,2024-07-27,9,9745.52,0
+22,Tonya,Lopez,nthompson@odom.com,50,Cayman Islands,2025-03-27,15,5578.25,1
+23,Stephen,White,millerdiane@underwood.com,56,El Salvador,2021-10-23,10,7004.43,0
+24,Marisa,Spencer,james69@bell-fitzpatrick.com,19,Spain,2020-10-27,11,1350.17,0
+25,Mark,Morse,longjohn@yahoo.com,53,Macedonia,2021-11-02,26,8697.77,0
+26,Jesus,Singleton,zacharytorres@harris.com,30,Austria,2020-12-18,1,4959.7,1
+27,Charlotte,Ortiz,wardcynthia@yahoo.com,63,Iceland,2023-11-06,11,8739.93,1
+28,Michael,Beck,williamsspencer@potter.net,59,Svalbard & Jan Mayen Islands,2021-06-29,47,5783.24,1
+29,Amanda,Todd,wilsonjason@hotmail.com,62,Barbados,2023-11-19,21,4747.03,1
+30,Jeffrey,White,prubio@gmail.com,52,Antigua and Barbuda,2022-03-17,50,4460.64,1
+31,Valerie,Soto,trevorsullivan@yahoo.com,44,Cook Islands,2022-09-01,26,1925.2,1
+32,Christine,Ramsey,georgejustin@gmail.com,32,United States Minor Outlying Islands,2024-07-08,42,608.63,0
+33,Ronald,Lyons,elizabethbriggs@gmail.com,46,American Samoa,2023-04-28,47,9416.53,0
+34,James,Simmons,ashley57@perez.com,55,Nigeria,2020-08-29,15,4829.52,0
+35,Teresa,Nelson,markjohnson@thompson.info,35,Guadeloupe,2020-12-31,17,8238.94,0
+36,John,Reed,brendaalvarez@davis-young.info,69,Gambia,2021-05-21,10,4067.0,0
+37,Andrew,Cabrera,jadams@dawson.biz,18,Palau,2023-11-10,50,833.41,0
+38,Sierra,Clark,kingsara@chaney-li.org,66,Dominica,2021-08-16,44,6331.51,0
+39,Mary,Smith,shelley87@cabrera.org,69,United Arab Emirates,2023-01-02,6,630.73,1
+40,Robin,Moore,brian30@spence.com,28,Gibraltar,2023-11-26,24,1577.06,1
+41,Austin,Parker,timothysmith@crawford-patel.com,62,Guyana,2023-12-28,2,5672.11,0
+42,Gregory,Bates,jenniferalvarado@hotmail.com,45,Philippines,2025-03-06,30,3107.97,0
+43,Henry,Simmons,kellyjulie@hodges.com,39,Slovakia (Slovak Republic),2024-08-10,14,9939.79,1
+44,Christine,Adams,molly02@blanchard-melendez.org,35,Syrian Arab Republic,2021-10-03,12,1272.67,0
+45,Crystal,Carpenter,robert51@wilson-davis.com,27,Slovakia (Slovak Republic),2023-06-21,29,7667.99,0
+46,Christopher,Potts,nolson@hotmail.com,31,Panama,2021-04-14,22,6102.54,0
+47,Michelle,Lynch,shermanstephanie@hotmail.com,66,Kiribati,2023-11-06,19,7928.33,1
+48,Yesenia,Nelson,sarahrussell@hotmail.com,39,Togo,2024-10-11,50,2334.3,1
+49,Katherine,Thompson,higginsjoshua@yahoo.com,24,Somalia,2020-11-10,14,5273.47,0
+50,Virginia,Roy,acevedojennifer@williams.net,23,French Polynesia,2025-05-15,14,4560.09,1
+51,Mark,Romero,tsaunders@gmail.com,42,Azerbaijan,2020-10-01,1,4482.94,1
+52,Carly,Ward,andres26@gmail.com,24,Chad,2021-06-24,42,8615.65,1
+53,Crystal,Shepard,johnsonlarry@hotmail.com,40,Colombia,2022-08-28,12,9901.31,0
+54,Steven,Sutton,megan25@yahoo.com,40,Saint Helena,2024-01-20,25,3123.26,1
+55,Loretta,Young,nicholaskerr@vincent.com,56,Antigua and Barbuda,2024-10-13,21,6248.17,1
+56,Juan,Mcdonald,garnershawn@ford.biz,34,Greece,2025-04-21,17,6135.35,0
+57,Alicia,Miller,ugibbs@potts.biz,69,El Salvador,2024-02-19,4,7426.88,0
+58,Jeremy,Navarro,josephlewis@jones-smith.com,20,Martinique,2023-07-01,49,9481.14,0
+59,Michelle,Tapia,troywade@thompson.com,64,Malaysia,2021-08-09,17,2157.1,1
+60,Nina,Frye,jamesbryant@brennan-jordan.org,47,New Zealand,2023-04-11,22,2189.15,1
+61,Amy,Mendoza,yacosta@yahoo.com,52,Spain,2021-05-27,41,6638.24,0
+62,Patricia,Nelson,ashleywilliams@hotmail.com,25,Namibia,2022-03-31,32,1654.87,0
+63,Michael,Green,kaitlin56@harrison.com,42,United Kingdom,2021-12-30,25,1820.75,1
+64,Samuel,Anderson,angel56@gmail.com,23,Sudan,2024-11-09,43,843.14,1
+65,Darrell,Carrillo,tiffany76@mcintyre.com,53,Chile,2023-12-15,34,126.49,0
+66,Steven,Hughes,kelsey95@hotmail.com,36,Turkmenistan,2020-07-17,21,4559.99,1
+67,Keith,Jones,gary23@buckley-jones.com,58,Brunei Darussalam,2022-02-22,1,5978.73,0
+68,Ashley,Sutton,ericksondwayne@harrison.com,57,Estonia,2025-03-22,7,2983.47,1
+69,John,Wall,lovewanda@hotmail.com,41,American Samoa,2021-02-05,16,2391.61,0
+70,Amber,Sandoval,frankluke@byrd.com,54,Maldives,2023-05-09,11,7098.86,1
+71,John,Jones,starkjames@velasquez.com,30,Saint Lucia,2022-01-24,37,7059.58,0
+72,Maria,Smith,charles65@gmail.com,63,Mauritius,2024-01-21,16,4594.91,1
+73,Randy,Herrera,cfields@gmail.com,22,Mozambique,2020-07-17,2,6905.11,0
+74,Kathleen,Heath,andrew17@yahoo.com,20,Australia,2025-05-05,6,9246.72,1
+75,Eric,Barnett,lvelazquez@hotmail.com,60,Martinique,2024-06-24,38,7899.5,0
+76,Roy,Kelly,qbishop@robles-snyder.com,32,Kyrgyz Republic,2022-03-21,27,6288.07,0
+77,Linda,Estrada,betty72@smith.com,67,Korea,2024-02-19,22,6645.71,0
+78,Carlos,Fry,mcculloughkyle@hotmail.com,36,Nauru,2024-08-21,46,9343.32,0
+79,Walter,Wilson,johngonzalez@gmail.com,23,Italy,2023-04-03,50,4308.88,0
+80,Scott,Davis,keith63@hotmail.com,32,Uzbekistan,2020-12-20,20,5491.17,1
+81,Nicole,Chavez,haleyperez@singh.org,24,Slovenia,2022-08-12,27,6511.58,0
+82,Michelle,Williams,andreapaul@barker-oliver.com,42,Cameroon,2025-04-30,38,9093.27,1
+83,Nicholas,Hernandez,matthew85@gmail.com,35,Armenia,2022-09-21,32,8283.65,0
+84,Teresa,Lopez,wjones@hotmail.com,47,Iran,2023-07-05,7,806.96,1
+85,Richard,Villarreal,stevensmith@yahoo.com,58,Barbados,2022-12-03,24,1742.64,0
+86,Tina,Campos,sherri19@hotmail.com,41,Lesotho,2024-10-15,36,3145.36,0
+87,Shelby,Bishop,jberry@gmail.com,28,Palestinian Territory,2022-12-30,12,7514.68,1
+88,George,Grant,jjacobs@taylor-morgan.org,41,Spain,2024-01-09,16,5735.15,0
+89,Christopher,Melton,amberalvarez@richardson-shannon.com,40,Madagascar,2021-11-16,2,2957.24,1
+90,Sara,Hogan,yatesrebecca@bryant.com,31,San Marino,2025-06-14,45,1331.1,1
+91,Jason,Thompson,cordovajames@yahoo.com,60,Indonesia,2025-03-10,27,6917.91,0
+92,Kelly,Cardenas,stephaniepratt@doyle.biz,35,Thailand,2020-12-09,0,7027.36,0
+93,Victor,Smith,pstewart@coleman-white.info,62,Tokelau,2024-12-17,33,9432.49,1
+94,Gary,Werner,deanna93@mills-smith.net,61,Iceland,2024-03-28,34,5054.67,0
+95,Christopher,Johnson,jason01@harrison.com,59,Armenia,2023-08-27,43,4988.57,0
+96,Christine,Lopez,coreymurray@green.org,22,Tajikistan,2024-10-21,46,896.37,0
+97,Yolanda,Johnson,justinhernandez@gmail.com,56,Bolivia,2021-04-10,47,494.62,1
+98,Erica,Landry,walkertasha@gill.com,58,Cook Islands,2023-03-11,47,4377.08,0
+99,Billy,Simmons,mirandakyle@gmail.com,28,Solomon Islands,2024-07-16,42,3290.98,1
+100,Alexander,Brewer,afletcher@gmail.com,52,Albania,2023-10-19,12,2578.64,1
+101,Zachary,Johnson,emilybecker@walton.biz,64,Egypt,2023-10-18,23,1004.14,1
+102,Caitlyn,Williams,dale51@hotmail.com,33,United States of America,2020-12-07,27,9622.92,1
+103,Misty,Hernandez,karen74@yahoo.com,28,Trinidad and Tobago,2024-03-12,4,8375.99,0
+104,Jenna,Cochran,stephen01@gmail.com,47,Grenada,2023-08-14,42,5794.47,0
+105,Kimberly,Rice,jeffrey60@stewart-finley.com,42,China,2025-04-12,21,9512.78,1
+106,Amber,Gray,waltersautumn@gmail.com,35,South Africa,2024-11-08,39,9995.77,1
+107,Shane,Ferrell,tracycunningham@lewis.net,58,Japan,2022-02-23,20,6755.59,1
+108,John,Brown,lynn65@best-williams.biz,62,Slovakia (Slovak Republic),2023-03-16,42,2768.16,1
+109,Tyler,Gray,klambert@hill-miller.info,53,Korea,2023-02-02,7,498.29,0
+110,David,Patton,bschroeder@hotmail.com,32,Colombia,2021-02-11,46,7587.06,1
+111,Mathew,Cross,andersonkari@duran.biz,61,South Georgia and the South Sandwich Islands,2023-06-16,19,4757.96,1
+112,Tina,Berry,brittanythompson@foster.com,38,Equatorial Guinea,2025-05-30,32,6549.94,1
+113,Sergio,Buck,barnettjohn@hotmail.com,67,Algeria,2021-12-27,19,9169.12,1
+114,Mark,Joyce,mallory35@yahoo.com,67,Reunion,2023-06-29,42,1896.74,1
+115,Michael,Jenkins,morrowrobert@potts.com,21,Zambia,2021-03-26,26,5894.76,0
+116,Joseph,Walter,plucas@baxter.com,32,Syrian Arab Republic,2023-01-27,20,6384.37,0
+117,Carla,Davis,hscott@jones.com,70,Central African Republic,2022-09-19,25,4968.09,0
+118,Richard,Hensley,leahhernandez@gmail.com,20,Solomon Islands,2024-06-19,44,1003.3,0
+119,Virginia,Erickson,evelynbeltran@bowen.biz,69,Holy See (Vatican City State),2020-11-06,18,3544.81,0
+120,Joseph,Church,igentry@ellis-parker.com,38,United States Virgin Islands,2024-02-04,35,3399.75,1
+121,Jerry,Cooper,darrell50@gmail.com,43,Slovenia,2020-09-27,8,6734.32,0
+122,Kevin,Gross,greenjacob@baker.com,35,Mexico,2022-06-12,12,8591.56,1
+123,Danielle,Jackson,bsantana@hotmail.com,22,Bahrain,2025-04-05,26,3365.06,0
+124,Tonya,Moore,kimshannon@garrett-bruce.com,31,Austria,2024-06-22,42,6967.37,0
+125,Aaron,Cobb,richard35@hotmail.com,54,Jersey,2024-07-25,24,2953.36,0
+126,Dennis,Smith,porterjuan@hotmail.com,63,Mozambique,2023-07-18,43,9457.42,0
+127,Vanessa,Webb,kennedyrichard@hernandez-gardner.net,38,Saint Pierre and Miquelon,2024-08-27,47,8154.3,1
+128,Donna,Snyder,suzanne73@hotmail.com,31,Saint Pierre and Miquelon,2021-02-09,11,5545.96,0
+129,Rebecca,Garcia,gwright@perez.info,59,Kenya,2022-01-17,39,4602.78,1
+130,Mark,Lopez,seannelson@morrison-park.org,49,Saint Kitts and Nevis,2022-01-24,36,3213.72,0
+131,Peter,Kemp,jason92@hotmail.com,43,Colombia,2023-04-26,19,3300.41,0
+132,David,Mcneil,erikallen@yahoo.com,59,Martinique,2025-04-17,25,9704.83,0
+133,Robert,Lewis,zgarrison@meyer.com,47,Cayman Islands,2022-04-10,35,4101.33,1
+134,Sydney,Scott,justin64@yahoo.com,27,Czech Republic,2022-01-22,0,5194.5,1
+135,Victoria,Smith,hthompson@yahoo.com,34,Honduras,2021-11-02,19,9882.38,0
+136,Joshua,West,jonathan33@ellis-terrell.com,26,Burundi,2023-11-23,18,6610.84,0
+137,Aaron,Strickland,garzavanessa@barnes.biz,33,India,2022-06-09,13,5471.68,1
+138,Michael,Harrison,nicholas56@davila.com,65,Lao People's Democratic Republic,2025-03-08,27,4191.15,1
+139,Matthew,Alexander,cmyers@gardner.com,53,Romania,2021-06-23,50,1957.07,0
+140,Crystal,Dorsey,lchan@scott.biz,52,Jamaica,2020-08-11,37,3681.62,0
+141,Calvin,Lowery,sethwoodard@yahoo.com,34,Taiwan,2024-08-14,38,7588.79,1
+142,Rebecca,Clark,christopherdowns@robinson.com,65,Jordan,2022-06-21,41,6291.55,0
+143,Nathan,Dennis,emily62@yahoo.com,55,Albania,2023-03-24,20,7623.91,1
+144,James,Hicks,kjackson@galvan.com,45,Bouvet Island (Bouvetoya),2021-04-05,29,2115.23,0
+145,Ronald,Maxwell,marciabrown@moore.com,55,China,2021-09-10,28,5537.27,0
+146,Karla,Blake,nsmith@hotmail.com,43,Gambia,2021-02-25,28,9283.96,1
+147,Michael,Morrow,adamhill@howell.com,41,Croatia,2025-03-02,43,4437.35,1
+148,Jeremy,Stone,hillcarol@yahoo.com,32,Korea,2021-08-10,13,7012.68,0
+149,Thomas,Martin,aaronosborn@edwards.com,26,Chile,2020-10-13,32,1302.12,1
+150,Bradley,Hamilton,marie19@yahoo.com,50,Belgium,2024-05-05,30,9734.15,0
+151,Mary,Moore,jenniferholloway@jones.info,49,Armenia,2020-08-20,50,6127.83,1
+152,Aaron,Rodriguez,bvasquez@brown-peterson.org,23,Canada,2025-04-18,50,2469.04,1
+153,Tracey,Jackson,deborahmontgomery@yahoo.com,66,Iraq,2024-09-06,47,1667.94,1
+154,Kimberly,Faulkner,katelyn80@bell.com,21,France,2021-08-11,10,5553.31,1
+155,Ronnie,Mitchell,michelle75@williams.com,25,Saint Pierre and Miquelon,2024-04-21,42,5567.29,0
+156,Lisa,Moon,nancyoconnell@brown.com,27,Cuba,2023-05-25,5,1022.77,0
+157,Joy,Beck,robinsonjennifer@phillips.com,58,Benin,2021-05-10,18,9923.35,1
+158,Krista,Wolfe,cummingsrebecca@smith.biz,28,Slovenia,2022-05-08,32,9138.01,0
+159,Michael,Ruiz,fitzpatricklisa@gmail.com,68,Micronesia,2025-04-05,42,4668.33,0
+160,Thomas,Humphrey,lesliethomas@gmail.com,61,Spain,2022-03-30,40,1262.91,0
+161,Alexis,Oliver,wsoto@yahoo.com,45,Belarus,2022-03-04,39,8338.22,0
+162,Zachary,Gutierrez,bescobar@ramirez-banks.biz,56,Myanmar,2023-05-25,21,5033.92,0
+163,Stefanie,Gomez,ktran@yahoo.com,22,Puerto Rico,2022-10-18,5,7194.37,0
+164,Nathaniel,Fleming,erogers@shepherd.info,42,Ukraine,2024-12-27,48,5137.83,1
+165,Joshua,Holmes,vibarra@hotmail.com,42,Hong Kong,2025-05-03,15,2806.91,0
+166,Michael,Miller,wmiddleton@kent.com,56,India,2025-01-14,43,8363.77,1
+167,Tracey,Rojas,lopezlaura@hotmail.com,47,Macedonia,2021-01-16,19,9804.42,0
+168,Kerri,Hodges,jwebb@gmail.com,51,Canada,2024-11-17,14,2512.94,1
+169,Edward,Ferguson,hcontreras@ford.com,34,Kazakhstan,2023-04-16,12,5557.52,0
+170,William,Calderon,rlane@hotmail.com,53,Niger,2024-05-18,9,3897.5,0
+171,Stephanie,Edwards,fcastillo@gmail.com,18,Bhutan,2023-10-14,1,9226.49,0
+172,Sara,Newman,karensolis@nichols.org,61,Martinique,2024-02-18,2,5131.58,1
+173,Jennifer,Flynn,odavidson@bell.com,64,Guyana,2025-06-17,15,8805.33,0
+174,George,Gray,zlane@gallagher.org,25,Austria,2023-05-09,30,8653.87,1
+175,Joshua,Garner,erica03@shaffer.info,61,Cuba,2021-02-02,39,2834.85,1
+176,Regina,George,rjohnson@johnson.com,52,Korea,2024-03-28,49,7921.06,0
+177,Clarence,Smith,pcarter@rodriguez-bishop.info,66,Kyrgyz Republic,2020-12-17,4,4207.93,0
+178,Michelle,Klein,alicia43@hotmail.com,35,Cameroon,2024-01-19,29,9349.06,0
+179,Emily,Flores,lbecker@cowan.org,67,Burundi,2020-11-11,26,5126.6,1
+180,Cindy,Delgado,yroach@erickson.com,59,Azerbaijan,2020-08-29,40,8223.44,1
+181,Michael,Barrera,wusarah@richardson.com,39,Botswana,2024-12-17,36,2900.11,0
+182,Christopher,Phillips,michaelsmith@gonzalez.com,25,Monaco,2023-10-26,12,3055.7,0
+183,Dawn,Ramirez,joshuareid@lopez.com,36,Slovakia (Slovak Republic),2021-05-14,45,5910.68,0
+184,Matthew,Torres,ydaniel@hotmail.com,45,Guernsey,2023-03-27,44,9989.13,1
+185,Michelle,Medina,oconnorjessica@hotmail.com,28,Namibia,2022-02-24,24,4947.44,1
+186,Daniel,King,mhoffman@atkinson.com,47,Zambia,2023-12-09,31,1571.09,0
+187,Christine,Peck,juan48@hotmail.com,18,Burundi,2024-10-18,25,5431.95,0
+188,Jennifer,Allen,carrjulie@pitts.com,64,Pakistan,2024-11-04,15,3516.73,1
+189,Cory,Baxter,kaylajones@williams.com,64,Iraq,2024-09-25,9,5563.98,0
+190,Benjamin,Torres,rking@white.com,34,Somalia,2023-04-23,41,5479.96,0
+191,Theresa,Daniel,shannon64@valencia.com,50,Saint Helena,2022-02-21,44,4607.91,1
+192,Amanda,Powell,albert33@yahoo.com,66,Canada,2020-10-17,0,3285.6,1
+193,Ronald,Guzman,ejames@mann.biz,29,Canada,2023-11-26,48,1967.66,0
+194,Debra,Johnson,bandrade@scott.com,50,Sierra Leone,2022-12-11,49,7005.23,0
+195,Lisa,Wood,chayes@mcdonald.com,24,Congo,2024-02-27,6,5760.8,1
+196,Anthony,Gomez,jenniferrussell@yahoo.com,58,Iran,2023-08-31,49,2412.27,1
+197,Isaac,Lozano,eric37@hotmail.com,37,Saudi Arabia,2025-04-08,27,7777.89,1
+198,Zachary,Zuniga,christopher58@sherman-williams.info,58,Andorra,2021-11-14,14,532.11,1
+199,Jeffrey,Webster,sparksmelanie@coleman.com,50,Singapore,2022-05-12,11,7472.58,1
+200,Amanda,Hammond,michael31@hester.com,56,Libyan Arab Jamahiriya,2023-06-09,44,7081.76,0
+201,Alexander,Stewart,christine29@hotmail.com,30,Estonia,2022-06-29,33,8132.95,1
+202,Valerie,Conway,shelby29@ryan.com,27,Lao People's Democratic Republic,2023-03-13,29,3922.18,1
+203,Larry,Thomas,pgraves@marshall.com,41,Iceland,2023-07-29,3,6670.52,0
+204,Adam,Sullivan,james07@morrison.com,66,Russian Federation,2023-07-15,35,8225.4,1
+205,Raymond,Graves,gaynathaniel@gmail.com,28,Saint Kitts and Nevis,2020-08-20,15,9810.1,0
+206,Kathleen,Miller,patrickwright@wang-blanchard.com,52,Benin,2024-01-24,7,5003.75,1
+207,Christopher,Martinez,carl96@scott.biz,67,Cape Verde,2025-04-21,29,466.49,1
+208,Sara,Hubbard,baldwinchristina@gmail.com,51,Equatorial Guinea,2021-05-05,8,5072.68,1
+209,Sheila,Johnston,moorejason@yahoo.com,18,United Arab Emirates,2023-10-29,29,5942.79,1
+210,Joseph,Conway,dana72@gmail.com,56,Bahamas,2024-12-20,42,8710.03,0
+211,David,Santiago,jeffrey70@carr.com,38,Sweden,2024-01-05,33,8754.48,1
+212,Holly,Hood,dwhite@hartman.com,49,Guam,2025-04-23,35,4459.03,0
+213,Monique,Holmes,hernandezanthony@yahoo.com,19,Colombia,2023-01-06,38,5306.92,0
+214,Wanda,Adams,tarazimmerman@gmail.com,25,Myanmar,2023-11-12,20,4623.59,1
+215,Rachel,Yates,shawcharles@gmail.com,41,Thailand,2023-02-02,48,7252.19,0
+216,Renee,Price,xcoleman@bell.biz,69,Mozambique,2023-02-09,28,4158.79,0
+217,Brittany,Perez,nicholaswatson@lopez-walker.info,37,Burkina Faso,2021-07-05,39,6582.34,0
+218,Krista,Green,tracy12@cardenas.info,33,Burkina Faso,2025-01-10,46,1628.18,1
+219,Sydney,Miller,thomas54@yahoo.com,21,Tanzania,2021-04-21,32,4747.96,1
+220,Matthew,Middleton,dianabowers@parker-smith.com,33,Palestinian Territory,2022-05-09,27,9695.12,0
+221,Heather,Castillo,wilcoxrussell@hotmail.com,54,Equatorial Guinea,2023-04-28,35,3451.76,0
+222,Sarah,Byrd,campbelldonald@peterson-smith.org,23,Congo,2023-07-16,28,6957.78,1
+223,Gary,Rogers,mistyparker@wolf-donaldson.com,23,Gabon,2024-09-20,10,6533.38,0
+224,Mary,Brown,johnsonmark@gmail.com,64,India,2021-12-08,47,8532.48,0
+225,Jennifer,Wolf,amartin@gmail.com,49,Tokelau,2022-10-05,30,8538.18,0
+226,Amy,Burns,vhicks@schultz.info,70,Turkey,2024-09-08,28,8607.49,0
+227,Frank,Shelton,davidaustin@mann-golden.info,22,Cote d'Ivoire,2024-07-11,16,3862.09,0
+228,Erik,Wu,mchandler@bradshaw.info,66,Lithuania,2024-10-19,48,3234.95,0
+229,Tyler,Rivera,msantiago@gmail.com,52,Guam,2023-08-03,15,7215.3,1
+230,Jason,Scott,laura60@yahoo.com,67,Liberia,2024-10-30,40,7618.08,1
+231,Clifford,Kennedy,tonilin@gmail.com,26,Germany,2023-02-22,17,8736.59,1
+232,Curtis,Mcguire,karen68@walker-abbott.info,26,Cuba,2022-02-20,49,455.4,0
+233,Joseph,Murphy,leah83@cross.net,60,Faroe Islands,2024-05-02,49,777.37,1
+234,John,Cunningham,karenwhite@gmail.com,48,Martinique,2023-03-12,33,6348.49,0
+235,Kenneth,Martinez,tholmes@edwards-graham.com,53,Switzerland,2022-08-07,31,9217.2,0
+236,Melissa,Good,harold89@sanchez-good.com,28,Oman,2022-09-23,40,9974.52,1
+237,Jocelyn,Huber,cmann@bailey-roach.com,34,Suriname,2025-06-29,15,7492.99,1
+238,Anna,Santos,ftownsend@yahoo.com,51,Estonia,2022-04-06,17,4396.32,0
+239,Kristin,Palmer,swansonralph@gmail.com,56,Niue,2023-10-30,28,1074.59,1
+240,Joseph,Olson,sandra75@miles-phillips.com,45,Guinea,2024-01-30,4,6374.1,1
+241,Gregory,Wells,daniel02@coleman-cochran.com,31,Thailand,2024-02-27,45,8738.53,0
+242,Sarah,Williams,gonzalezchristopher@gmail.com,52,Madagascar,2022-11-20,18,4492.42,0
+243,Douglas,Graves,andrew87@gmail.com,66,Norfolk Island,2021-02-25,15,6970.61,1
+244,Ricardo,Huynh,griffinbenjamin@watkins-reilly.com,64,British Indian Ocean Territory (Chagos Archipelago),2024-08-23,17,9043.9,0
+245,Billy,Valenzuela,rileyevans@wells.com,62,Paraguay,2021-03-06,21,555.31,1
+246,Michael,Flynn,steven37@yahoo.com,30,Brazil,2024-08-23,20,7981.82,1
+247,Rebekah,Morgan,yolanda25@gmail.com,63,United Arab Emirates,2020-08-25,34,3004.34,0
+248,Teresa,Aguirre,david41@spencer-weber.com,37,Azerbaijan,2021-08-27,5,3810.93,0
+249,David,Roy,lawrence45@long.com,43,Jordan,2022-11-10,8,1541.14,1
+250,Brian,Thompson,jonesterri@blanchard.com,60,Armenia,2025-04-05,9,5358.55,0
+251,Crystal,Hansen,zschultz@yahoo.com,59,Brunei Darussalam,2024-08-30,14,5702.69,1
+252,Tamara,Cline,mary47@yahoo.com,41,Congo,2022-08-26,24,7945.94,0
+253,Jill,Lopez,cherrera@davenport.info,46,Russian Federation,2022-10-02,44,1782.84,0
+254,Emily,Harris,smithalicia@fletcher.com,51,Congo,2022-01-19,9,881.79,1
+255,Laura,Butler,jonesmichael@gmail.com,46,Togo,2021-10-13,45,8721.31,0
+256,Dana,Avila,nholder@taylor-lopez.biz,25,Somalia,2024-03-09,13,6235.13,1
+257,Melinda,Bailey,pstokes@townsend-preston.com,33,Lebanon,2021-04-30,4,2484.21,0
+258,Nicole,Murray,denniserika@jackson-rodriguez.com,32,Belize,2024-06-25,26,9137.01,1
+259,Michael,Sanchez,robertodonnell@smith.com,22,United States Minor Outlying Islands,2022-02-01,26,1516.87,1
+260,David,Smith,adam76@gmail.com,39,Cocos (Keeling) Islands,2024-04-02,21,4665.38,0
+261,Sheena,Miller,zacharydavis@hotmail.com,19,Sierra Leone,2025-04-23,34,2614.38,1
+262,Alexander,Holland,laurenmoss@beck.net,55,Suriname,2024-11-22,29,2627.73,0
+263,Allen,Farrell,michaelperkins@kelly.com,53,Latvia,2024-03-13,26,193.03,1
+264,Brittany,Fernandez,mitchellmark@yahoo.com,32,French Guiana,2021-05-11,3,8065.87,1
+265,Jamie,Kemp,kyletrujillo@sheppard.info,55,Panama,2023-10-16,13,9021.97,1
+266,Wendy,Barber,tiffanyzamora@price-whitehead.info,32,Togo,2022-06-03,26,6808.35,0
+267,Sherri,Kennedy,roycarey@gmail.com,18,Belgium,2022-11-21,24,1663.96,0
+268,Jason,Anderson,cguerrero@chaney.net,22,Macao,2024-01-20,49,4473.12,1
+269,Summer,Dawson,kschroeder@pace.net,63,Gambia,2021-05-13,37,3521.1,0
+270,Daniel,Chavez,allison02@yahoo.com,58,Netherlands,2023-12-05,44,5916.96,0
+271,John,Davis,rachel18@hotmail.com,21,Palestinian Territory,2023-01-01,1,6425.49,1
+272,Daniel,Byrd,lindsaymatthews@aguirre.com,32,Cayman Islands,2024-08-30,48,4300.66,1
+273,April,Hayden,katherine22@bullock.com,22,Thailand,2023-12-26,36,2575.97,1
+274,Adam,Robinson,melissahamilton@yahoo.com,20,Kenya,2023-04-23,24,8468.51,0
+275,Sandra,Sanders,lambertkimberly@gmail.com,39,Suriname,2024-01-31,30,2072.25,1
+276,Mario,Bryant,daniellisa@gmail.com,22,Congo,2020-09-27,0,3908.46,1
+277,Nicholas,Garrett,fgonzalez@yahoo.com,50,Nicaragua,2025-04-21,22,4883.76,0
+278,Jared,Parks,jessica72@hotmail.com,33,Turkmenistan,2024-10-01,19,2448.34,1
+279,Thomas,Moses,bennettjames@yahoo.com,35,Sierra Leone,2022-10-16,48,5762.03,0
+280,Richard,Williams,christina00@hotmail.com,60,Cuba,2022-01-30,24,5790.64,1
+281,Elizabeth,Fletcher,charlesmartinez@mcgee-campbell.com,49,Central African Republic,2022-01-15,26,9927.65,0
+282,Brett,Stewart,grivera@davis.biz,31,Pakistan,2020-09-10,34,3022.78,1
+283,Tracy,Gonzales,xjohnson@yahoo.com,52,Qatar,2024-07-19,47,9781.65,1
+284,Amanda,Diaz,qjohnston@gmail.com,26,Somalia,2025-04-18,47,6616.48,1
+285,Amanda,Hayes,ysalinas@yahoo.com,64,Slovenia,2020-10-19,34,2817.36,0
+286,James,Mcintyre,mark47@hotmail.com,54,Turks and Caicos Islands,2024-11-23,38,5702.7,0
+287,Nicholas,Alexander,brookssteven@wilson-moreno.biz,54,Cyprus,2021-06-03,14,6889.41,1
+288,Robert,Roberts,cchang@yahoo.com,48,Saint Pierre and Miquelon,2024-10-30,31,7472.22,1
+289,Brandy,Lin,langkelly@yahoo.com,33,Guam,2023-10-31,14,585.54,0
+290,Jacob,Lynch,cperez@gmail.com,68,Croatia,2022-10-03,17,6103.42,1
+291,Anthony,Solomon,jonathan32@anderson.com,48,Malta,2023-03-20,27,5017.6,1
+292,Debra,Fuentes,sherriclark@ward-bush.com,69,Martinique,2020-11-26,31,9051.14,1
+293,Miranda,Castro,marquezjose@hotmail.com,44,Czech Republic,2022-12-07,1,2933.32,0
+294,Michelle,Ewing,vegabecky@patterson-harris.com,30,Swaziland,2022-05-29,24,8008.72,0
+295,Sabrina,Hale,aliciahunter@hotmail.com,24,Micronesia,2024-07-30,21,6109.94,1
+296,Kevin,Petersen,samuel80@salinas.info,24,India,2025-01-20,42,3587.98,0
+297,Chad,Howell,cperkins@brown-wall.com,60,Czech Republic,2025-05-23,43,6402.52,1
+298,Carl,Willis,seth42@yahoo.com,45,Ecuador,2023-03-31,25,6246.82,0
+299,James,Ramos,jason83@yahoo.com,40,Palau,2025-06-18,46,6809.87,1
+300,George,Tucker,choiangelica@yahoo.com,45,Liberia,2023-01-24,10,7237.19,1
+301,Dana,Rodriguez,henryduncan@hotmail.com,44,Andorra,2022-08-30,29,6625.9,0
+302,Annette,Gonzalez,lkeller@mitchell.com,47,Micronesia,2021-08-14,8,8399.54,1
+303,Bob,Green,lori56@hotmail.com,64,Faroe Islands,2022-08-08,39,6319.66,1
+304,Martha,Myers,russell79@gmail.com,21,United States Virgin Islands,2023-08-23,34,9043.7,0
+305,Cody,Duarte,brandon10@lawson.com,61,Poland,2023-12-10,1,6498.77,0
+306,Austin,Aguilar,robinsonvalerie@hotmail.com,59,Uzbekistan,2025-02-03,25,3158.44,1
+307,Jennifer,Juarez,ashleyrebecca@woodard.net,59,Belize,2021-04-20,37,4464.15,0
+308,Barry,Dean,phillipmiddleton@hotmail.com,24,Niger,2024-01-19,36,5837.78,0
+309,Stefanie,Ellis,stephaniekim@bridges.com,21,Saint Helena,2022-08-11,42,7350.36,0
+310,Lisa,Rodriguez,osanders@yahoo.com,43,Belarus,2022-10-18,1,992.32,1
+311,Douglas,Thomas,oferguson@price-atkins.com,64,Cook Islands,2023-11-01,5,3021.59,0
+312,Brian,Burke,nwest@jacobs-lewis.com,39,Malawi,2023-05-05,41,7500.06,1
+313,Gregory,Turner,fryeadrienne@johnson.com,69,Japan,2024-02-15,27,1838.84,0
+314,James,Schmitt,danielle76@gmail.com,24,Cuba,2022-10-08,8,1408.38,1
+315,Garrett,Smith,johnsondouglas@hotmail.com,33,United States of America,2021-06-20,29,5440.14,1
+316,Alicia,Bradshaw,tanyalawrence@gonzalez.com,30,Jersey,2022-01-13,11,9717.75,0
+317,Kimberly,Lewis,fthornton@yahoo.com,30,Iceland,2022-02-26,3,5355.44,1
+318,James,Brooks,sallen@yahoo.com,52,Gibraltar,2020-08-04,16,9143.52,1
+319,Regina,Garcia,patrickparker@glass-hull.com,46,Central African Republic,2022-05-21,24,8321.68,0
+320,Tammy,Hernandez,caldwelldouglas@powell.biz,26,Bangladesh,2024-11-25,20,2644.0,0
+321,Jennifer,Ruiz,gmorales@clark-goodwin.com,45,Christmas Island,2022-02-17,13,8264.43,1
+322,Paul,Carson,eric75@hotmail.com,29,Czech Republic,2024-04-25,29,4870.29,0
+323,Adriana,Bryant,rodriguezmark@lawson-hogan.com,35,Egypt,2022-05-23,20,8084.24,0
+324,William,Diaz,brian43@mejia.com,47,Palestinian Territory,2023-01-13,21,7490.94,1
+325,Jack,Cooper,shane50@wilson.info,33,Slovakia (Slovak Republic),2022-02-15,48,3453.28,1
+326,Alyssa,Palmer,kayla84@taylor-molina.biz,22,Suriname,2025-04-27,24,1240.18,1
+327,Brandi,Lawrence,torozco@young.com,46,Dominican Republic,2022-02-07,17,9632.64,0
+328,Jill,Burns,garciakatie@hotmail.com,69,Puerto Rico,2022-04-23,48,1493.49,1
+329,Jose,Johnson,yferguson@gmail.com,53,Gibraltar,2022-12-17,26,9668.35,0
+330,Charles,Jones,rvelazquez@gmail.com,24,Belize,2021-07-09,16,8615.39,1
+331,Jennifer,Cole,lhendricks@james.com,21,Congo,2024-01-30,5,7269.75,1
+332,Adam,Taylor,lweiss@yahoo.com,59,Senegal,2021-03-03,30,9801.43,1
+333,Victoria,Moore,wthompson@yahoo.com,52,Saint Lucia,2021-09-02,1,9675.97,1
+334,Christine,Bennett,christopher28@yahoo.com,18,Morocco,2024-07-27,47,8065.42,0
+335,Kelsey,Lang,vzimmerman@pittman.com,23,United Kingdom,2023-07-23,34,3721.17,0
+336,Tiffany,Giles,mayscott@yahoo.com,66,Antarctica (the territory South of 60 deg S),2021-06-14,3,7927.75,0
+337,Tommy,Santos,jason59@yahoo.com,33,Uzbekistan,2022-07-07,22,237.79,0
+338,Janet,Cunningham,charlesknapp@hotmail.com,28,Honduras,2022-12-31,14,5412.07,0
+339,Taylor,Smith,nicholas86@morrison.com,44,Bolivia,2024-04-11,41,4602.38,1
+340,William,Martin,christina31@gmail.com,49,Moldova,2024-10-27,4,6761.0,1
+341,Tiffany,Roberts,nmcclure@gmail.com,48,Iraq,2024-04-23,49,6756.17,0
+342,Annette,Bailey,daviskristina@martinez-campbell.com,31,Nigeria,2023-06-10,41,5887.14,0
+343,Brandon,Leon,kimberly91@brooks.biz,43,Netherlands,2020-12-07,2,8241.93,1
+344,Lisa,Miller,danahenry@kennedy.net,21,Zambia,2024-02-16,48,9408.89,0
+345,Monica,Phillips,reynoldsashley@gmail.com,28,Belize,2021-09-30,1,1172.63,0
+346,James,Cooper,kristen79@hebert.com,42,Denmark,2021-12-29,15,2414.84,1
+347,Matthew,Watkins,bakermichelle@hill.com,18,Tonga,2025-03-25,12,347.74,0
+348,Adam,Dunlap,stevenstone@donovan.com,42,Andorra,2022-07-14,1,8853.92,0
+349,David,Mcdaniel,swilliamson@hotmail.com,34,United States of America,2021-07-21,39,5657.93,0
+350,Kenneth,Joseph,latasha86@hotmail.com,68,France,2021-05-13,9,9161.03,0
+351,James,Hansen,kgreene@hanson.info,68,Guinea-Bissau,2021-08-28,15,2291.54,0
+352,Margaret,Harrison,yangamy@monroe.com,47,Mauritania,2023-02-13,8,725.85,0
+353,Jacob,Tapia,carolinemoss@gmail.com,36,Saint Pierre and Miquelon,2022-11-29,30,8256.17,1
+354,Kim,Flowers,jdavis@anderson.net,45,Algeria,2021-12-09,42,9102.94,0
+355,Alan,Hartman,ajones@todd-marsh.com,62,Singapore,2022-02-28,7,3091.68,0
+356,Andrew,Diaz,austinblack@hotmail.com,64,Saint Martin,2022-11-10,36,4142.13,0
+357,Jesse,Harrison,zhoward@yahoo.com,68,Pakistan,2024-02-21,13,1483.79,0
+358,Joshua,Hays,wkrueger@yahoo.com,53,Taiwan,2025-01-09,29,9467.99,1
+359,Ruth,Hernandez,eric72@moyer.com,60,Korea,2023-06-21,44,3113.21,0
+360,Hannah,Mccoy,csalinas@hotmail.com,63,Canada,2024-08-21,16,4976.98,1
+361,Kelly,Ramos,jamie66@mcguire.com,49,Finland,2022-01-30,49,1062.2,0
+362,Yesenia,Oneill,chapmanrobin@george.info,27,Monaco,2021-11-30,23,8883.87,1
+363,Tonya,Hughes,johnsoneric@short.info,30,Libyan Arab Jamahiriya,2023-12-23,10,1443.07,0
+364,Tara,Newton,harrissarah@rangel.com,36,Wallis and Futuna,2025-03-26,38,4591.07,0
+365,Marc,Anderson,pwoodward@yahoo.com,31,Nicaragua,2023-11-13,38,6737.81,1
+366,Ebony,Dawson,cantrelljulie@thomas-cummings.org,21,Saint Vincent and the Grenadines,2021-01-15,47,7457.09,1
+367,Chelsea,Sexton,amiller@hotmail.com,55,Mongolia,2022-09-04,45,9465.14,0
+368,Glenn,Johnson,veronica53@carter.org,65,Uruguay,2021-07-04,7,4249.35,0
+369,Katie,Burton,gmiller@jones.org,52,China,2021-12-22,49,7448.46,0
+370,Brandon,Morales,gmiller@dawson.biz,21,Mayotte,2023-03-04,10,1629.78,0
+371,Andrea,Smith,karensmith@stark-ellison.net,65,Northern Mariana Islands,2020-10-02,19,4207.36,0
+372,Christina,Lopez,moralesbruce@yahoo.com,38,Tuvalu,2020-08-13,6,1080.31,1
+373,Andre,Chandler,hallen@yahoo.com,21,Dominican Republic,2025-04-21,37,4944.54,0
+374,Nicholas,Mccoy,anna52@blankenship.com,21,Panama,2021-07-14,1,4140.35,0
+375,Kevin,Sampson,bernardmarc@hotmail.com,55,Marshall Islands,2022-05-29,19,9520.06,0
+376,Gary,Brady,imiller@hotmail.com,48,Mali,2023-08-08,36,423.89,1
+377,Cody,Chandler,melissacox@hughes.com,50,Guyana,2024-08-27,43,3768.25,0
+378,Dustin,Perez,mark92@turner-diaz.com,51,Nepal,2023-12-05,24,4489.49,0
+379,Robert,Contreras,rodney56@gmail.com,28,Mozambique,2024-02-16,25,9510.5,0
+380,Jason,Lopez,james12@brewer.net,21,Lebanon,2022-07-11,45,8568.96,1
+381,Alejandra,Hernandez,brittanywatkins@alvarez.com,50,Micronesia,2022-02-02,12,1083.61,1
+382,Amy,Gonzalez,harperscott@yahoo.com,23,United States Virgin Islands,2023-03-24,4,6888.23,0
+383,David,Baldwin,kimberly19@roy.com,29,Guinea,2021-07-25,37,5490.21,0
+384,Shelia,Turner,nwatts@gmail.com,22,Cambodia,2023-12-25,44,9780.64,1
+385,Monica,Martin,moorejorge@gmail.com,56,Eritrea,2022-01-20,40,3650.87,1
+386,Laura,Weber,hannah91@wilson.info,22,Guatemala,2024-06-07,15,4041.58,1
+387,Edward,Haas,marcbrooks@hotmail.com,61,Chad,2022-06-14,6,1979.1,0
+388,Daniel,Lopez,sean65@gmail.com,33,Egypt,2022-04-03,44,1309.38,1
+389,Kimberly,Barajas,tiffanywhite@butler-kim.net,43,Holy See (Vatican City State),2021-05-07,49,8495.53,1
+390,Kevin,Jefferson,courtney48@dickson.net,25,Oman,2023-10-11,19,4601.7,1
+391,Mark,Haley,nicoleenglish@hotmail.com,54,Madagascar,2023-06-29,43,6661.41,1
+392,Kaitlyn,Richard,ywagner@walker.com,33,Nepal,2022-09-27,38,6452.87,0
+393,Jennifer,Fisher,mitchellfischer@gmail.com,55,Turkmenistan,2024-03-29,7,6011.74,0
+394,Ricky,Davis,yguzman@hotmail.com,56,Canada,2024-02-16,50,311.44,0
+395,Elizabeth,Ashley,ljuarez@jones.com,20,Bhutan,2024-01-14,36,7889.27,1
+396,Shannon,Dunn,christopher33@yahoo.com,57,Palau,2021-03-31,50,2511.33,1
+397,John,Cook,patrick67@hotmail.com,23,Guernsey,2021-06-21,2,1346.65,0
+398,Jennifer,Gray,bryan99@clark.com,44,San Marino,2021-02-21,22,5689.32,0
+399,Jennifer,Castro,peterssteven@hotmail.com,60,Reunion,2022-06-08,34,779.24,0
+400,Connie,Mcknight,novaklinda@rodriguez-miller.com,55,United Arab Emirates,2023-08-13,27,7675.06,0
+401,Christopher,Meyer,robinsondylan@smith.net,54,Maldives,2024-09-03,42,2150.86,1
+402,Tyler,Norman,danielschmidt@roberts.com,51,French Polynesia,2024-09-28,23,2237.92,1
+403,Stephanie,Melendez,jacob57@davis.com,38,Cook Islands,2020-12-28,4,8709.98,0
+404,John,Day,andersonjason@davis-baldwin.com,34,British Indian Ocean Territory (Chagos Archipelago),2021-04-09,32,3352.74,0
+405,Katherine,Hardin,curtis81@garcia.com,31,Guatemala,2024-11-23,41,1560.79,0
+406,Shari,Webster,oshelton@hotmail.com,60,Guinea,2021-11-22,21,9015.26,0
+407,Kimberly,Jones,elizabethhess@zimmerman.com,63,Somalia,2023-02-26,0,128.07,1
+408,Corey,Cook,ronald70@moreno.com,38,Chile,2021-10-05,26,8598.22,1
+409,Anthony,Nelson,chris36@gmail.com,33,British Virgin Islands,2023-09-24,31,1532.41,1
+410,Frank,Marsh,wpowell@gmail.com,34,Lebanon,2024-11-26,6,1386.92,1
+411,Eric,Gordon,chapmandawn@garrett.com,43,Ukraine,2023-10-29,27,2581.48,0
+412,Christopher,Ramsey,curtischapman@yahoo.com,26,New Zealand,2024-02-18,23,1827.52,0
+413,Sara,Coleman,wjackson@gomez-mcneil.com,60,Guatemala,2022-08-14,40,6644.47,1
+414,Julie,Owen,brandonmarks@hotmail.com,59,Heard Island and McDonald Islands,2021-07-25,29,355.22,0
+415,Danny,Hayes,uchapman@gmail.com,37,Indonesia,2023-06-17,45,247.12,0
+416,Steven,Larson,uowens@gonzales.biz,47,French Southern Territories,2021-02-20,9,7920.85,0
+417,Christopher,Taylor,hallsuzanne@adams.com,38,Wallis and Futuna,2023-03-24,27,2455.52,1
+418,Christopher,Hoffman,stewarttracy@gmail.com,66,Korea,2025-05-22,11,3305.34,0
+419,Danielle,Villanueva,nicolereese@gmail.com,22,Reunion,2022-11-09,46,1825.04,0
+420,Susan,Saunders,xvelasquez@walker.com,18,Turkey,2021-02-27,33,618.75,1
+421,Jeanette,Williams,zgrimes@yahoo.com,47,Tunisia,2021-01-24,41,7443.01,1
+422,Cynthia,Jones,morgandanielle@lawrence.com,57,Tanzania,2022-06-01,17,5308.25,1
+423,Frank,Smith,coleemily@rodgers-miller.org,54,Moldova,2025-02-14,39,7482.09,1
+424,Dennis,Glenn,robinsanford@smith.org,24,Oman,2023-10-07,34,4814.84,0
+425,Elizabeth,Carr,douglas52@evans.com,22,Uruguay,2024-08-08,49,7802.37,1
+426,Tyrone,Jones,penalarry@gmail.com,52,Congo,2022-06-03,30,5181.06,0
+427,Paul,Sheppard,yolandawest@foster-baker.com,31,Sao Tome and Principe,2022-12-20,29,1179.63,1
+428,Erica,Simmons,mitchelllisa@gmail.com,50,Panama,2022-04-25,27,5088.0,0
+429,Erin,Wolf,wilcoxkenneth@figueroa.info,34,Lesotho,2022-02-11,46,9459.61,0
+430,Shane,Smith,michael17@yahoo.com,26,Suriname,2023-10-13,37,529.31,1
+431,Andrea,Hubbard,olarson@hotmail.com,40,Saint Vincent and the Grenadines,2023-02-13,17,7853.95,0
+432,Sylvia,Clayton,bmiller@ryan-ford.com,22,China,2022-08-26,20,8683.11,0
+433,Aaron,Gonzalez,hbrown@gmail.com,33,Thailand,2023-05-11,15,5262.37,1
+434,Denise,Fuller,colemanjacob@kelley.org,41,Christmas Island,2023-10-23,5,4634.62,1
+435,Christopher,Black,bcarter@gmail.com,36,Solomon Islands,2023-07-25,17,9643.86,0
+436,Nicholas,Duncan,hsmith@gmail.com,28,Honduras,2025-05-31,28,702.17,1
+437,Michelle,Hodges,wevans@yahoo.com,46,Morocco,2023-03-20,15,4841.92,1
+438,Stephanie,Wood,cindy53@mccarty.com,52,Heard Island and McDonald Islands,2021-04-21,48,4076.01,1
+439,Scott,Miller,chavezregina@burns.com,63,Northern Mariana Islands,2021-01-08,29,6892.37,1
+440,Mary,Gilbert,john16@sharp.com,37,Liberia,2023-11-10,36,4953.66,1
+441,Samantha,Garcia,kaylabrooks@yahoo.com,57,Ecuador,2021-01-10,39,9106.04,0
+442,Briana,Cox,mitchellshelby@dickerson.net,69,Bahamas,2023-04-07,42,827.56,1
+443,Rebecca,Lowery,cstanton@herrera.com,59,Cayman Islands,2022-10-26,24,899.83,0
+444,Bryan,Krause,cdixon@wright-calderon.com,51,Swaziland,2023-12-05,21,6122.14,0
+445,Linda,Fields,william71@gmail.com,18,Korea,2023-03-10,1,750.25,0
+446,Susan,Boyd,erica81@austin.net,60,Tokelau,2022-11-21,31,2822.66,1
+447,Joseph,Willis,xandrews@sanford.org,70,Heard Island and McDonald Islands,2020-07-15,20,6367.46,1
+448,Dan,Coleman,thompsontrevor@austin.com,53,Reunion,2025-07-06,11,5528.73,1
+449,Ashley,Ramirez,michaelsmith@gmail.com,37,Mauritania,2020-10-10,31,3319.34,0
+450,Rachel,Obrien,joshuaortiz@west-edwards.com,60,Pakistan,2021-09-21,13,9946.81,0
+451,Gregory,Rivera,aaronweaver@white.com,24,Ukraine,2021-10-09,22,5352.51,0
+452,Michael,Sanchez,hornekaren@yahoo.com,26,Isle of Man,2021-02-13,16,4591.78,0
+453,Michael,Larson,carrollgloria@gmail.com,34,Maldives,2021-09-10,21,6093.73,0
+454,Mark,Taylor,gdecker@hotmail.com,25,Jordan,2024-11-29,17,1081.87,1
+455,Sean,Evans,james61@yahoo.com,24,South Georgia and the South Sandwich Islands,2024-11-14,38,7047.62,1
+456,Erika,Villanueva,aaronbeck@coleman.com,65,Tunisia,2024-09-21,44,8542.65,0
+457,Holly,Gutierrez,damonjenkins@yahoo.com,53,Ecuador,2024-05-06,17,6544.07,1
+458,Stephen,Grimes,kristinasteele@gmail.com,27,Guatemala,2021-09-20,35,7712.73,0
+459,Rachel,Ferguson,erin88@green.com,35,Korea,2025-04-02,0,7236.32,0
+460,Matthew,White,michael90@wood.org,36,Micronesia,2020-08-15,33,2228.73,0
+461,Ronnie,Patel,davidharris@obrien.info,56,Tanzania,2021-03-15,12,4570.39,1
+462,Monica,Yu,danielle65@yahoo.com,31,Uruguay,2024-11-02,5,2362.09,1
+463,William,Martinez,deborah22@hotmail.com,63,Zambia,2024-03-22,15,3455.42,1
+464,Kaitlin,Reynolds,marshrodney@gmail.com,39,Mozambique,2022-05-30,46,4589.64,0
+465,Timothy,Murray,hunttanya@gmail.com,31,Zimbabwe,2021-10-02,26,4218.3,1
+466,Lisa,Perry,joshua92@gmail.com,61,Panama,2022-08-19,31,1041.35,1
+467,Raymond,Pope,kayla77@smith-hernandez.info,58,Honduras,2024-05-07,35,4324.96,1
+468,Christopher,Bush,robert72@jordan-velasquez.info,34,Portugal,2024-11-04,48,6684.57,0
+469,Mark,Robbins,kyle37@brown.com,50,French Polynesia,2020-10-07,15,3805.58,1
+470,Michael,Baldwin,mccallmegan@hotmail.com,49,South Africa,2023-08-25,44,1611.13,1
+471,Chelsea,Hawkins,erinnguyen@hotmail.com,34,Czech Republic,2023-04-27,30,9237.55,0
+472,Ernest,Alexander,henrymurray@yahoo.com,21,Belarus,2024-01-12,41,764.62,1
+473,Laura,Brown,kyoung@yahoo.com,23,Iraq,2024-07-24,45,8334.54,0
+474,Sandra,Phillips,garciadaniel@robbins.com,58,Saint Lucia,2022-08-29,31,1022.98,0
+475,Lauren,Martin,lphillips@morales.net,45,Mexico,2022-10-06,28,1055.99,1
+476,David,Patel,jeffreyrobinson@gmail.com,35,Guyana,2025-01-17,50,7414.08,0
+477,Christine,Hood,leslie07@copeland.biz,20,San Marino,2023-07-18,1,8136.52,1
+478,Patricia,Orozco,ronald77@yahoo.com,18,Lithuania,2022-09-25,5,5608.07,0
+479,Donna,Rivera,chavezbrandi@hotmail.com,39,Solomon Islands,2023-11-10,18,5906.0,1
+480,Bryan,Dickerson,dakotadyer@gmail.com,67,Korea,2025-07-04,14,5659.71,0
+481,Ricky,Oneal,vanessaanderson@vincent-olson.com,26,Turks and Caicos Islands,2022-09-03,25,3363.5,1
+482,Rebecca,Gonzalez,rick80@hess.com,58,Hong Kong,2025-07-03,44,1310.09,1
+483,Amy,Hayes,cindy91@meza.com,34,Brunei Darussalam,2023-05-29,15,3600.62,1
+484,Anne,Duncan,margaretreynolds@weaver.com,28,Qatar,2021-01-02,19,6686.87,1
+485,Robert,Hebert,rebecca22@hotmail.com,65,Morocco,2021-02-15,42,7527.81,0
+486,Stephanie,Rios,qduffy@gmail.com,46,American Samoa,2020-10-02,37,8694.11,1
+487,Victoria,Taylor,william62@harrison.org,53,Niue,2023-05-30,23,7238.5,1
+488,Linda,Bell,david03@owens.com,63,Wallis and Futuna,2025-07-03,30,9687.15,1
+489,Andrew,Rodriguez,murphynicholas@osborne-espinoza.com,45,Pitcairn Islands,2021-07-21,35,6044.06,1
+490,Robert,Fischer,paul98@hotmail.com,53,Liechtenstein,2024-10-05,33,3581.3,0
+491,Lauren,Rodriguez,michael66@mays.com,18,Eritrea,2022-09-02,22,5821.39,1
+492,Ryan,Harris,newmanamy@davis-rodriguez.com,25,Yemen,2023-09-30,27,2206.11,0
+493,Mike,Mullins,dawnadkins@yahoo.com,22,Lithuania,2025-06-21,47,6601.69,1
+494,Luke,Jackson,debra96@yahoo.com,62,Mauritania,2022-06-28,35,2320.02,0
+495,Jerry,Flores,alexandra00@yahoo.com,27,Iceland,2023-05-20,21,1171.36,0
+496,John,Boyd,lbarton@yahoo.com,52,Mozambique,2022-07-02,22,8469.2,0
+497,Carol,Mcguire,larrydavis@yahoo.com,20,Netherlands,2021-01-13,44,3738.85,0
+498,Patricia,Hurst,imills@hotmail.com,41,Micronesia,2024-01-01,29,7649.8,1
+499,Samantha,Phillips,johnsonanne@lopez.com,55,China,2020-10-24,17,5783.59,0
+500,Joseph,Hicks,christine23@yahoo.com,53,Sudan,2024-12-12,19,8091.49,0
