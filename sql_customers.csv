@@ -1,4 +1,4 @@
-customer_id,first_name,last_name,email,age,country,signup_date,total_orders,total_spent,is_active
+customer_id,sohel_name,last_name,email,age,country,signup_date,total_orders,total_spent,is_active
 1,William,Oconnell,karen57@morris-perry.net,58,Saint Lucia,2023-10-17,9,2588.9,1
 2,John,Miller,tanya82@gmail.com,25,Sierra Leone,2025-06-11,27,1294.49,0
 3,Alexandra,Jackson,ericwright@hotmail.com,19,Falkland Islands (Malvinas),2020-09-13,8,2006.58,1
