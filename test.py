@@ -1,6 +1,5 @@
 print("sohel")
-<<<<<<< HEAD
-#this change from feature_branch2
-=======
+
+#this change from feature_branch
+
 # this for branch learnig
->>>>>>> feature_sohel_branch
