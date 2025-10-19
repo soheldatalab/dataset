@@ -1,0 +1,1001 @@
+order_id,customer_id,order_date,product_category,order_amount,order_status,city,state
+9f0de40c-484c-4be3-a7ff-2afe5769814c,b386f8fb-17e8-4a59-bc4d-8674688b513d,2025-03-21,Home & Kitchen,466.74,Cancelled,Evansside,Indiana
+b3a4915f-1d00-49f3-bca1-11aedae7ed5b,278387f3-6bc1-4e04-8d60-ae18c2f590b7,2024-09-29,Sports,286.92,Delivered,New Carolynborough,Wyoming
+89000aeb-eed1-41e1-b65d-59bc4058f62e,ff9ebdc6-d143-4766-b6da-5e9e72541c41,2025-05-02,Books,351.36,Delivered,Bryanville,Nebraska
+fc4bcfe9-9f06-4d9e-95f4-e4ba3695ccf2,36489412-fa1a-4819-84ed-76ecdd6aa5bf,2024-10-07,Sports,462.02,Cancelled,Martinezfort,South Carolina
+774157e9-5ae6-4b7b-a0fd-331b5a2acd54,93102383-d7ef-49d2-b889-caf731e76c3b,2024-11-18,Sports,356.55,Returned,Amystad,Mississippi
+f2cebc48-8d9a-4579-a2d1-e181c908d06d,5bc69030-8113-49fe-9077-d626836c4601,2025-05-11,Clothing,84.74,Cancelled,Steeleshire,Kansas
+d2976d53-d1e2-4a8e-9641-1e485108e943,3cbb6e4b-8706-4b01-b7df-764db4628c75,2025-05-14,Books,292.38,Returned,West Julie,North Dakota
+80e21a9b-b84f-4a5f-85b0-8bac019b2143,fa47ad54-edc9-4cff-9a62-d104f46818b0,2024-11-28,Books,307.29,Delivered,Tylermouth,Colorado
+c92db0e8-ccb8-49ea-9ca7-23bf773c7387,642a4b6d-c607-4702-baac-b4e8011a66a2,2024-08-13,Books,217.82,Delivered,Levinehaven,Hawaii
+28ff1dd9-4930-4122-b31c-984481cc0f71,efb1f6d0-5bb6-4c41-884a-5870410648d9,2024-09-27,Sports,370.86,Returned,Smithmouth,Washington
+cbefa489-d452-4ab7-849c-472219f34438,c29cf3ff-1c4a-46a7-a327-b381adb68f2b,2025-05-24,Home & Kitchen,467.84,Delivered,South Andrew,Alabama
+56961dd4-862f-4ba1-bbf8-4b66d14eab67,a0690faf-ee60-4880-aa21-cd6531fbc207,2025-03-07,Books,463.53,Returned,Port Rodneyfort,South Dakota
+551c6789-b1a4-4aaf-81ba-86b1eb525ad3,dcb75725-ac0b-482d-af14-698dfdffae3a,2025-04-12,Sports,230.91,Shipped,East Tammymouth,South Carolina
+39af5add-8c79-4a31-bc68-bc0986acf441,b57c2c94-d545-41e6-af21-7d8198177b51,2024-11-28,Clothing,65.49,Cancelled,South Michaelstad,Nevada
+f87df950-6a1a-4217-bcc9-51c0720d3090,40405989-08be-4475-a0ef-eb5a777c26df,2025-04-23,Home & Kitchen,492.57,Shipped,Patriciafort,Texas
+7140fbf1-0ab8-4cd2-a46d-08f1ecb2e325,1adafaf0-6565-4efa-953b-8f9665475890,2024-09-13,Clothing,421.06,Returned,East Stevenville,Mississippi
+0c45f9d6-e19e-4b85-9f40-c9b5b6640f8d,973c13c4-f155-4945-bfc9-40f4f66732ce,2025-02-28,Home & Kitchen,71.08,Cancelled,North Anthony,West Virginia
+96438da6-808c-49d0-ae6a-ba67bb58df57,4701e28c-ad16-468f-89b6-0ab8f941eb19,2024-09-24,Sports,461.21,Returned,Lake Teresa,West Virginia
+36ff8172-f5b3-4558-991c-6449e5e7dcfa,6bcc2d34-ad23-4543-8154-b1f591d79cbe,2024-08-23,Electronics,436.25,Cancelled,Munozside,Tennessee
+cfb6d4af-2308-49a6-8047-bfd878426c4e,30a6a176-3b12-4191-a9a2-5868a5bf9b83,2025-05-24,Home & Kitchen,264.23,Cancelled,West Alex,Wisconsin
+b5864417-e2c7-4598-b6ea-d67ee75e3b33,e00ad79b-2e89-459f-9ca6-5d325506b096,2025-06-05,Clothing,299.72,Cancelled,Thompsonland,New Jersey
+ebd09030-0524-41ff-85e7-58c00b7c3d39,eb4f54fa-b5bd-478f-a6be-408653036075,2025-05-07,Sports,205.51,Cancelled,Mckinneychester,Pennsylvania
+78f1fefd-7570-4f5c-a1bc-bfb551d3c731,6a19f164-88c5-4a27-8dbb-793c76c5472f,2024-09-03,Home & Kitchen,36.83,Returned,Levinehaven,Virginia
+984c2ee8-2f8d-4631-804b-9c10b616e721,4eaebbb7-e1f8-4b27-9889-37e06fefc724,2025-02-28,Electronics,174.25,Cancelled,Lake Crystal,Idaho
+fdef4302-c3f3-49d4-8335-51ac2944e3ed,68f8437d-d8c0-41c3-8105-83da2096f9d3,2024-10-02,Electronics,403.4,Cancelled,Michaelfort,Tennessee
+9021ba9b-9590-4d4c-8d26-1d171c1cbe83,da11bc91-986e-449f-9d3b-cb64d87e4b80,2024-11-16,Books,12.27,Shipped,Sarahshire,Colorado
+85d418af-9f59-45b3-ad04-910e31cb4b12,e0dfc6cf-6fc3-4e78-9b57-444d370a60e7,2025-02-09,Books,173.41,Delivered,Chanmouth,New Hampshire
+2c456994-2b28-4d65-b886-c6724863b23f,1b94aeb8-d76c-4c2e-8334-b648c960aa72,2024-09-19,Clothing,205.1,Delivered,Lake Lisa,Alabama
+ff968de1-0207-49c7-bf21-4404dbf15cd3,8d381efd-b688-4e04-b0bf-97f655fa6696,2025-01-25,Home & Kitchen,273.32,Shipped,Websterchester,South Carolina
+f6606754-133f-4d4e-9b36-3763dc6c0545,e1218f95-7f70-4543-ad7d-d212594ca4cd,2025-03-08,Home & Kitchen,460.73,Shipped,Crystalchester,Massachusetts
+e32663df-776e-4397-8086-9e34540e825e,35fdf3a2-7e27-437f-9ddc-4a7ad1ddc2a3,2025-04-05,Books,179.71,Returned,Jasontown,West Virginia
+d6ca5384-e392-4889-b23f-c8aa4a26fdbb,70e2d42f-cdc1-4ef1-9130-80732ee59dd3,2024-08-15,Home & Kitchen,180.01,Returned,Padillaberg,Nevada
+dac1eff8-59f3-402a-8845-f4a823e048a3,ad4da490-caeb-4318-8ff8-b0e9357d7c66,2025-07-25,Home & Kitchen,371.38,Returned,Lake Jason,Oregon
+a9674691-cdb1-44ad-92aa-df27493c0f1d,9e3e88cf-deac-465f-9bd8-a187f0892408,2024-10-22,Electronics,231.59,Shipped,Newmanland,Maryland
+93f454d7-f7ff-48af-b60c-a15447680310,10867996-6d6f-4539-9eaf-27a986e06e14,2025-01-09,Books,120.06,Shipped,East Jamieside,Idaho
+aa7cd997-2e33-4c27-808d-0d6be9385f82,680fe0eb-0ce8-4422-b575-a110c5a06e86,2025-05-28,Sports,231.7,Cancelled,Port Robert,Wyoming
+43caf23e-d118-4f71-a5d1-bd6ab78e8244,60891906-98e9-483e-a893-13f8f670ab21,2025-01-24,Books,79.02,Returned,Carlsonville,Florida
+5b1bebdd-ad0e-4097-aa89-415a8eb3ceb0,79b6db3e-a3f9-420e-ac5f-bada1b5b5b45,2025-07-02,Sports,96.43,Returned,South Brandi,West Virginia
+27439228-92db-4376-96a5-d8e689aae939,d34d4b28-444d-40e7-9547-470fae28160b,2025-07-11,Electronics,254.2,Returned,Port Betty,Utah
+de005d76-ec39-4be6-bbe2-7983550bdcea,0fef2dbd-56e4-4e3e-b08d-0e5a2e21d041,2024-08-15,Clothing,215.27,Delivered,Williamland,Tennessee
+84ab19a5-48b8-497b-904d-dbf56148377a,d6e24649-9971-4a60-9c7a-e09535f57e22,2024-11-30,Home & Kitchen,458.27,Cancelled,Franklinburgh,Ohio
+7fe9149d-cc74-4cdc-abc4-8fb3cdf9f83e,96cb5dd5-d66b-4c44-be5a-8188778a7f02,2024-09-01,Electronics,187.57,Returned,Nicoleborough,Arizona
+e3ac0945-3f05-412e-8bfa-8b3b6578dc95,5c736b76-dcf3-4f18-8943-2987d6af428d,2025-04-18,Home & Kitchen,294.49,Returned,Blackport,Illinois
+cb629477-f3a1-4df2-b869-e7599b9c0f7e,15289884-27ac-45a3-9103-dc32d6c12ebf,2025-03-27,Clothing,319.81,Returned,Angelabury,Kentucky
+415dcd44-6b8a-4b08-93bc-2526dfbb8320,82758dc9-3955-47f5-8eb1-4ba2042fb0a1,2025-03-22,Clothing,16.42,Delivered,Calvinchester,Arizona
+6798d044-efdb-4e2b-866e-8d8634602404,2579a1d6-f6bd-4fac-a2b8-6e234ef313da,2025-07-20,Electronics,335.13,Delivered,New Dominique,Virginia
+ad8e7e7c-1db8-4be1-93ab-9c502af155fd,5b1fa4b4-2819-4331-b881-66100332503f,2024-08-10,Clothing,97.24,Shipped,East Peggy,Maine
+3ebec3d2-325b-4108-8c97-fa8efb5fa1ab,7ed02318-cd18-4a12-ae71-6aed7e0855d3,2024-09-10,Sports,480.92,Cancelled,New Candace,Missouri
+6b85cf03-777b-4de1-be8f-e7761d82fce8,de637094-c2be-4e3f-9a16-6af4df0147d6,2024-09-30,Clothing,82.84,Shipped,Austinville,Maryland
+46bf4a90-0fff-4ea6-bd2c-3feb966e4c4a,d6e5ece8-4a18-43ad-ab46-3311fd2a6a22,2024-12-28,Home & Kitchen,213.17,Cancelled,Medinatown,Ohio
+34544195-4622-4eaa-b762-366fbc3c7703,815dfe74-8b67-48f8-8309-002f0bf370a3,2025-01-24,Home & Kitchen,51.82,Delivered,Cynthiaside,New Mexico
+9a1cd3e9-ce56-495f-bf1c-3eff7ae96026,43b8070e-55f0-401e-b50d-e1905c0cb175,2025-02-16,Home & Kitchen,498.47,Returned,Rosalesport,Hawaii
+2801e5d3-7a4c-4e09-82c5-f1a7e27cc59b,a4b4d2ef-a8a9-413e-975d-15fd8ba25e11,2025-06-01,Home & Kitchen,256.08,Shipped,East Nataliestad,Wisconsin
+b932cd93-1d68-490d-894e-45a02cb675ab,95096b49-7093-42cf-bdfb-b31625282542,2025-06-05,Sports,301.74,Returned,Elizabethland,Oregon
+456783ac-0c82-4585-84b5-31ef9d8f3345,7381b5ab-db77-4e95-bbc6-30b89a7a584c,2025-03-28,Books,42.87,Shipped,East Eddieview,South Dakota
+1ad9f4c4-577b-4b98-9032-06407dd82205,79b15f09-27b7-4b4e-991a-b46d305f1a5c,2025-04-08,Electronics,377.48,Delivered,Huntermouth,Idaho
+ec592645-511b-479a-8730-539a099e7e16,ae9da9bd-a9a3-4374-a4b3-f3cb405a159f,2025-04-11,Home & Kitchen,112.85,Delivered,Port Williamshire,Indiana
+68499a55-b128-4638-a047-1d6174987d61,6fbf81ff-3a34-464c-9a9b-a6091b8fa0fb,2025-04-01,Clothing,450.05,Delivered,Port Raymond,Massachusetts
+f744f519-affb-42bd-af3b-2f7567c5e571,828efc87-f3d9-43a6-810d-1cdd1ff5c31a,2024-08-30,Home & Kitchen,110.52,Shipped,Christinebury,Idaho
+018ad6da-af4f-45a4-b9f5-af64cfbbb71f,eab9ab98-a532-4ab4-8b7b-ad93de3d54af,2024-09-30,Clothing,103.44,Cancelled,Fosterburgh,Florida
+131e5478-263d-4189-9769-06324e69d0a6,6a5fc186-65fe-459d-8dca-1d0c9855732f,2025-03-04,Clothing,27.91,Shipped,Angelicachester,New York
+3c5f69bc-63e1-4b98-98c2-2f71000a03b0,1ae962dc-9a78-477c-a1fd-ec5322e9b50f,2024-11-20,Home & Kitchen,241.31,Cancelled,Jasonville,Vermont
+8c731711-679d-4d7a-8d18-f3bb033fb790,cfeb06d1-a5b4-4858-aa83-018d740880c3,2024-11-03,Sports,286.77,Shipped,North Gerald,Maine
+56a2c62a-81e4-4251-9a85-b849bb0cc7f8,446c7bfe-578b-4c51-9ef2-fec1efd0c124,2025-02-02,Clothing,42.2,Shipped,Kristinbury,Hawaii
+d2d0d763-7274-497f-a97f-8734686123bb,fb242cc9-cd09-4b9b-9e87-c16597f7c374,2025-03-25,Clothing,390.01,Delivered,Stephenfurt,New Mexico
+68c788ed-9d9e-46eb-b6df-2ac7c754b227,4825e5b5-2f71-4bc7-a4d4-5c4d3cf4ce94,2025-06-17,Home & Kitchen,232.11,Returned,South Jay,Arizona
+13490cb0-25ce-43ac-92a4-98d4ca44c0ba,72135bf8-0a7e-4e3f-a99a-32b842142b57,2024-12-24,Clothing,266.95,Returned,South Chase,Oregon
+69937275-acfc-48be-9e7f-c44368a85de6,2670e691-15f7-4a3b-8cc4-dc2a0827a15a,2025-06-26,Clothing,225.97,Cancelled,East Brianville,Idaho
+6f391886-8e08-42cb-9a25-bf0471363759,f4ef84b3-1169-44d4-86d2-030e464c571a,2024-08-02,Home & Kitchen,206.37,Returned,South Cory,New Jersey
+1aec2183-321e-485b-9503-6e28ba56edbb,e7dd881b-1a85-461c-9819-577b10bb8224,2024-11-06,Home & Kitchen,284.22,Shipped,Jermaineborough,Vermont
+de0ce0d8-dfea-4d2d-b998-8c2d39dedc27,1ab18725-e63b-4453-ac79-d0ecb2275b5b,2025-06-22,Electronics,86.07,Shipped,Dustinton,New Jersey
+772925b6-64b2-449f-90ce-d15d7bdedfd3,f8dab298-26a7-4fc8-8ef9-bf2ad92eeffa,2024-10-26,Sports,99.14,Delivered,South Sydney,Georgia
+5dae6f59-571f-4444-9efc-c7a2c3318538,6c1a631e-baf6-44ab-be94-3516c311eda2,2024-12-12,Sports,432.27,Delivered,East Jessicaberg,Vermont
+18dfb124-3497-4dc0-ae45-6ca2b9e28033,f1383dcf-2473-47ae-99db-742c08edcf56,2024-11-12,Clothing,473.6,Returned,Josestad,North Dakota
+02765fcd-c2b4-4765-b3a0-27ba98c91341,6b8df389-ef23-4f1f-b819-56e614f42101,2025-04-19,Sports,192.92,Cancelled,Port Steven,Iowa
+e656a033-c656-4321-b407-e0a3e2a2c9e3,803cf665-16a7-4d52-8a69-507af6429080,2025-01-24,Clothing,142.66,Returned,Carrollfurt,Nevada
+44fefbd1-8afe-47ab-b1c1-0bccc5b293c4,96a45c10-35f6-4fb1-8815-447ccb78e029,2024-07-28,Electronics,325.56,Returned,Amyview,Virginia
+fbedb6ef-d0ab-4139-8fa7-dd44085ce4e3,7e27ec77-d4fa-4620-ae2a-cb4a27796466,2025-02-23,Home & Kitchen,210.28,Returned,Belltown,Massachusetts
+11ff2037-7be3-4caa-a290-f6d409e8f513,6f1213e9-a0ae-49a0-9afb-0b95f65422e3,2025-02-16,Home & Kitchen,22.44,Returned,West Jeffreyville,Michigan
+10e274c6-8304-4c01-bf0e-207735c5cb55,31e3ec82-b675-4e9a-9bb9-abf68b2eec9c,2025-02-01,Home & Kitchen,86.51,Shipped,South Donnafurt,Maine
+8219a4dd-6b33-4d71-9316-36f8a07917e5,4e1c82d2-ffd2-4447-8f89-3ab65be73bda,2024-10-01,Sports,360.83,Cancelled,South Gabrielleton,Utah
+f30c2922-0011-4406-8884-80f8144e425d,f4464f69-2379-4a38-aeab-0e6d453a2ae7,2024-10-02,Electronics,332.87,Shipped,North Amyside,South Carolina
+9e65ab92-544c-43ac-8694-2b2aa28095a6,b2594b4a-5761-4f6d-a1ac-7b7135294f33,2024-08-27,Sports,23.28,Cancelled,Lake Jacobhaven,West Virginia
+c4183806-7c99-409b-88ec-537a45f18bcb,d1f92f86-9b94-49b4-b347-2250ba7a2faf,2024-11-18,Sports,118.77,Delivered,Robinburgh,New Hampshire
+f38629cf-d834-4b66-aecf-56b142505f93,0d365a6a-da61-4a1a-89a5-25924427a04d,2025-03-13,Electronics,123.23,Returned,East Christophermouth,Mississippi
+9447a5f7-5c7b-4421-bde6-2b0fb2c51592,78d0f410-6ad9-42e2-a03f-9c0b3d080ced,2025-04-30,Electronics,339.23,Shipped,North Kristinchester,Oregon
+0444b2f5-d0b5-41b3-a7d2-4a942494f6b5,ae128710-cbdb-4e06-9157-24f52284bb5a,2024-09-17,Electronics,19.66,Cancelled,Matthewsville,Delaware
+00d6e540-47e1-4f67-8d16-864af602c9e0,51884bb8-335a-44c0-a89d-acbc02798623,2025-01-06,Electronics,61.01,Delivered,Nicholaschester,Florida
+8f4ea33a-b6f2-40e6-ba5e-2c559335907b,cb7062f2-ac6c-4a97-a67d-98a8813a7d67,2024-11-09,Home & Kitchen,401.96,Delivered,Alexandermouth,Massachusetts
+d905554d-0741-4580-acb5-e93cc156f3e0,62e72151-c3ac-47d8-974f-f49dda831282,2024-11-11,Books,97.49,Returned,Owenstown,North Carolina
+69ba3649-4159-4500-b877-9e3fbf2ca9f4,aba08ec8-6474-4f8f-944f-e790110daedc,2025-06-08,Books,329.85,Cancelled,New Ashleytown,Oklahoma
+c7d5e5ee-5da4-4484-b34e-ce1710b83ec7,52bd1151-5373-41cd-a2c2-0882582474b5,2025-03-05,Electronics,126.71,Shipped,South Saraborough,Idaho
+f8a32a23-2dfe-45c6-886d-42f88fcd5e7c,41003bc7-e66e-44b6-8bc8-3ce1ff4aeaeb,2025-05-20,Books,58.73,Returned,Williamstown,Florida
+525bc07d-672b-4273-a5ce-202783ed4ee3,98ee81b6-73e0-46be-a1cc-c9a9f097c092,2024-11-19,Books,129.15,Shipped,Brooksville,Vermont
+8cc7fdcd-1c7f-468c-bfc3-112348da1c62,c38f3896-81a3-442e-9cc7-ed5d7a27ff9b,2025-03-08,Electronics,363.91,Delivered,East Dean,Washington
+20667b8f-83bb-4be1-bae7-6ac568e99d08,e3950a8d-9a60-4423-955a-5a18d6dac506,2025-01-13,Books,429.29,Shipped,Garciaside,Oklahoma
+ec9d275a-6419-4519-af1e-47c9a2343844,983e25fd-b08a-4614-b4bd-c54ac8e15356,2025-05-19,Sports,416.81,Shipped,Fitzgeraldville,Mississippi
+b82e9c26-1eab-4fcd-8199-e35e8d6fcd90,a29857fa-8559-449b-ad32-cd62b41a8a13,2025-05-25,Clothing,204.62,Returned,Brendaside,Washington
+c0686ccb-6dce-4ef1-bed3-cae4734b66bb,3b607d2b-721e-4f26-90e3-db3334fc98f1,2024-11-23,Clothing,337.36,Shipped,Tannerburgh,North Carolina
+926fb04f-dec0-426d-8e94-5d7ca64b81a6,509d0c3d-8eba-42da-aab4-be7981ee7e6c,2025-03-07,Electronics,110.44,Returned,Port Jamesland,Minnesota
+6d79c3c7-a8c8-4cb8-ac63-d69b0d428267,91a4629d-313e-43d0-be9e-cb93e8e8ea3f,2025-04-23,Home & Kitchen,153.64,Delivered,North Joshua,Delaware
+a480d94c-e7ee-4bad-bf9d-f34be84d8d63,47dacc3c-f49f-4b01-992d-e14741fca6be,2025-07-16,Electronics,449.2,Returned,East Nicholas,South Carolina
+65081575-a85d-4936-a22d-73e7a2c4d5dd,58e76179-f10e-4cc7-b1d3-aa6ea41bcb8e,2024-11-19,Home & Kitchen,16.37,Returned,Berryburgh,Utah
+6ddd02eb-8889-4d3a-923f-085b475249f6,89a37cf5-9303-4dd1-a647-154bb53bebbe,2025-04-23,Clothing,51.9,Cancelled,South Kurt,Georgia
+5f838f2e-5655-473c-a309-cb241be88251,6bb690d1-58e6-4ddb-931c-4358ffd0325f,2025-01-22,Electronics,111.86,Shipped,Victoriahaven,New York
+2219f839-5597-478b-ab8b-788e86000dec,1ab9273b-32c7-408c-a0f0-0648e5b4d00a,2025-05-14,Sports,23.0,Delivered,Lake John,Tennessee
+00e4c3da-476a-485f-98ac-2d424730f22e,cd8b285c-5937-4e52-8c4a-66008f45eb52,2025-05-26,Books,98.9,Returned,New Kathleen,Oregon
+ce7b8a15-6b0f-4adb-9746-93fbda9d6f95,11629a22-be46-43d5-b1e4-78c2befaa26c,2024-10-02,Home & Kitchen,295.69,Delivered,Theresamouth,Indiana
+51428fa4-c5a2-462f-8867-1bd358781584,498b0fc3-7d66-4cc9-a1ac-d821208ccf4c,2025-07-05,Books,216.5,Cancelled,East Tammyhaven,New Mexico
+024d1021-5942-47eb-82d7-9bc5c4694c46,70b6ee96-96e1-44cd-8a0c-83b18894ffc9,2025-06-06,Books,447.41,Shipped,Anthonyview,Arkansas
+c1b6bb18-9f83-429b-b2f6-4034ac6b0dd5,a92d8c7d-7aa4-4587-9d76-1c45429b7324,2025-05-25,Electronics,410.55,Returned,New Geraldshire,Utah
+515f1bdd-1a35-4ce4-8092-f839130f354c,814ba257-1710-419a-9dc0-d2e2dca68729,2025-06-22,Books,177.49,Shipped,Danielland,Missouri
+17507e69-b1b5-4334-9782-0693772241a7,72e29a9d-79ee-4411-86e6-7fa56fd6ebab,2024-11-10,Sports,137.12,Cancelled,Monicamouth,Nevada
+e6a94eca-9211-4af2-badb-f1131a17def9,b7ce1f35-85bb-4922-b977-2ff660c7cbd4,2025-04-06,Books,196.05,Cancelled,Morrisfort,Wyoming
+d6a26b0a-c9e3-4776-8f87-34c9dc4a3f01,94963361-2007-4681-92f5-96a3e975512a,2025-06-26,Electronics,299.24,Delivered,South Brendaview,Michigan
+256b1b84-1cd7-4f2c-b263-11d25e7ed95f,423ef1c6-1492-4dd6-96d6-1363c4740a5a,2024-10-25,Sports,141.35,Returned,Janetland,Delaware
+7be3aea9-9f04-4b47-887a-8ee273ee143f,8b03848c-1453-4d20-8fb4-bc4a6a12abfd,2025-06-01,Clothing,315.83,Delivered,North Carolinemouth,Tennessee
+383a8e0b-47be-4ee6-a8c0-0620090da5e2,0a42084e-3b6b-4b9d-bdcd-93312ce4561f,2025-03-29,Books,210.61,Cancelled,West Andrew,Nebraska
+5dd71e93-97dd-4e1e-827e-15cad410275a,acd767ba-8dc5-4082-9cc5-0b244b7bb5e9,2025-03-16,Electronics,280.5,Shipped,Hannahfort,Ohio
+ffbe26b2-8014-4683-b9d7-ea2fa3c082cb,6ca302dc-36b2-4384-b750-1d4b9f439d81,2025-05-12,Clothing,223.7,Delivered,Davisland,Kentucky
+bd706100-8b89-4c55-ae92-392aa20356c5,840eff42-af66-4c21-a829-6d5bd007c54c,2024-09-23,Clothing,154.29,Delivered,Pearsonport,Georgia
+2ff49019-230a-4ba5-8fc2-4227579b4a5c,377434c9-0f19-43e0-b046-30deabcc4f65,2024-10-16,Home & Kitchen,474.74,Shipped,Lake Ambermouth,Kentucky
+ae100361-3a02-43ac-bfe1-d2b0f2361a6d,4fff206b-51d1-4cc5-a9ea-0fcdf4b9c642,2025-03-26,Sports,384.17,Delivered,Tonyabury,Wyoming
+2e520bb3-a276-4fbe-be0e-f4b64979a02e,799e271d-4397-4558-bcf8-586cd084678a,2025-06-27,Books,78.66,Shipped,Andersonton,Hawaii
+d34e8812-baa7-4864-82e6-c024daff051c,0093a66f-7f8b-4f59-8981-3cece4c500e4,2024-09-12,Electronics,435.55,Returned,Bruceborough,Delaware
+588092e0-8802-46fa-8f6c-18ec16aec2b9,6f69864b-41e8-4be8-80ac-52a93cea4a42,2025-06-02,Home & Kitchen,248.84,Shipped,Port Mark,Colorado
+b1d5965e-e14f-4ffe-bc00-f2b55bc0495c,09ff0ab4-2dba-498f-93c1-e5da32b91f64,2025-06-19,Sports,448.33,Returned,Emilyland,Kansas
+383cbd53-9848-4476-81ba-03d668f120b2,f492e533-0ce8-46d4-a235-264a012de53d,2025-06-17,Home & Kitchen,401.93,Shipped,East Nichole,Indiana
+a208681a-8376-4fe8-8c73-6adfcf8caf88,64eed39d-059e-4040-8791-b7bab2ea30c6,2025-07-08,Sports,218.35,Cancelled,Lorimouth,Kentucky
+24f285af-a5a8-4aa1-86f3-ca07b9bd856a,bd884848-3b6f-4176-901b-ecc379b71b46,2025-04-29,Sports,21.01,Cancelled,Terrichester,Indiana
+eabf443c-e945-4aac-ba43-849a1aa71cac,25fd58f9-248e-4035-b3d9-3e823c702720,2025-01-04,Books,141.65,Returned,West Rebeccafurt,Utah
+af5ba7a2-61ca-4ad1-be1a-c171701af262,a52ff2e8-5209-46d8-a6ed-aac9b4b858e5,2024-09-28,Sports,275.4,Returned,North Laurafurt,Texas
+b5875504-7104-40f7-baec-e8c541f8c6db,48c877c6-2bda-4a93-9822-182925c8c38d,2024-12-26,Home & Kitchen,320.4,Cancelled,Lake Stephanie,Hawaii
+a7f34a24-2a5b-406b-8a71-637932bfdfc2,5f573311-508f-4db9-88e1-3d3d016e7e96,2025-01-04,Sports,136.36,Returned,Port Matthew,Wisconsin
+5038fe65-a0d7-4b90-a518-1f1aeecea6d5,11944cd3-4209-4fb4-af3d-9df2f02ffe9d,2025-01-18,Books,78.28,Shipped,North Jaclynview,North Carolina
+0683c5ec-0f3e-4ec1-901f-0888069929a9,409085ce-320b-48b1-ad56-abe82aa9a9f5,2024-11-28,Books,419.12,Shipped,Christopherfurt,Illinois
+d4f4d4de-8a7e-457f-8beb-0be21d096112,71b91f79-a09e-4b10-856a-8fce85167ab9,2025-04-22,Home & Kitchen,492.36,Cancelled,Port James,Pennsylvania
+d8408e5d-a884-46cc-9a31-905d64c8b7b1,37590817-437d-4e9c-91db-2d7ff1e2cdbd,2025-06-29,Clothing,267.59,Delivered,East Ryantown,Missouri
+20dd7853-7f34-48c2-81a0-9913dccf31fa,cc95910a-64d1-4cb9-b6a2-fb5ed799188f,2025-02-13,Clothing,94.12,Shipped,Zacharyfort,Virginia
+f5e8581e-fd74-4b95-9353-28be239dece5,d39f8959-3ed6-4a85-b5be-398fc3e9575c,2025-06-09,Sports,143.43,Returned,Randolphfurt,Colorado
+48e75637-fc19-4d75-af78-1d6371b9c197,4ea84d4e-147f-46c4-ae88-82a25c4730e0,2025-07-12,Electronics,19.01,Delivered,Stokesstad,New Mexico
+0a8d3c90-f97d-4cdb-9d36-11cbe6ef1b51,e422dc38-dbd5-45b0-addf-49a1df8081be,2024-10-05,Sports,458.01,Delivered,Jamesfurt,Iowa
+5f6dc187-5f73-4bc1-ad7f-84ba75af5192,9e8362f7-fc3c-48a8-8654-733a8d573506,2025-05-31,Home & Kitchen,67.7,Shipped,South Michealmouth,Alaska
+3b883989-ae4a-48a5-9814-42df77414bb1,46b627b7-c148-4d44-9059-308ad8251781,2025-06-30,Home & Kitchen,292.49,Shipped,Martinezstad,Indiana
+f1150a09-fd33-49e3-af83-f4fd23a31997,9303abd6-0e33-4096-9ddf-7cebe814c334,2025-01-20,Home & Kitchen,144.29,Delivered,South Lynnberg,New York
+e5b93bae-34ed-42cb-83ee-52b55a29ef0b,953a4649-d1d9-4b31-95d9-7edcaa6f39e4,2024-11-07,Home & Kitchen,281.55,Delivered,South Wendychester,North Dakota
+4c7e7e00-f5de-4319-8120-3247e092993f,63f0b3dc-491d-4e8e-a255-13f44cf68bf8,2025-06-15,Home & Kitchen,329.2,Cancelled,Cherylton,Kentucky
+44dbe845-7972-4544-a1ba-ac6011da6af9,884ecbf2-d2de-4fb2-b172-8753bbd316e0,2025-02-15,Books,416.57,Returned,Perryfurt,Kansas
+217c0249-1e2f-4d56-8f7b-7d2a90b467ca,5dddfbfd-f5a8-4aae-87f5-29dfedf84e7e,2025-05-14,Clothing,111.15,Cancelled,Millershire,Iowa
+b477affd-dc56-4f9a-8cd8-370415494872,1ea7d89a-9cb4-4233-8ef1-bcc56f107133,2025-06-12,Home & Kitchen,15.39,Shipped,New Joel,Missouri
+650e9be8-dbf4-4da5-ac84-6487d2fcfae9,bb2c2abc-84b0-49c9-9612-adc356c83736,2024-09-11,Electronics,77.07,Cancelled,Lake Michele,Michigan
+258556c9-f3ec-4ec7-99e7-7a922e98a4de,48681c3b-915f-4639-a646-4568217a0018,2025-07-21,Electronics,451.01,Cancelled,New Davidmouth,South Carolina
+0a9f4d49-4949-43c0-a301-6a5083e4642d,5aa89a96-5fac-4124-b579-21bdcd5d4be3,2024-08-02,Electronics,438.21,Cancelled,Williamfort,Colorado
+c23fe510-f4ff-4094-82dd-271f61868dc3,69033d66-08f6-46ee-8e1a-283a6a6296e8,2025-01-12,Electronics,302.73,Cancelled,Lake Anthony,Mississippi
+72b2838e-6f9b-4f44-956d-772347a1126f,3f7200cc-26e9-4a59-84e2-1fa42e634a8b,2025-01-27,Books,304.25,Returned,West Justin,New Hampshire
+4ba25517-9083-4a47-a0e0-0bdfc940a5cf,c56caf03-29fa-4c4d-b19c-aec0dba88b71,2025-01-04,Electronics,335.87,Returned,Lake Amber,Alaska
+e66cf894-f3b0-481f-b857-de7900fba727,ab65ff10-dda2-41ff-a404-d764fa76c273,2025-05-12,Home & Kitchen,95.93,Delivered,East Christinestad,Louisiana
+f9ca2357-cefc-487d-8fb9-13b4cb487992,77eb9e51-059b-445b-98db-56d30d0ce1d7,2024-10-14,Sports,458.06,Shipped,Annport,Rhode Island
+3c7cb251-40fd-498f-a936-7d38a2f376c5,7eb0785f-8332-411f-9064-836d714f6782,2025-06-16,Electronics,215.2,Cancelled,Port Karenview,California
+8080606d-3066-41da-a801-f9ce85199640,968f96bb-1c46-49d8-85fe-8774324fb1eb,2025-05-19,Books,197.74,Delivered,Nancyland,Ohio
+189a0f13-2cec-4eb2-bd9f-1b57f04ae454,ea0230c6-d6ed-4c0c-95f9-8f72ba1ef577,2024-08-18,Books,264.27,Delivered,Nicoleton,Virginia
+13a63645-d2bf-4595-a9d2-635b03d9a783,883ce29e-354a-4107-baa1-e517ffc3a5b2,2025-02-19,Electronics,33.01,Delivered,Torresburgh,North Carolina
+d5f3fa05-a1bd-49ab-9016-f159100242c9,5809a4d4-8af2-4f92-b1ee-b5261e6e35fb,2024-12-01,Sports,91.48,Returned,Frenchfurt,Nebraska
+4886b97e-8977-442f-a14b-9fb8ad664d50,804172f9-a5be-4fba-a255-3745d2fe7763,2025-05-18,Electronics,371.64,Cancelled,Tiffanyborough,New Hampshire
+e6dc6d2c-fba5-4ef3-8a50-a6eef477e9b5,c5a1fe4b-c729-4a0a-949d-eae224c0206a,2025-05-05,Books,50.57,Cancelled,Lake Angelahaven,Iowa
+7a9e0690-eec4-4236-9a43-09e0aea950e1,1fa699a6-74f3-4e4a-852e-768daa5bcf6d,2025-05-06,Clothing,305.54,Shipped,Burnettland,Connecticut
+706b384f-44c9-4370-9ca1-49826507753a,ea575722-e9cc-4d64-98ee-af9d24a2f8f7,2025-03-20,Home & Kitchen,130.22,Cancelled,East Jamiechester,Ohio
+ea671ad5-e263-4b95-bdd9-1ad1522e0ece,9fe02e1a-29a3-478d-880f-89e8af7f8a71,2025-04-04,Books,200.75,Cancelled,Finleyhaven,Georgia
+e4a3a27b-0127-426d-a721-4c0b198a88d0,21d5d6c8-3788-4fe3-8663-f8d87c5ac3a0,2025-05-05,Electronics,151.46,Delivered,Pattonville,Texas
+6f477164-74fd-4410-a955-cd12bfca31c8,e373b6b9-bcab-4c63-aeb6-5315f8e10e09,2024-09-30,Home & Kitchen,184.28,Shipped,South Nathanielmouth,Tennessee
+78b15a7b-f4fe-4838-8e25-30be0346a9c4,d8f978a0-a5d8-4b3c-8d08-8ca308a09a73,2025-06-20,Electronics,362.33,Cancelled,South Julie,Wyoming
+a4de26b4-ae8d-4bd8-b427-9770dbc9c1af,7f0f03a6-dc08-4ee5-814a-f88ac8f6514f,2025-01-12,Electronics,155.59,Returned,Triciahaven,Indiana
+6cc5fe3c-f51a-433b-b34f-18f2cc77956c,fd9214f9-ff6f-401e-adab-b0594c69dbcf,2024-10-21,Clothing,287.54,Cancelled,Geoffreyfurt,Colorado
+bcb1efc5-e925-4383-99bb-1f98e6554d9e,e7c5a872-9fb2-4906-bd22-b919a35f4313,2025-01-14,Home & Kitchen,243.26,Delivered,Victoriaburgh,South Dakota
+577bfe66-28c6-4d12-8657-e2cffa1f1210,b5a2bf60-205a-4da2-b138-9eccd877ba8f,2025-05-01,Home & Kitchen,335.2,Returned,West Russell,Arizona
+19d6943c-cbf4-483a-ba48-8cc98fd78104,0205bdfb-177b-4a3e-a5cb-306b9e8c02b6,2024-08-09,Clothing,469.05,Delivered,Hamiltonmouth,Minnesota
+fb59f3a9-6b3d-4fe0-b672-e887a9b6379c,f3337a9b-caaf-4d9a-b5d1-110202cd31e1,2025-07-20,Books,368.96,Cancelled,Emilyville,Wisconsin
+11dbc32e-7714-42b2-b0c9-821775d7e767,7f5e27c7-86bc-45f3-b99a-f4eea4fc3aba,2024-11-06,Electronics,115.32,Returned,Dawnshire,New Mexico
+2bb6605f-b90b-40cf-bf2d-08e5d7dfbe04,989926e5-a33a-4cab-8f04-9a6cfdda5759,2025-04-15,Sports,25.28,Shipped,South Michaelberg,Georgia
+5a4b6875-a958-4a0e-919a-1b2340261bc0,199585fc-5b98-4135-9e11-52d9a349004d,2025-04-04,Electronics,138.51,Shipped,Amandaton,Florida
+68e21459-abbc-4dfd-b92d-85fc9203e20c,770d5f19-9a37-46df-af34-cc006436d352,2024-12-28,Electronics,301.59,Returned,Emmahaven,Montana
+d844dffa-f087-4e20-9ce2-98a83b2d11b0,1eec1d11-6eac-4daa-a23d-a07603792d8e,2025-06-12,Books,35.2,Returned,East Christinemouth,Tennessee
+2500af3f-c18b-4986-8387-4c69749542f5,026b57c5-b017-47a1-9bb9-4fb839abd1a4,2025-04-20,Electronics,253.22,Delivered,North Christian,Connecticut
+b5d55e65-c059-4f76-9faa-c250b6a580f5,9870829e-4302-4965-ae23-48d3e35a8bfe,2025-06-16,Clothing,302.45,Returned,Lindsayfort,New Hampshire
+cd6076d5-cc5e-4849-9707-27cfbe01c8de,101964b5-f5ff-4238-8f7a-532a9d7b7d7c,2025-06-25,Clothing,173.78,Delivered,North Janice,South Carolina
+87986144-3d8c-46d4-92e4-2a452d86debc,4254dbd4-6573-4d54-a079-c9b6c69bef57,2025-06-28,Home & Kitchen,387.75,Cancelled,Lake Eduardo,Maine
+39d5fa20-5f29-461b-87bc-cc02a80783f0,89f50cbd-b061-411c-8093-54720b694890,2025-01-07,Sports,62.23,Delivered,Stephaniemouth,Delaware
+eea6c120-3190-4925-a7aa-5d28ee62b789,c20a9195-a4f4-4c39-bf5c-b04180a3b8ca,2025-06-28,Electronics,46.82,Returned,Sharpview,Washington
+35bf54aa-2c01-4bd0-b179-9d1f70bbe88c,a559b275-1dc3-4bf2-8b94-08eefd649860,2025-06-15,Electronics,366.81,Returned,Arthurtown,New York
+987bcc96-0e09-48ca-b7e4-02ef21bd07de,0aaae7f8-1fe2-40e5-9336-941b4df22aa5,2024-10-18,Books,252.79,Cancelled,Chrisshire,Iowa
+03e40b30-dcc6-4135-80af-313719a7e96e,fe9cab46-077c-4349-a6ea-ef912676be19,2024-09-10,Clothing,347.32,Returned,New Michaelville,Minnesota
+db0ad597-57a1-434e-9836-aebdf0cb0983,28033a08-a219-4544-8bce-6f00de23839a,2024-11-18,Sports,223.07,Returned,Mistyside,Hawaii
+9e782709-b4ef-4911-84ed-646e470d3f8a,7f45ae24-94d5-494d-a754-73e46fa84ab9,2025-07-16,Home & Kitchen,130.74,Shipped,Port Michael,Oklahoma
+9df39896-4397-4b4b-ac46-bc1b5e89ff46,2543735c-8811-4233-90f3-7b3a015bf22d,2025-03-16,Clothing,411.36,Shipped,North Patrick,Louisiana
+16c08fad-5be0-4a00-9569-c257c40020b6,d40c7087-6b81-4c1c-8a46-a1282f3a7321,2025-07-13,Home & Kitchen,401.71,Cancelled,Doughertymouth,Missouri
+eb3b8158-0eba-4b31-b097-fe17379df3e1,7d56b49c-9da1-43e4-bfd0-6e7abc67b9da,2025-02-13,Books,350.4,Delivered,South Matthew,Virginia
+3c776744-51c1-49da-b817-da2731a95b3a,ddbdcca7-34cd-407c-ba79-90b090ccfe9f,2024-08-17,Books,143.35,Shipped,Patrickstad,Mississippi
+959ce0e1-f4d7-4001-b609-f851f965ef8c,8f06678c-7c91-417a-ad02-dcbd0342d35f,2024-12-15,Electronics,299.21,Delivered,Tammyfort,South Dakota
+7bd0d7c8-ffbd-45c2-9f33-deb6bf482cf6,2af325e1-8ec1-4035-b21f-72d006919359,2025-04-10,Sports,186.88,Returned,Schwartzshire,Texas
+b7d2453b-cb82-4b62-85c7-a961cabef462,da7d720b-e84c-4023-9257-405febbc5db0,2025-04-11,Home & Kitchen,54.88,Shipped,Phillipville,Texas
+87946114-07d7-499e-94c8-ab3941e23c06,af3b9e05-b1ab-49da-834f-1c5c97c579a3,2025-03-17,Clothing,459.48,Cancelled,Higginsport,North Carolina
+9eccd49b-279b-43fb-8dfc-5737299c7b7d,a5020e86-713a-4255-868a-0e30a1b279f6,2024-08-25,Books,77.04,Cancelled,New Christian,New Mexico
+a09a1b83-bf2c-470d-9ae5-8b879ae5a42a,eefcb212-03de-4340-a2a2-aeb422182e7d,2024-10-28,Electronics,475.62,Cancelled,Samuelfurt,Tennessee
+b1995f2d-088e-4442-b0b3-3c447a2645da,8806a79e-6e34-42b2-a019-b02c3361f341,2024-12-06,Electronics,228.54,Shipped,Keithfort,New Hampshire
+ab3d0980-e2ce-46f8-993a-c08980f58050,acfd2c8b-7879-4030-a73f-618220ffb948,2025-02-14,Home & Kitchen,100.72,Delivered,Lake Lorettamouth,Kentucky
+64d3ac5b-b3ec-46b2-84c9-e44a744aa6ff,af2ccdd3-601e-492c-8943-10888a73b317,2025-03-27,Books,275.53,Returned,Brownbury,Massachusetts
+cf38b29f-c0e8-41d3-a01a-42d156865988,7fa373d7-62f4-4516-a71a-bcc11e5431da,2025-02-21,Sports,437.74,Delivered,South Shawnland,Washington
+b79dbd1d-9a71-4700-91a2-179c9f060cfb,588ae911-1e5f-4559-be8f-a83e3e5d8030,2024-10-27,Books,368.79,Delivered,Lake Michael,Rhode Island
+1b5c5cc0-2c4c-42db-9c8e-89d24f6f3772,af5c902e-7878-4d5e-848b-7e8f6f371ae8,2024-12-12,Home & Kitchen,405.21,Returned,East Alejandrobury,North Dakota
+e8802c11-75db-46b7-a21d-46b7c4c5e1d1,0e2e515b-c666-4a60-91a8-f059f12ef69c,2024-09-27,Home & Kitchen,332.8,Returned,Diazfurt,Wyoming
+7284a816-119e-408b-b007-0bb8436872da,6a94e053-b0b9-4f6d-acff-cbc8f2f4cd2c,2025-03-26,Books,349.22,Shipped,North Heatherfort,Iowa
+d901a3a7-013d-4f9d-9bcd-34f27af564e3,66b233fa-0734-4266-b8ca-3c40f500a740,2024-09-13,Home & Kitchen,426.11,Shipped,New Tara,Virginia
+5261672b-3c47-47ce-ad3c-9c8fbf253085,7b153527-5246-4f44-a33b-c23a9081b77d,2025-06-20,Books,132.34,Shipped,Port Chad,Michigan
+5c375744-4c31-43e0-8ecd-8bb0cf6fe846,2738c5a0-208b-41aa-a005-87ff30883bd0,2024-09-14,Clothing,249.82,Shipped,Alvaradobury,Utah
+5baa96ab-a5fd-4577-9064-9ef321c0beb7,e349ba93-9a80-4750-9961-40cda92af960,2024-12-24,Books,118.39,Shipped,Snyderside,Iowa
+7b8fd032-c3a2-4fb3-bb1a-68c461f0c3c5,62ae9687-2b81-4808-90a8-b54cd5f5d1a6,2025-06-07,Books,493.96,Returned,West Charlesfort,Iowa
+fc245f5f-09f2-47ae-918c-016aac85291b,026d48f1-3b99-417f-9cfc-124e5fdcb343,2025-03-23,Home & Kitchen,472.59,Delivered,Andrechester,Tennessee
+de2cebd8-e4da-4edf-839b-719694fba8a7,8252713f-99b0-42d0-a5b1-a0aa51a1883b,2025-05-01,Home & Kitchen,29.32,Shipped,North Kimberly,Hawaii
+b2ea722e-8a0e-4b69-a344-a6e5c04b2403,4217bec4-1419-47c2-b43a-e9c805732635,2024-11-16,Electronics,355.73,Shipped,New Carol,California
+f0348e15-66fd-4ace-91e0-89e1444e133b,fb025b51-aa0c-4467-a866-7a670ca776c3,2024-11-11,Electronics,463.37,Delivered,Kennethmouth,Florida
+3a89e773-a92c-4076-830d-ecc0d491c1f2,b635f90a-7ed3-445d-a383-13505e080f79,2025-01-18,Clothing,98.48,Shipped,Woodardburgh,Texas
+07e32b66-9a2a-4e7f-bb6c-824e9424bb82,7b2f9259-7521-41fc-87cd-eefe38744a2d,2024-10-22,Electronics,288.29,Delivered,Jacobmouth,New York
+84e5caed-ae78-4f18-b3cc-5ddbd82e5a05,39d28f8b-1f32-473d-89c9-c21d831c4eee,2024-09-30,Books,458.59,Delivered,West Timview,Nevada
+faa5a12f-9b24-42d4-9310-824fc51bf302,64f64ede-ebdb-44ce-95f4-0c496f7d647d,2024-10-26,Home & Kitchen,26.63,Returned,West Andreastad,Rhode Island
+18cf75df-76fb-4c56-b6e8-331ab557703d,77e702ca-f29a-4cc9-ba7e-12bd469aa790,2025-03-11,Electronics,351.74,Cancelled,Lake Sandraborough,Texas
+960693da-2d46-4ad7-bc0a-0701e5ad7455,fe8915b3-7422-4243-beff-80a0cdf5ea8a,2025-05-02,Electronics,155.7,Returned,Jonesland,Oregon
+61874daf-c0ba-40bf-84f7-20b9047642f6,3e366207-1b23-4829-838e-1d4d195b32de,2025-07-23,Clothing,462.95,Cancelled,Aaronshire,Arkansas
+b6d3a85a-b9bd-4e4f-9bce-54a4702cd142,ae922aac-ded0-43b4-97bc-699cb7f4ac1f,2025-01-26,Clothing,485.82,Cancelled,Cohenborough,New York
+3eeb1b67-ac48-4141-a6d2-39ce9d74d06a,9fa3a582-2903-4b60-9bbc-7f8314f13134,2024-08-30,Books,472.69,Cancelled,East Shaun,Delaware
+5a6584eb-5b56-4c91-a6e8-66f54921d930,4fb7b27e-b326-47d4-800f-09563e0dc454,2025-06-14,Home & Kitchen,242.36,Shipped,Jenkinsville,Wyoming
+0631f037-151c-4e06-9ce8-a05d1db29afa,58f88824-9de6-4f86-bcc6-be70000c3a22,2025-07-04,Clothing,432.4,Returned,Lake Christineton,Virginia
+88092cee-3a1c-4525-9e48-7cebf29e61ac,59f2929b-2bcc-4b4e-8050-a854882c39f9,2025-06-20,Electronics,423.83,Cancelled,East Michelle,West Virginia
+fe9d6c2c-90f5-4fca-81b9-e86acb9d6e62,d5c00bb7-5cf6-4f92-9129-6bcccf5260f8,2025-02-14,Home & Kitchen,166.36,Delivered,Liufort,Wisconsin
+d60bcc64-d280-48d5-9f2b-b9e50eadf5ef,259948d8-d47a-427f-afa0-259f7cdbbe69,2025-04-25,Home & Kitchen,416.17,Shipped,East Richard,Georgia
+3093b88c-b133-4c79-bca6-a8be0020185c,a0aa12ee-ca4c-47d5-a003-cc5994aaccbe,2025-07-24,Electronics,28.13,Returned,North Lauraland,West Virginia
+b07ce4eb-342a-4247-bcab-97c7d2156971,cef7303a-51ac-4855-9369-18fc1069ea72,2024-11-08,Clothing,302.17,Cancelled,New Mary,Virginia
+c86a53f8-a8ac-4768-bf5c-a9110e13f5d6,46965b27-ef31-40f6-958f-dba9844d78ad,2025-07-11,Electronics,122.7,Delivered,Velasquezside,Vermont
+7f91cad5-2a4c-4642-b5c4-b0e2eb6bd441,f87e5b7a-312d-4ee4-95ca-55d30e80074e,2024-08-30,Home & Kitchen,69.08,Returned,Ruizchester,Utah
+912abb01-7893-4443-ae73-324bd65473cb,1202b796-f6ed-41ff-9a23-f0932ebfc65b,2025-03-25,Sports,47.71,Returned,Port Nicholas,Tennessee
+8c511d42-9a99-4110-a947-44628cf11f54,a6e81330-fc3e-4ce5-8df3-b33046b0fffa,2024-10-31,Sports,351.18,Shipped,Bakershire,Massachusetts
+a5aeef2d-ecdf-4b30-8519-b853a81f11bc,769e0f92-ae20-4a59-95ff-7f529e9dabc1,2024-08-01,Books,176.54,Returned,Port Dustinview,New Hampshire
+93caeae7-8892-4e5a-97b6-2aec88a6f2d5,659dc2ab-a34a-4473-9bb4-a08012c4af47,2025-02-19,Electronics,365.14,Shipped,Port Davidfurt,Nebraska
+07beca2e-64ab-497a-9f1c-d4769d0ab547,73c74dec-4aca-4ab9-b9b7-2554c96a43a2,2024-08-29,Electronics,42.02,Cancelled,North Katie,Mississippi
+c6329f0f-9c13-4cab-bcbe-9471f5593eb5,b2b4f29b-4f5f-467a-a233-ec038499b2fd,2025-01-28,Books,164.49,Shipped,Moorefurt,California
+db123bb5-1f1e-4033-8437-d661d77d68fc,5eed2a13-187c-43d6-8ec3-cf72f31f0e0a,2024-11-12,Books,274.35,Delivered,East Chris,North Dakota
+02c1b497-e52c-4008-8532-5afdca90b3e4,62ac24b4-4b0f-485d-bbc6-f06338556070,2024-10-01,Books,397.45,Shipped,Johnsonberg,Nevada
+b946112b-617d-4d04-a857-533f8ca809e4,78de60a4-555a-4a14-bc9c-c7f3b856ba0b,2025-05-14,Home & Kitchen,166.19,Delivered,South Jeffrey,Louisiana
+4a5ed821-206a-4d1e-841d-8fb5a881435e,402aa2c4-9328-4a1d-9c71-034299d0098f,2025-05-10,Electronics,316.69,Shipped,East Samanthamouth,Nebraska
+4bed8fbe-1a1c-4a5e-9ee0-3a0299efeb33,23a37f69-0f7f-429d-8a1a-55dbe3ebbb89,2024-08-29,Home & Kitchen,444.13,Returned,Lake John,New Mexico
+e76bc314-9612-42ef-9753-ad2bee8d3f5c,47b4579f-6324-4ef3-a456-11ce4bfe6ca3,2025-01-16,Books,311.77,Cancelled,Lake Johnhaven,Delaware
+bc8f64c5-be88-477f-8ceb-11d472491031,5cd33b83-8a13-41f2-9031-3798d52b967a,2024-11-01,Electronics,124.15,Delivered,New Mary,Montana
+fca7d90b-3b16-4893-b4ee-15849418907c,85d18bc9-21ce-4cc3-9f42-31f86838f790,2024-11-03,Home & Kitchen,21.96,Shipped,Lake Theresa,Rhode Island
+24c4b9c4-946a-4df2-b4e9-d66a645c31eb,98e31f17-3422-4ef1-b89c-b779f1a58095,2025-02-15,Home & Kitchen,436.35,Shipped,New Chase,Texas
+78dd9fdf-9446-4857-8f77-c3844be77b47,716df4b3-8471-4533-a7ff-725fb711c97d,2024-10-06,Books,20.42,Shipped,Dillonland,Connecticut
+37cad7cc-2a96-450b-bff0-588931438a62,7e3e52f0-da5d-42aa-a20e-374d9706a030,2025-05-06,Electronics,438.6,Returned,Port Marisa,Iowa
+fce2d4ae-3972-480a-9377-04172bd00deb,1be128e5-ff6c-4d42-bb29-60f5a6cfd5c7,2024-12-07,Books,269.18,Returned,New Brandon,Hawaii
+7a776012-d378-441d-82a6-02eee82c1c1a,c8a4f012-211d-47e0-b383-819656ad3e7b,2024-08-03,Electronics,470.14,Delivered,Morrisonville,Alabama
+9dc571dd-44e5-40fe-8f62-8a51880d4b5e,86a0743f-8e8b-4d45-8c05-74225be0a0f1,2025-02-02,Sports,401.4,Delivered,Howardtown,Minnesota
+bc9e8925-ef17-4336-929d-a76abf6e526c,c8961eef-1076-4d32-a0b3-223c95183010,2025-04-24,Clothing,498.99,Returned,Mcconnellport,Maine
+cc05f78e-cbd4-4dd7-a7d9-fff5ed452d05,2aebbb36-d40d-43e9-bdf1-dc034ee8ca02,2025-06-18,Clothing,181.85,Delivered,New Austintown,West Virginia
+fb6944c8-448b-4f8e-9d3b-3572fbe953a8,a0469415-c6ed-4973-843a-d809efeafddf,2024-09-07,Clothing,385.92,Cancelled,East Chloe,Wyoming
+0f0d6416-b364-4a09-a06b-cbef3d6e51aa,598b6368-9d84-455f-8032-d83500487a65,2024-11-15,Books,206.95,Cancelled,East Dianehaven,North Carolina
+35017439-e566-404e-afca-f439658d91ef,5668c4f5-13b9-47a0-974a-3536152d84d3,2025-05-28,Sports,245.14,Returned,Lake Melissaside,South Dakota
+d24e7ae4-c0cf-4d67-a3d3-9511abc6defa,a8e56aa0-29f4-45ff-a15c-c2de570b5311,2025-02-03,Electronics,317.48,Delivered,New Joseph,Arizona
+0b4ccdd4-0a34-47c4-a6ee-3f0d2afc3867,0276164e-b57a-41b4-8b50-e5d2b221d3b0,2024-11-13,Home & Kitchen,438.1,Shipped,South Daniel,New Jersey
+af8eaced-db06-480f-898e-8aff4d430419,4014deda-5dd3-4910-8d1d-e5fd6ae9490e,2025-01-22,Electronics,492.2,Cancelled,West Angela,Vermont
+f60e8684-e0e4-46f2-b749-75272ad45281,1307ad50-51dd-483c-a6e8-8b1d0c95869a,2024-10-05,Home & Kitchen,386.45,Returned,South Jamesshire,Texas
+59af7bc2-c74e-4768-85ae-20f364e147cf,b8890cc4-3880-4494-b254-d079da53f82a,2025-05-15,Electronics,214.71,Delivered,Angelachester,New Jersey
+d30e0ff8-e89e-4f5e-a8c9-1e0cac4fa922,67ecef5d-0972-4258-ae09-359c10261475,2025-06-04,Sports,216.46,Returned,Gardnerfort,Ohio
+ca031c9d-1325-44ca-9ca7-580469c22322,5eea3d7a-a10b-4b43-b8bf-5595c5f7ded5,2025-01-23,Home & Kitchen,371.42,Shipped,Port Ashley,Minnesota
+2ee23f56-b284-4b39-bf8e-1941e98671f6,c3d45af5-e2fa-4ef2-b802-10c8258da75b,2025-01-11,Books,127.0,Cancelled,Burgessmouth,Idaho
+6c23209a-06e2-4d16-92af-bda6dd976baa,79d70b1b-4e69-4476-831f-51ce75ff7d01,2025-06-29,Electronics,64.13,Returned,South Brianmouth,Delaware
+150b9ce8-56c2-4709-9c73-4f84872fd9fe,69f5d9da-628e-44a9-a41f-02f5d5ae7757,2024-11-02,Electronics,183.76,Returned,Vazquezfurt,Arizona
+33be9dd9-5817-4258-9f87-4df730e23339,4ae130b0-7724-4005-9af5-12477070ffcc,2025-01-02,Home & Kitchen,150.75,Returned,Edwardchester,Georgia
+b74a9557-60a3-4c41-942e-c756713902d4,a1f33334-45ca-475e-9cb1-5be0c35bef13,2024-12-04,Books,155.19,Shipped,Davidview,Minnesota
+02cc8cf9-62aa-4fd0-b9d2-10148fc4be21,ec921261-0ff9-4c45-a965-9ac0ba680a9a,2025-03-22,Books,124.47,Returned,New Katherine,Utah
+1bba3165-a093-4812-86c9-4d110dc77b66,b2836310-e5af-439a-8713-d8dc7ee97d65,2024-11-23,Sports,30.63,Shipped,Port Katie,California
+841041b6-fbff-4695-b0d7-b332aa864ec0,0a84376e-d188-496f-ad0e-e939f0433807,2025-06-05,Books,18.76,Shipped,Port Shelly,Rhode Island
+522168f7-f957-4cb0-9717-77ef0aa63098,cb263df5-b365-4c81-86ff-2d130f42668f,2025-06-21,Books,493.98,Shipped,Lake Biancamouth,Wisconsin
+791bd85a-4115-4242-8693-f6735c6466eb,b9389846-5e44-431a-865c-bef8077e7bd0,2024-12-06,Books,219.61,Cancelled,Lake Alexanderville,South Carolina
+4bfc689e-1388-4544-82c6-268abe612954,c9ec2fb8-9bd0-47bb-99c2-6cd52107a733,2025-07-04,Clothing,198.32,Cancelled,Jodiport,Texas
+86f1ff1d-5208-4047-99b1-6c305196a7d7,d34ec108-2355-4d6e-8ba7-8e8605dfe1dd,2024-09-14,Sports,343.03,Returned,Barajaston,Utah
+00ea2a5f-2d01-4d87-8bf7-4ca45182c2b0,2eb0901f-7194-42d1-b857-506e44f0eb7f,2025-04-04,Electronics,116.94,Returned,New Elizabeth,Texas
+5898ad9a-9bbc-4f8f-a208-5568c1098953,f206ae5d-5598-4127-bc06-2a97526842de,2024-12-09,Home & Kitchen,475.48,Cancelled,Christopherland,Arizona
+2b914911-9864-42f2-a41e-9eb4ec0d8d75,f06d370f-36b1-453e-8f71-0bc65d119598,2025-05-19,Electronics,395.31,Delivered,Rodriguezchester,Ohio
+c2e95780-6f54-4d81-8fd4-d083b37d9db8,fc3aedc7-7c3f-4670-872f-467da2bd61a8,2024-11-11,Sports,53.81,Cancelled,West Dana,Pennsylvania
+4a9b344b-5b53-4a66-8b7e-78eccd23b182,fb286ece-a820-42d8-a529-de159571657a,2024-10-01,Home & Kitchen,214.61,Shipped,West Kayla,Colorado
+7ae4f4e9-0e3b-490f-87b6-1674b2a5243c,449f726a-5622-4bca-a99e-17358c43e221,2025-06-08,Sports,440.77,Cancelled,Kingborough,Indiana
+96fc3c85-c249-4b0c-86d9-51cfbfdccf78,1a567b9f-0bbb-49f3-acb0-ebe3efdb9ce6,2025-02-08,Books,472.92,Shipped,Lake Raymondborough,Montana
+4729f0bd-9ac0-40d7-8b7f-8116ee2ff774,ff968f38-bbd2-4351-935f-e435d4dd613a,2025-06-23,Home & Kitchen,239.03,Returned,East Kennethton,Illinois
+0d3faedc-aa7d-4e8c-8dc5-2adfcaa2a2a9,1a1c9e35-ed3c-432a-a08e-601064940c45,2024-11-03,Books,310.57,Delivered,Kristiburgh,West Virginia
+4c8de9ff-2a63-4d16-a5f8-0305d1d5e12c,394db0c5-c325-4d31-a52a-1f9ce6b26da2,2024-11-25,Electronics,91.85,Returned,Katrinaborough,Connecticut
+f73d9c1c-13c9-417e-8095-4498c5d84917,70b2b979-e8e9-48bf-8eb9-6e82c4d4b210,2025-02-02,Electronics,495.67,Shipped,Scotttown,Georgia
+713bb4b8-88e6-4bf4-8d4a-a46eee48727c,455efb4d-8d85-4e0a-a64a-00003367eb9e,2025-06-05,Home & Kitchen,123.52,Shipped,Zacharyhaven,West Virginia
+9ce293e7-1279-45d4-8d38-b091716a99b4,f72a2a6d-eeda-434d-9afb-9ade76c1eea3,2024-08-27,Home & Kitchen,471.94,Shipped,Jacquelineshire,Illinois
+e2a46334-7558-4ce6-9621-ad8bb9189924,b3a8d84d-0612-41cd-ae95-7c308fdb2ad4,2025-01-05,Sports,328.33,Delivered,Grahamfurt,Missouri
+9b98b4a8-d664-4d01-9c7e-181901418d34,3030cec5-4a97-4e5d-ac52-189ae10a61c7,2024-08-21,Sports,307.79,Cancelled,New Alexandra,Alabama
+0758be5f-a8be-4fb0-8568-f91f04e45fa6,49b30673-3c3b-43a3-b0f3-650fdefdf979,2025-04-08,Books,261.22,Returned,Port Moniquestad,Hawaii
+eea23add-88de-4745-8d23-d1310f8a9a51,63d74c80-aa86-434f-b805-08b310787fad,2025-03-28,Home & Kitchen,123.03,Returned,South Tiffany,South Dakota
+f5ca1ea7-c3b5-4d10-9343-00dbafed0bee,8ab5a1ae-9c58-4986-9729-feca3aa68ade,2025-05-26,Electronics,96.5,Cancelled,New Sheila,Ohio
+ade41f93-b8b9-4a8b-af73-52e4dbd80766,1ef5c10f-624d-41e7-a38a-b8428be4d3f1,2025-04-15,Sports,118.04,Returned,Steeleborough,New Jersey
+afb24ba8-4d69-4a02-99c9-5f37d98e24e1,50a5276e-d02e-4ca9-b15c-5ab488d2eeea,2024-11-19,Sports,101.35,Delivered,New Christine,South Carolina
+1ebe1be6-37ae-4fca-9210-93709664aba6,7838131a-ec7e-4a90-8c3c-e2fce469c731,2025-01-19,Electronics,392.0,Returned,Zamorastad,Alabama
+0ba213a5-c45a-4b5c-ab4a-ae05596b34f7,f9a3be5a-c863-403b-a629-3f4362490148,2024-12-27,Sports,181.56,Shipped,Frankfort,Michigan
+32512f4c-ceaf-4996-9075-f47ee498f0a7,2b837461-4b19-4384-bd6a-662641c1a8bf,2025-01-14,Books,38.34,Cancelled,Port Jessicaville,Kansas
+4b8c64b7-da4e-42a6-adec-f2255457f37f,2eab45b4-de1e-435f-bb58-889bc1c31198,2025-02-25,Home & Kitchen,484.86,Delivered,Sabrinabury,North Dakota
+fdbced39-012c-4310-96d6-1b724972ecf0,9e559106-2fe8-473a-88c0-ac716ea45691,2025-05-06,Electronics,443.06,Cancelled,South Jose,Idaho
+4ecfb1a3-4f67-4feb-bddc-16fd3be2a2a3,2826a384-176a-4374-bcfa-a1b6dea43e01,2024-11-05,Home & Kitchen,464.6,Delivered,Port Margaret,Ohio
+9fd8f812-940b-4d57-a9fe-5060b3d54c4b,1932e088-9035-40e7-8c41-9507ee949b3c,2024-08-01,Sports,497.5,Shipped,West Jesseport,Hawaii
+1856afa8-2306-473b-81ff-fe8215bf25eb,86ec014b-02ab-4396-892a-e253ef2ee24b,2024-09-27,Sports,95.21,Cancelled,North Carolynfurt,Colorado
+ca316ff8-5ef9-440e-91d4-f6ab3b429efc,3a034435-d95a-4d36-87d2-21a3b1a680ce,2025-06-08,Electronics,204.16,Returned,New Stephanie,West Virginia
+5619a555-7be6-4af8-ad24-2a14f376d6d2,30a862e0-87ae-47b8-804c-8bf7c1814f3d,2024-12-12,Books,381.54,Delivered,New William,Massachusetts
+62924b15-edb5-41bc-90ce-2cdc3d7a1beb,67b1b33f-cad4-4345-9940-4a425f00378d,2025-01-31,Clothing,351.05,Cancelled,Kathleenburgh,Wyoming
+a9650531-0f96-4ff1-bcd3-6fdfa436afe7,91f97bdf-6806-4466-b2fa-e98e13c8cdff,2024-08-08,Electronics,85.41,Returned,Johnsonport,Nebraska
+958bc2d6-f290-452f-b23a-38d812e30e82,3d99988c-dd84-4dcf-a9e6-30b7c7858d31,2025-05-01,Clothing,409.76,Cancelled,Thompsonview,South Dakota
+d89b5dd1-9f40-45fd-95ce-b3a11b43e833,7b69d69a-a97d-4b19-97d7-4bfedab45778,2024-09-11,Clothing,119.98,Cancelled,Davidborough,New Jersey
+0c38c0a6-e7df-44a2-9105-9caed2926cbf,8fe1387c-2cb6-4b4b-8324-77388f262cb0,2025-03-31,Books,119.67,Cancelled,Baileyhaven,Pennsylvania
+3cdf62e2-d49c-4a2a-8910-58f59d868d43,a2688694-e54c-415f-bf40-d13ba5a29539,2025-02-13,Clothing,273.12,Delivered,Chadside,Minnesota
+3fbe9427-b3cd-4593-ae14-c9fe98ddca6c,c0ffe549-1945-4af9-a436-bc2451e510e7,2025-07-20,Clothing,300.54,Returned,Lake Erinview,Pennsylvania
+857d1700-72bd-45b9-94b6-6eca50bf5891,332d0a35-b5ef-4869-8ad3-ffd094c93b77,2024-12-07,Books,294.24,Shipped,Yvetteside,Oklahoma
+8de2dcc5-4dc3-46c3-a541-b889270837d3,aa4faedf-7d57-409d-a74a-cbb0d1969507,2024-09-20,Clothing,54.83,Delivered,Joanneburgh,Montana
+2e069635-b2d4-4269-8125-10033449c81c,596568c2-0656-49a1-9141-c1c8fcb16f00,2024-08-28,Clothing,439.96,Delivered,Lake Markton,Nebraska
+cb505682-432e-40af-9fb5-a5cbc5b42624,f3fb0016-09c0-47b4-8850-da3bb1263ae9,2024-09-27,Clothing,140.14,Delivered,Alyssaview,Oregon
+7bfa2bd0-a92b-4522-aa6c-8c96f15352fb,8f2e7be7-4d12-43ed-8818-d4b621bad2b5,2024-10-27,Electronics,73.46,Shipped,New Annehaven,Michigan
+276c8877-c600-4540-926c-52329446cea8,724ab8b6-ff74-4f25-91c3-f2cd5edf77fb,2025-04-02,Electronics,445.49,Returned,Richside,Hawaii
+6c49c6c3-3c1a-4c27-9524-e82e9902801d,c9d1a531-f771-4041-8220-6421f6fc23fd,2024-10-24,Electronics,478.27,Returned,East Thomas,Illinois
+2347cda8-1681-491f-82b3-b3ece87f4c20,5eb501e5-986e-4b5d-8420-eee593ae9da8,2024-08-23,Books,432.44,Returned,West Michaelbury,Washington
+ea188931-1a67-4576-9f29-51e6a62bde54,8adcb3e3-b2c0-41c2-9512-437232b68740,2025-03-28,Sports,406.66,Cancelled,Rangelhaven,Alabama
+fe4d5d63-7660-45cc-a8c0-44e018902d79,8c35709a-872e-4162-9b7d-8791f834de5d,2024-09-19,Clothing,331.07,Cancelled,West Victoriachester,New York
+ab955326-004b-418c-8732-e7104f59a235,a00afc52-43c8-4e1d-b7ad-5e14c0ad81f8,2025-02-21,Clothing,279.92,Cancelled,Duarteport,Minnesota
+c9c1349b-981a-4ba5-a9b4-8d6108cf0841,9b975ba3-d390-4fe8-839c-baf18aa682db,2025-01-20,Books,52.62,Shipped,West Danielleville,Florida
+1b2e1cea-2519-48a7-8532-e1869c7e90af,f6d500d5-3d00-437c-854a-fdc72055615c,2024-11-18,Clothing,210.14,Cancelled,Danielsport,Montana
+ffd2be6a-6b98-489a-81d2-59108507296c,3729f2de-7159-46b1-9600-f9e320ca1b10,2024-12-01,Electronics,192.62,Shipped,South Billyside,Ohio
+eba7c7b1-c07c-4571-a97e-8812df014878,3cf2c3b5-97a2-4250-acd4-7eeabd54a309,2025-03-24,Sports,137.28,Returned,East Jennifer,Idaho
+2988b8be-992d-4f20-876e-2afe61084552,5689e172-5ca8-4244-bc33-243a8f181963,2024-10-26,Home & Kitchen,364.48,Cancelled,Keyfurt,West Virginia
+ee7b5d63-28ff-40f3-8060-2b98f649215a,6e823140-b1e0-46c8-ace5-54486c652512,2024-12-06,Clothing,252.98,Cancelled,Shellyville,Arkansas
+caa9c71b-e867-463c-a79f-a4e95addac32,15bd68b5-f44d-4bbf-92b3-cc8ef9d7b3bc,2025-03-03,Electronics,49.71,Delivered,Spencertown,South Dakota
+c7f259a6-548c-4377-9ce4-f29657befd55,b1c952bf-ff7f-4280-8111-b702c74d7e03,2025-05-17,Home & Kitchen,117.89,Shipped,Williamsonview,Illinois
+176885ed-2f9b-4ef1-817e-316851d8c86e,b4621386-fdb6-44d9-89c5-2b188dbb8b63,2024-09-26,Sports,344.8,Returned,Marytown,Massachusetts
+2d741463-c983-40c4-a617-18f27b799393,db07c514-ead0-43c6-8139-06216e1d75d8,2024-11-13,Home & Kitchen,47.3,Delivered,Richardside,New Hampshire
+125b8d4e-b586-4012-9c6c-5e544b4ae7bf,0955a6f8-b07e-425a-b933-3127eb1e1a2b,2024-09-04,Electronics,427.09,Delivered,New Laceymouth,Ohio
+a96fc6cd-52aa-4ac7-8e72-bb2552cc6c37,2d5bf7f4-c7f2-4a41-bb0f-d11c0c459bdf,2024-09-17,Home & Kitchen,252.62,Returned,New Malloryville,New York
+d33b0105-9b26-4e99-b6e4-a745d7862c68,4cfaa7e9-8265-4079-952c-6bb6dfb3dff1,2024-09-13,Books,245.49,Delivered,East Gregorystad,Alabama
+7eaf10a6-c8c5-4c91-973c-06d440dcbdac,4ecded5e-884f-4215-a5fc-8764404f204e,2024-11-04,Home & Kitchen,300.28,Shipped,Taylorton,Nevada
+a3bbd6b0-b217-4e3e-b298-7f06673ab6b7,698cf5df-9bde-45a2-b3be-8125cb0e0254,2024-12-07,Clothing,414.09,Shipped,Port Emily,New York
+1e1f5d3b-bedc-4680-99d0-ad07e36c3aa9,ac7f45d0-abf7-41de-bdf7-faaeca614af5,2025-07-17,Clothing,180.43,Cancelled,Matthewstad,New York
+64f48aed-eff9-4f2d-9f9d-26cb43a556ae,c369fb33-9fd8-451b-bd31-d6222bca89c5,2024-08-01,Books,342.23,Delivered,Gregoryview,Michigan
+f1494e6f-6a88-4692-ad43-f0d99d4066a6,91bdf941-c595-41d3-8762-dfdc359f376d,2024-12-04,Electronics,287.21,Cancelled,South Codytown,South Carolina
+af979ef6-f94b-444c-9a63-6eca6c8bdeb3,459d57bf-9b7d-48ba-8659-6e52a011d2c3,2024-12-11,Clothing,140.84,Delivered,Thomasfurt,North Carolina
+c0a2c9d4-2389-4b0d-9fe9-c6217cc9adc3,1c96109c-6888-4371-8613-0b93211bbb69,2025-06-21,Sports,440.53,Shipped,Lake Victoriastad,Minnesota
+4c48bd36-d2f3-494d-818f-4e9b24df3ccd,dda5ca92-b2ee-402a-87d7-67a9db7aff99,2024-10-11,Clothing,400.74,Shipped,Kristinashire,Maryland
+5fd05f3e-52a0-483c-a14c-55dfa0876667,ae29b3b7-6c03-4903-87a4-3f1dde7ac2b9,2025-02-28,Clothing,332.64,Shipped,Marissamouth,New Hampshire
+3a71eb1b-c186-4ed9-8d55-19f9f9d24ce6,aded8fb0-fc7c-465c-9db8-150925ca9870,2025-03-05,Electronics,426.79,Delivered,New Annette,Hawaii
+95dee633-4888-4666-8498-a224212ea964,86b83b56-95ad-418d-8407-5a1f774600e1,2025-01-04,Home & Kitchen,434.97,Shipped,Lake Bradleyfort,South Dakota
+2044e384-5a8f-40b4-945b-a4dfa098ad17,6b7cf24a-d0c2-4788-b1f5-251bb33bff16,2025-07-03,Clothing,357.1,Delivered,Smithhaven,Washington
+1fdb2c5c-21b8-4cbc-8af5-8b8ebf6625a8,3912309a-9bc4-45ce-92be-cc590bceaea4,2025-03-13,Books,420.14,Cancelled,Martinezbury,Illinois
+f14271cd-3f3c-4022-b903-2a01bdcaa9f5,c046581d-6ce0-421e-8686-2ca05365705e,2025-02-24,Home & Kitchen,351.76,Delivered,Port Jacobburgh,Oregon
+ed27390b-b625-4dbe-a1eb-94915f0ab197,ceb2f0cf-021a-411e-9626-ef309531e6a5,2024-12-17,Sports,343.27,Cancelled,Williamsonfurt,New York
+93b1f3ba-c55e-4181-8aac-1610e9d4e82f,81cf65d4-42d8-4e67-9eab-3e5aeba01a05,2024-10-11,Electronics,313.12,Delivered,Christianstad,New Jersey
+8b20e913-89ad-420e-8ae6-f6a1cfc12430,47cbad53-8efe-49a4-ae23-4358cecddb9c,2024-10-20,Sports,378.83,Cancelled,Brandistad,Missouri
+b836e33a-c2f2-44df-9a50-e672070effb7,dda7d2ea-cce0-4dd0-b624-993dc0359ba2,2024-12-02,Home & Kitchen,87.72,Shipped,South Davidfurt,Nebraska
+a896c21b-b5c1-4ddf-a2ec-72ab69ba99f8,18b80d21-6429-4087-a979-4600f877ea0d,2024-11-09,Home & Kitchen,441.63,Cancelled,Martintown,Connecticut
+95a85792-7ebb-485b-bf95-ce2de4812d9c,91c1e75b-4db5-46ac-9c3e-fdc2fab356eb,2025-04-25,Home & Kitchen,437.2,Shipped,Gloriachester,Washington
+6e6af89c-84b1-42ce-a301-1e55fc25887d,f039093d-8ffe-4635-a616-65a22702210f,2025-01-26,Sports,24.33,Shipped,North Shannonhaven,Hawaii
+88bf92e1-bbb9-417c-84ec-1ca4f582b29b,60431d6b-da86-4e90-afc1-79b740939573,2025-01-31,Home & Kitchen,414.65,Cancelled,Macdonaldborough,Rhode Island
+4084d4ec-d31b-4933-9954-dba0be7113d2,95d71534-af1e-4522-9aa8-4bfcc86e0f9c,2025-03-02,Sports,73.15,Delivered,Kaylafurt,Kentucky
+0767395a-fe59-41b0-9bdf-9f32cb502bb5,729b2848-f1e1-4c73-8e10-b4901c17f7ee,2024-12-02,Home & Kitchen,174.21,Delivered,Juanville,Iowa
+fd78debe-def8-49f9-ae39-cb57452a6ad4,9a6b3060-700a-4355-aca0-f95d97e4fd5e,2025-04-25,Books,374.32,Returned,Coleport,Tennessee
+e95a866d-3bca-4e71-b232-09229a35c179,4daf8116-bb58-4d6d-9232-6a75745e7689,2025-07-22,Home & Kitchen,88.77,Delivered,Garciahaven,Massachusetts
+4c000a00-6a9e-4c3b-a40b-b7ec7f4516b6,b0adc433-16c9-459f-b813-cb301a15e8e8,2025-01-25,Sports,410.8,Returned,Lake Joseph,Arkansas
+140d2ea5-349f-4766-8c4a-21024724e19e,c5bcbe5b-3e65-4158-a9e5-25af92e8b2c9,2025-05-20,Clothing,417.75,Delivered,Adamburgh,Rhode Island
+4d4d702d-9e4d-4646-b19f-26817d67388e,3e4f111c-b7fa-414b-b5d3-1be769db198b,2025-07-08,Home & Kitchen,258.66,Delivered,East Alejandroside,Nevada
+bc61f58f-75d4-4329-a955-0e11af8f12bc,2a88ff32-f70d-4936-a238-cf0d8abd025c,2025-02-03,Clothing,13.13,Shipped,Glennton,Rhode Island
+af372fa7-7948-4713-9e9d-040fa4547542,d0836385-01a7-4eb1-91d4-960424afebb9,2024-10-05,Books,150.65,Returned,Mcfarlandberg,West Virginia
+d0ed043d-c89a-40f0-a841-8968a69d310c,89c131d2-03d9-4998-85e6-945ed9035e01,2025-04-13,Electronics,312.29,Delivered,Sharonshire,Michigan
+c0256615-0f88-4526-b9af-d2f300eae0cd,9d34fcfc-17c2-460e-9658-1f4c2a4f774c,2024-09-05,Books,490.78,Returned,West Michelleton,Montana
+04c7a5ec-83b8-4350-b724-74816552ac72,f22766ba-ab66-47a4-b23c-7c29aca40795,2024-12-11,Home & Kitchen,319.59,Shipped,Michelleside,Georgia
+3d122884-fa7b-44a5-adc6-22b1f8f0dcef,a0356775-070e-4746-96d8-212493108d29,2025-04-26,Clothing,137.3,Shipped,West Jason,Oregon
+bd88c809-20ec-402c-a7b9-84f14c44b686,46650521-92d6-4258-897b-5652fac43ade,2025-06-02,Clothing,320.66,Returned,Johnberg,Colorado
+866ab981-4059-4a03-b816-9466697df3fc,0a128ec4-46ef-4b2b-a68b-d77ab2a5ad1c,2024-09-12,Sports,274.59,Shipped,Davenportton,Washington
+2f50de3b-0134-4595-a5de-56eb88bd463b,8672f0eb-f894-4019-9b09-dad5cfe5f3d8,2024-08-10,Clothing,392.12,Cancelled,Coxfort,Georgia
+9f562df4-1204-4f89-b75a-805565b34304,f3e998fc-8018-456a-b7af-b276a3dca14c,2025-06-23,Sports,62.42,Cancelled,North Victoria,Maryland
+6b4b7a09-48fc-41c0-84cb-f61bd4ee119e,630c99f1-7b28-4fca-9fdd-b01374141efb,2024-11-14,Electronics,382.9,Shipped,Port Marymouth,Florida
+87fcc07a-13f7-4af3-8957-fefa44918e8f,1959c2f6-2c74-4dd1-87a1-c3e733b8f1fa,2024-08-30,Home & Kitchen,275.22,Cancelled,Maldonadoside,Arkansas
+fea17800-4457-48c5-b3ba-dba16d13ac9c,31f2894e-8aed-4a5a-9ef1-7a5e3748d31b,2025-01-14,Sports,481.87,Delivered,West Kelly,Nevada
+f45fa7bf-f28c-4ea3-9550-b122ef60c626,8eb1a72f-9022-4396-a532-d92b11ed7cdf,2024-12-17,Electronics,177.52,Returned,Garciaport,New Hampshire
+c44a7525-43d9-4d28-aaff-46c17937d2e2,f6ceecb8-1a18-495b-98e4-e16974765e02,2025-05-21,Clothing,319.98,Delivered,Murphyborough,South Carolina
+8714ec3e-d5fe-4de2-b76e-b52934011eb9,1cfadba8-c330-4370-82f4-9366de9ee991,2024-08-19,Clothing,466.69,Returned,Port Bryanstad,Arkansas
+1368e6d5-c018-4322-850c-3899464ac913,6b52ac99-df5e-4414-9698-4c0d40bd22f9,2024-11-20,Electronics,60.23,Shipped,South Nicholas,Rhode Island
+ac8998f9-331c-482a-8fcf-caf54cbcbc9c,de8eaa35-7c17-4807-a5f4-106a048fe7bb,2025-03-24,Clothing,469.24,Delivered,Christymouth,Connecticut
+a22da661-14e9-4f7f-a4cf-7c4ee2e0b4fe,4316c554-3d1c-4fac-b552-e486bfee4101,2025-04-02,Electronics,347.06,Shipped,West Brendaport,Arkansas
+25b4fa0c-152e-4ba4-b5bb-32e3572f0691,25b32371-6a8c-4b39-9d9e-3cdf88cc8696,2024-08-19,Sports,43.24,Shipped,Williamsview,New Hampshire
+b3be65e7-3aae-4027-80e3-a495f2976dc6,9b7945a9-4d2b-4c6b-84b1-87c8abe88a6e,2025-01-30,Sports,157.47,Returned,Lake Joseph,Ohio
+0c5e084b-7dd2-4954-a37f-3ed2f73382cb,fe95eb8f-8803-4428-b69a-3b9d5a7923e5,2024-11-05,Electronics,357.0,Returned,North James,Arkansas
+83aa7ac6-e795-4eda-b12e-9eec88321688,87033e2f-5025-46cf-8c3a-01736b7ba71c,2024-12-02,Sports,43.0,Returned,Sanchezport,South Carolina
+6c0f921a-400f-4a9f-a03d-4e0a8d8c44c4,57af714e-95f3-436e-9bd6-897dcc020e06,2024-11-11,Sports,295.26,Delivered,Lesliebury,Virginia
+ff0b4a98-a05a-458b-a23d-83e829ac9ad6,7cbcc2f1-db4a-4414-9bd4-db2fb6da6ac6,2024-09-07,Sports,179.48,Cancelled,Wheelerhaven,Alaska
+e26ffd14-a48e-47f8-8dbf-a8ea732d0244,9954fa67-9690-4def-a271-20c9044f8147,2024-09-01,Books,314.25,Returned,Port Ashleyton,Nevada
+3bd51b04-7abd-42d0-b46b-075f2ce0b619,a2b35d9c-b035-4d61-80f2-620d6c420513,2024-09-01,Home & Kitchen,32.41,Returned,Port Amyhaven,Kansas
+b3b7926e-d77f-42dc-836b-c9d435c34aea,ed618323-3948-4d57-a1ec-9e446fec9e81,2025-04-05,Clothing,437.05,Delivered,North Stacy,Alabama
+aa52954d-fab8-4b5b-9878-0b0dc39e894a,2fb86042-f41e-4077-82d6-2f5e67c88c41,2025-04-27,Books,487.01,Returned,Edwardsburgh,Tennessee
+734b3a47-7ea2-4225-a2fb-ce648720deb9,f838dca5-9385-4092-a38e-fb79e60412cb,2024-10-12,Sports,484.75,Delivered,Huntbury,Delaware
+59256c78-3572-44dd-a00e-8f59422177ee,8744e9db-cee6-46ff-b4b8-792cc5be8dd6,2025-03-18,Electronics,377.33,Shipped,North Lancefurt,Arizona
+be0dd8d1-2d83-4522-a3ea-6ae20fcde906,3a9e89d4-083a-4449-bf9c-52e85ed3bc3c,2024-10-05,Sports,73.74,Returned,Deniseberg,Idaho
+c5a86b44-d613-4d12-8217-d3d032da602b,8671f175-2edc-4d19-8d55-5e8b077d747c,2025-07-21,Home & Kitchen,381.55,Returned,Caitlynburgh,Kansas
+04873d41-f676-4120-af05-bfe3510d85ae,e12a16fd-7b13-47a5-b4b3-f4d4b79c428e,2024-09-26,Sports,22.05,Shipped,Port Jason,Idaho
+cbbf0128-b60e-480c-9055-7b9d926575b5,8729fbc2-bf10-43e6-9174-9135c8a131bc,2025-01-09,Electronics,20.84,Shipped,Phillipsfort,Minnesota
+ef0989b3-2de3-4ecd-9285-47fb34174a62,f5bf2b36-174a-4037-b185-0ea8eb69aadb,2024-10-02,Home & Kitchen,168.57,Shipped,Lewisstad,Arizona
+9b515850-3020-44b1-aab0-ef057606e1a5,775672cb-2014-4026-8fbe-6c50021af214,2025-05-18,Sports,249.44,Returned,Port Mark,Mississippi
+d7f48e02-2a0f-47f0-a75e-204c0842ccd0,c54932da-7ace-4345-b905-ccd5247233e2,2025-07-12,Home & Kitchen,387.5,Cancelled,North Ronaldburgh,Utah
+022de3f5-4ec4-406a-b400-4f13fd6dcaa3,e4e309da-c268-411d-b4ae-de9386fb2cc7,2025-04-01,Clothing,344.81,Cancelled,Millerburgh,New Hampshire
+fcfbd74e-db6d-484c-a86c-47eefb1007e8,d0a67996-060c-4e11-8fd7-e808322e8f32,2024-12-22,Clothing,228.49,Cancelled,Freemanstad,Nevada
+4ccb545b-791b-4b6b-b8db-af0cf8e872a3,65ad06a8-f7b3-4ba6-8596-9900360fb307,2025-02-04,Sports,144.08,Returned,Lake Melissa,New Mexico
+384adb5c-af89-4429-82b0-0b2b783836cb,b1f0b0be-276b-4edd-96c1-4f6c035b2bcf,2024-10-05,Home & Kitchen,498.59,Shipped,Port Tami,Kansas
+38e49700-fc88-4ee1-b5e7-e8be7ca40b64,8645d4e9-fb03-4b46-8165-f1df1d66a1a1,2025-02-19,Electronics,218.83,Returned,South Daisyfurt,Hawaii
+d36bc133-b5e2-49a9-92fe-4b783f28d8b0,bd998d1b-3d23-4329-9409-3d6f2f369642,2025-05-09,Sports,231.18,Shipped,Timothyville,Maine
+0107cd0d-7dca-4d20-bb73-e0efebf662fb,ffc141ed-c94b-41f1-9a2d-45bdfbd55366,2025-03-09,Clothing,90.18,Returned,New Louisville,Vermont
+8c6745c9-1a85-4d3c-864c-4a980e6fba8e,386aab8f-8cb2-4caa-9457-1f622893eecc,2024-08-15,Clothing,399.46,Returned,Davidside,Tennessee
+7f825199-c418-49c4-9d2a-1be705d36441,5dcac89c-18e5-4c41-9884-b78be06d4537,2024-11-14,Sports,349.9,Shipped,Wilsonton,Georgia
+6f6f81c3-4cdf-4e7d-a053-744b0bf74487,bab360b6-2910-482a-8da2-7ca1bd8298a9,2025-04-15,Home & Kitchen,118.18,Cancelled,Maureenhaven,Oklahoma
+ecbb4f31-3330-4cc0-8d34-7f02318b2c2c,05ca40ff-c279-4f4d-bb16-20b39b5095b9,2025-04-29,Clothing,50.37,Shipped,Angelaville,South Dakota
+ed0c2617-fd99-4daf-95f1-0409b7b4793c,ba619c00-f181-4efd-bbdc-48f4fb946e36,2024-12-07,Home & Kitchen,343.44,Delivered,Tannerside,Washington
+a25f834d-d378-4c50-a60b-23d217cf793c,db6ed9a6-1c45-4291-a215-25cc510aecce,2025-06-09,Clothing,330.71,Delivered,Vickiestad,Missouri
+c0b1a6ea-bc95-4c7b-a1a5-5c9b172b2d8a,9172e9c5-4431-4858-be9e-4ff6f4ae3800,2025-03-09,Clothing,143.9,Shipped,North Sean,Kansas
+1f1aa81b-f921-4ef5-a684-0c537f8fa5ec,97b804ed-76d4-499c-8ebd-48b36574acee,2024-12-23,Books,475.92,Returned,Michaelchester,Wisconsin
+d7e689dc-82cc-4ec6-8fbf-aee4c9e2f100,3d62ef60-dbff-44ab-b3d2-9bc6858b96c6,2024-08-22,Clothing,84.02,Delivered,Allenport,Arizona
+58838c99-5e88-4d55-ab67-bec092ab4cdc,5455fb90-1d55-4a4d-9092-9b667aa8e4fa,2024-12-01,Electronics,221.84,Delivered,North Brianhaven,Arkansas
+e25fce1a-dfea-4515-8582-59bf02a6a77f,51913b87-bf09-4688-a670-55aba2751ac6,2025-05-09,Sports,472.37,Returned,Bethton,Delaware
+36fb9e68-b512-4a6f-8617-1805179f6a04,8481043b-477b-420b-abf8-d587592ac9a0,2025-07-03,Sports,215.67,Returned,Danielstad,Nebraska
+0ebef435-405b-4f9a-bbe5-5a8282de6131,7c914314-2867-4bc4-b98c-5d7061367933,2025-02-08,Home & Kitchen,322.88,Cancelled,New Feliciabury,New Jersey
+77feeaf5-3d19-462e-a62e-a7f7d0b8aea1,60a8b722-3ef0-45bd-926c-1d1cd5af187c,2025-04-28,Clothing,204.82,Returned,Leahville,North Carolina
+b0518061-cae9-4419-9a0b-fb698f229f80,fad1328d-de13-41c4-b45b-b7652bcfb691,2025-04-18,Electronics,144.37,Shipped,Port Hannahburgh,Delaware
+5d067d5e-7018-411f-9f2c-0c9449b16865,46509ae3-25db-491f-8f2c-e44479f05163,2024-12-30,Home & Kitchen,492.15,Shipped,North Sharonland,Oklahoma
+48a010ea-f03c-4142-a78d-f6e885230b0a,f77cd35d-050c-4057-a191-f2df544f3008,2025-04-02,Books,210.57,Cancelled,Port Jennifer,Florida
+551af4a8-c24d-44ac-adde-b43758958670,ca2fff6a-1eb6-4702-a037-07edc48b77af,2025-05-14,Home & Kitchen,448.11,Delivered,East Andrew,Massachusetts
+fb746518-54b8-444b-af90-d679442d323f,7c57c0d0-d7d9-4a4a-8103-796103b9b7dc,2025-05-09,Home & Kitchen,122.68,Delivered,Elizabethchester,Tennessee
+e535bd49-db09-4ee0-9543-2b5fcba99f54,15ca1d86-c28e-42c2-aa4e-d164dbd1fc3e,2024-10-02,Clothing,114.42,Returned,North Jessica,California
+fb61ee91-393a-4cb1-a021-b6f28d86299a,3c591e05-e796-43f6-b1ed-211337212628,2024-12-18,Books,25.26,Shipped,West Gina,Alabama
+df54abb8-7027-4f13-9ec5-f61aa1b8dbc8,6faef77e-ed60-4b0e-a2c5-4f8734d5dc1c,2025-04-07,Home & Kitchen,329.32,Delivered,West Kennethberg,Hawaii
+37fa54ee-fb18-4ec3-81af-626df3a5adb5,38b2d21f-7805-4614-a963-3c71c4b404cb,2025-02-22,Electronics,190.58,Cancelled,West Nicholasburgh,Maryland
+03d4165e-ba09-43bd-b92a-87b84c9cf091,505d0f9d-9560-4172-a272-8699b05f7695,2025-06-03,Electronics,433.54,Cancelled,Normanchester,Massachusetts
+aeb6f2ff-0e1e-4e7b-8077-12ae0fba1dd3,679b1d98-c67f-4d89-811d-e9d9a6145775,2024-09-23,Sports,241.87,Shipped,North Michaelmouth,Montana
+c8ddaadb-c0b3-40b2-be7c-4a0f22b6584b,d6f3fa7b-e334-454c-8314-e733d054b754,2024-08-27,Books,484.41,Cancelled,Port Eric,Kentucky
+8f2194bf-3b06-4bde-a1f9-a5e9d9803592,eb40a627-589f-4283-9e64-3aacdc724f2c,2024-09-10,Books,100.91,Cancelled,Ericaton,Ohio
+8415d772-3d24-42af-ae12-c61fb90602cf,6ad2a324-fa0b-4c11-b242-7fe299f5d401,2025-05-03,Sports,435.63,Shipped,Michelleburgh,Nebraska
+d1c226ca-f806-443c-9501-949736a4589e,9bc592d9-c414-4a66-a734-0d9c24ff9065,2025-04-15,Home & Kitchen,390.53,Returned,Lake Jennifer,Florida
+622e0a21-2847-4e8a-b956-f471fec9e6aa,9b6e63a6-03de-4db8-9282-ced081753993,2024-11-25,Books,387.75,Returned,Lake Danaville,Florida
+c856f076-436c-465f-b039-040cf0fabdf7,199f8a10-af70-41cf-b388-7ef5cbad109b,2025-03-09,Electronics,423.94,Cancelled,Makaylatown,South Carolina
+434fc98e-af66-4c91-b5f3-e8557dc49fe2,d7ba1719-41c0-48ce-ac4e-a7c2f24615f6,2024-08-30,Electronics,382.9,Returned,South Kaitlinchester,Minnesota
+665f9de7-98f4-46ce-8146-137be57c7e25,cd7d9b6d-7028-4ef0-b4ab-cc7e2af51159,2025-01-26,Clothing,316.85,Returned,Markport,Delaware
+72d62b00-3d75-4ee7-b911-fd0874ae0f09,5d5c6684-f7e9-4bc3-a590-27f18a45ca9a,2024-11-27,Books,74.31,Cancelled,East Michealberg,Florida
+b20fd496-2d58-4cbd-b70d-1624dd445937,67ab9c27-508e-485f-a023-afe3ba45d266,2024-08-17,Home & Kitchen,25.94,Returned,New Chase,Minnesota
+3aa9b498-2caa-4a94-868c-ce3afcc13f36,f9787a84-42af-452a-a506-652fc406fece,2024-08-29,Sports,461.22,Cancelled,Rebeccaville,New Mexico
+bfb9e431-90a5-4ef7-9af0-142e9f350481,3505fc0c-232f-4f93-a76b-61435cf4c7f7,2024-08-30,Sports,312.16,Delivered,South Erinchester,Georgia
+260301eb-8334-4df1-b98a-fbc9c81da1b7,8273942d-a332-4384-ae10-36b87f985523,2025-01-10,Home & Kitchen,400.3,Shipped,Andrewside,New Hampshire
+f61b06d4-db02-42d2-82cf-2a3b24128184,7ab97619-bc06-4e39-95a0-c2052ac30848,2024-08-23,Clothing,245.95,Shipped,Port Kimberly,Mississippi
+803e652a-6535-453b-970a-19d3544c3481,03f913eb-b75f-4a75-b649-872db22607af,2025-02-14,Sports,67.48,Returned,West Mariaport,South Dakota
+e3fa7819-2d12-45bf-b81a-ab5f650004f8,a4cd00e5-1e2c-410d-86db-a817f397d5f6,2025-05-30,Books,71.34,Returned,Port Ryan,New Mexico
+9daa0d53-b586-4590-9072-cd88af792eb7,a07bb983-5bb4-4285-b5cc-4d4e06c4ce12,2025-03-25,Clothing,345.93,Returned,East Juan,Indiana
+a004333d-49f2-44e2-918d-1847a5f124c4,b8704833-7f71-4b4f-ae17-df12908cf305,2024-10-26,Books,220.85,Shipped,East Trevorhaven,Minnesota
+a4967b44-0011-42ba-9d73-e140aeb8a947,c024ad5e-1a72-4ba6-89d6-dc13e5b625dc,2024-08-25,Electronics,108.26,Delivered,West Paul,Iowa
+53a0061a-3373-48d8-b0b1-3be05196c61f,4b4fc26f-3f64-48f6-b9c0-b3fb8fc00c48,2025-03-30,Clothing,250.88,Delivered,Laurenfurt,South Carolina
+e3fdde77-a12c-4880-ae03-4f19aa85a020,10c16b70-19db-4201-916a-fe12db765d0c,2024-12-23,Sports,41.46,Shipped,North Maria,Maryland
+3598d7de-0be3-417e-855b-ee403756f351,4227d484-5426-4fce-a364-e62c5d0c1826,2025-05-20,Clothing,295.17,Delivered,Sandraburgh,Alaska
+d9f7ae52-a171-4996-a479-e5c17b2aa016,1107fa13-8738-40bc-b5bf-5f36c9d0f676,2024-08-22,Clothing,141.81,Shipped,Anthonyhaven,Texas
+7add4428-fefd-48a5-9a5d-8d53f7d82a61,18f5b619-f714-4ea3-9af4-22008618f73c,2024-10-05,Clothing,400.8,Delivered,East Denisebury,Iowa
+f3aa489c-f764-40d5-b157-a4fe91f9490a,d23cf318-e368-4601-a3c9-88b46039df71,2025-04-23,Clothing,162.08,Cancelled,Port Linda,Texas
+df9fdc98-ff65-400e-ae87-fa3a7610ef30,a6285e1c-7ad5-49b2-b0f4-971a2e042182,2025-05-31,Books,233.06,Cancelled,Stephenfurt,Alaska
+0ebce18a-eb06-4729-913e-0eb943e858b8,a75747de-8ea7-4af6-9e42-e4fa0429e87e,2025-01-11,Electronics,15.69,Shipped,Rebeccafurt,Nevada
+2187a939-eb7b-4203-92f0-17d265d5ddb3,748fdc52-de6b-4fc9-8f43-d36908c86186,2025-03-09,Home & Kitchen,45.5,Delivered,East Holly,Texas
+a6dfd24b-669d-477a-8a24-540e736800f6,5709d690-aaf3-4042-90da-07e677568ea7,2025-02-20,Clothing,202.32,Returned,Williamsland,Wyoming
+42afcf1c-89c9-4639-bc21-769d74d4971b,8533c73f-70c3-4d68-a043-81fcf5dbae7c,2024-10-28,Sports,245.17,Delivered,Michaelport,New Hampshire
+d140e48e-4ee0-4acc-8c2d-4179f1a05351,a8ba2dd5-23c5-4307-baa9-c3785ca740fc,2025-04-09,Clothing,304.01,Cancelled,Adamburgh,Tennessee
+79f0b0cd-afd7-4513-b2bf-403be45a2b74,021443a2-349e-45bd-bade-8012d1d730f6,2025-03-24,Sports,152.91,Cancelled,Douglaston,Arizona
+aa6bc470-ea2a-41be-b361-dbf5bbbdcd50,4d8d0564-0b77-453a-a9a5-6ef2fa63cb72,2025-02-21,Books,350.54,Delivered,Leeborough,Kentucky
+576568eb-2b69-4a4c-b58e-19e3ad1d8690,36a9b252-64be-4d77-8769-70e2125e1a8f,2024-07-28,Sports,431.46,Delivered,South James,South Carolina
+f2416a90-9701-4d46-be6d-c1814f680e60,74110f7f-0ba2-4a9d-90ae-d4e8a060eb29,2025-05-21,Home & Kitchen,392.13,Returned,Christopherport,Alaska
+c5e1cb04-8927-458c-83ca-b7d925e6f593,4c28b5c0-f40e-4703-8dcd-d5bae6ba8914,2025-06-09,Electronics,29.41,Returned,Williamsburgh,Hawaii
+b595ef3d-f46e-42ad-9d8f-ac98f34add34,319e580f-bbb1-4f49-9350-edab2308c65f,2025-04-23,Sports,245.45,Delivered,East Belindaborough,Nevada
+e09629f9-1efc-4a3b-89c8-9001830c60d5,e3c749b5-b5fd-425d-a964-47cd9c8ab87a,2024-08-01,Sports,61.42,Delivered,Sarahton,Massachusetts
+0a2c0ba3-b31e-43d7-af0a-87b56e349122,4648bb80-4a69-4158-a387-3dc9577576db,2024-10-01,Electronics,128.6,Delivered,West Ryan,South Dakota
+711049e3-d620-40fd-b903-526412750e1c,eca6a0ec-cd69-48bb-bd7b-c0f98095712d,2025-03-13,Home & Kitchen,493.46,Delivered,Susanville,Oklahoma
+5ce42469-2ee9-4963-bb64-4e7a024e3c38,26ef3a14-1c30-4c10-b31b-11b12d46479c,2025-04-12,Clothing,79.82,Shipped,Pattersonchester,Delaware
+e8f9fd06-55ca-4bd0-9ddd-08fe7bea28f5,895b7425-d081-4246-ab43-f5f106c69068,2025-02-21,Sports,254.46,Delivered,Markland,New Jersey
+6ce421a2-4a55-4960-b3fd-af3a9e5b9168,0a30514f-f2f6-4f55-aa1e-f3d96f382397,2025-01-01,Electronics,312.9,Returned,Lake Nicole,Arizona
+187fde20-7fdc-4549-88d2-2050b894b482,618935a5-ca38-49bd-a8dc-1f55d05b2f50,2024-10-06,Books,354.21,Cancelled,East Matthewport,South Dakota
+f7139093-1ba9-4f8c-911b-18922d1e45ba,1a183a3c-f91e-481d-8723-21dae6b2ff7d,2025-01-05,Electronics,284.23,Shipped,Yoderberg,Idaho
+8a323392-78f3-4c66-8385-f139bde03ca8,73fd34c5-2fc8-424a-8ef8-57e8a95650d8,2025-02-22,Books,14.79,Delivered,Erinland,Oregon
+081fabd2-6865-4323-a010-329955719505,7875022c-e4ed-4ac1-b7cc-c7004431e58e,2024-09-10,Home & Kitchen,169.97,Cancelled,North Annchester,Connecticut
+fc2eaa88-67fc-4c05-80e0-8b5f11227f71,f677d9dd-4cb3-4e5f-b331-8e30f5ac7882,2024-11-23,Clothing,263.68,Shipped,East Kimberlybury,North Carolina
+911cdf3f-71ee-479e-8be0-9bc0ae3e4d1f,937c08de-20a3-4d8b-8a39-18ad4ed0dc5d,2024-09-24,Electronics,53.05,Cancelled,Sarachester,Arizona
+6148e764-cf05-4958-b52e-a05bbe4b205b,56d03422-aedc-4b26-bdc7-43cf6ad413e4,2024-12-25,Sports,181.81,Delivered,Colonland,Alaska
+efb8ce8d-b23c-41d2-8087-7b5fed2ba499,7ec6d3da-97e7-4851-b3f6-b117c33f6836,2024-08-16,Home & Kitchen,26.27,Delivered,East Andrea,Arkansas
+675c7920-c01a-44af-ae52-5d9c1df7ff2c,3b47d077-1d15-4197-a641-9dd748af43ff,2025-01-09,Electronics,48.5,Returned,Lake Robertview,Missouri
+9ca8b623-e6a0-443a-aca5-0bd49d43dcf1,d69c6661-1408-4b97-a1fa-6ab79a8a2a77,2025-02-26,Sports,204.49,Delivered,Floreshaven,Iowa
+b1a9bec0-faa1-40da-bcc0-b131328cd53a,9b15ef1c-e7b8-49d1-b97e-463077971d6d,2024-12-06,Electronics,75.03,Delivered,Schmidtland,Maine
+874e0a6e-ecde-4782-8905-183d544dff3b,c7b143c0-888e-404f-8c36-d8337320c594,2024-10-26,Books,288.1,Shipped,Samanthaview,Georgia
+a94cada3-713b-4c67-99e7-4d301e9dd649,1362ab66-a7ad-41f9-8606-2d3540bdd94c,2024-10-21,Electronics,347.84,Returned,East Kevinfurt,New Jersey
+ab96680e-32cb-4fc5-bfb4-d7708a859525,a6e60796-3dbc-41f3-845d-057110233ae1,2025-06-23,Electronics,402.29,Shipped,Lopeztown,Louisiana
+48ab3a24-d011-4a2e-985c-1c90c921efdc,26106c3f-2286-4150-806d-b15098035f72,2025-07-22,Electronics,108.07,Cancelled,Jillmouth,Vermont
+ed6bdf24-3294-4434-a6d9-d134a40a300c,4659b3d5-b089-4a0b-aee5-93f7d26937ca,2025-01-15,Home & Kitchen,92.07,Delivered,North Jamesmouth,Montana
+30a01eb5-4ebd-4586-ac82-12d4831b096d,c3e785f8-ef16-44f2-b5a5-bfe2e3f230ee,2025-01-04,Electronics,61.24,Cancelled,Port Jessicaview,Iowa
+0c0c8760-8aac-4df9-b729-bc173ece47f2,ace77a3b-4663-4804-a076-4e01f34078ff,2025-04-24,Sports,321.85,Shipped,Monicaville,New York
+e2231fc9-938f-4217-ba82-3d6abf657079,e6692200-1a54-41b6-8efe-9662de80b3d2,2025-05-21,Books,356.17,Delivered,West William,Mississippi
+f93baeac-c8f6-4b5e-a30e-cec810d6a49e,33a54090-4de2-4d2a-9872-d73439106ff8,2024-11-24,Books,25.48,Delivered,Robertsland,Florida
+d7e794fe-4199-48c5-95fb-e201b1c4983c,523ccf41-ef55-4ebe-9ada-a661a498353c,2024-10-25,Electronics,468.74,Shipped,East Joseside,Arizona
+46a16060-1958-4c34-9a23-64c36c279b5f,cb91c9bc-fe6e-40dd-b3e1-140a61428263,2024-08-30,Home & Kitchen,35.47,Shipped,Marctown,Utah
+3d497cfd-7bcb-48eb-831a-9236800b41c1,a2df0908-4e7f-4312-bdaf-c5da127d3070,2025-04-28,Home & Kitchen,275.24,Shipped,Lake Calvinton,Nebraska
+3a30e294-a9f9-4421-982d-cabce80368f8,0d2b8e1d-0d82-4141-b465-d84df431475d,2025-05-31,Sports,357.44,Shipped,Carolineside,Nevada
+97dafd2b-a560-4681-92ff-f6230ca8c5b2,d472ad73-6612-4c22-af97-50dec64568b9,2025-05-15,Electronics,436.77,Shipped,Garciaberg,Arkansas
+35af72ea-1584-4e34-8488-407e67ca468d,901fd860-5cac-476c-a2fa-f23a27da945c,2024-11-28,Books,359.9,Delivered,Hillshire,Texas
+42a90fe0-ff8b-4f95-b90b-a0de7e19973d,20976c17-0e05-4ddf-8cbd-7c38a1804ca7,2025-06-18,Home & Kitchen,402.85,Shipped,Batesfurt,Indiana
+85e3b3c9-3805-46dd-8528-36a7a04165b1,93a6b67b-1301-4971-bd35-53667e798e33,2024-10-18,Electronics,176.33,Delivered,Cindyfort,Missouri
+e7098c9e-3f6d-4b5f-97d5-a9118d35d9e9,916ec47e-a4d7-4618-a761-e7ffac5315fe,2025-01-11,Home & Kitchen,409.26,Delivered,Jackieborough,Oklahoma
+a6a1d721-165f-4b5b-8c40-b000ad20b88c,d25ef3aa-ef4c-4c5f-bc6e-42b5163854d7,2024-10-18,Home & Kitchen,49.26,Shipped,Carrollmouth,Kansas
+0856b8de-c8f3-4c61-82d6-547fc9226899,f542a328-0c14-4488-b38a-bc0e6173c809,2025-03-08,Books,448.46,Shipped,Emilyhaven,Florida
+102f77e0-0cf0-435b-be53-c3fba0e445ee,62a63f59-ff7b-4bf0-b1bc-d2c1548f63a7,2024-10-25,Clothing,278.32,Returned,West Stephaniebury,Oregon
+8a7482f0-57bd-4b58-a327-06a92c13ec10,6352b28f-6e2b-429a-a0da-e5c3b73d6806,2024-10-22,Sports,410.48,Delivered,West Ianview,Nebraska
+b7b221d7-a6c7-4b76-b0ab-fe94bde46d18,a283939f-24cf-40da-b2ae-2124c0db24d2,2024-09-25,Sports,231.64,Shipped,New Katie,Pennsylvania
+8bce1203-c0a6-43eb-bda3-1b9b8da6f1fa,6d2f760c-7e1e-43d7-bcfc-392d94a2e0b3,2025-05-08,Books,325.35,Shipped,Parkerfort,Nevada
+b2511def-9f89-41f4-bd51-f79b2c42bf09,41048b40-0fd2-4984-b1d3-6eebbec579a7,2025-03-09,Home & Kitchen,267.94,Shipped,South Samanthaview,Massachusetts
+d5fd8351-b1a4-4760-85cc-6e4a12cccbd6,4ccb253d-8c7c-452d-be83-45a9332be8f1,2025-04-13,Electronics,368.48,Returned,Port Francisco,Alaska
+dd8b0259-378c-4bfd-8eaa-92237f3129aa,3f98ad0a-c8d6-44af-86ac-e2081bd104c3,2025-06-20,Home & Kitchen,50.0,Returned,South Jennifer,Rhode Island
+6090b123-bd16-43c3-a9e4-34df055775d2,d75b9ad3-56f5-45d7-b492-5994fb2b17bf,2025-05-15,Books,39.57,Cancelled,Martinhaven,Tennessee
+bc8e4f5b-0d53-4fbf-9cd7-b52a7ef8703b,9e080080-72dd-4a16-baa2-e1fbc7cc64a1,2025-01-25,Sports,131.08,Delivered,Lozanostad,Colorado
+a9bd760b-b121-47a4-b26b-6a75dde8db7b,1dc8133f-18a8-4d64-94da-d53f76fe614f,2024-10-21,Home & Kitchen,88.18,Cancelled,Gilbertport,Vermont
+10a10b66-97fa-48f5-bb86-635cbecedc9c,d681af25-8ee1-4d1a-8153-1f278759c64d,2025-07-08,Sports,437.17,Shipped,West Danny,Arizona
+84c44270-dcbb-45a4-ae39-d5b0a410fb70,27e91649-09cd-4fa6-b2a1-cd4c1e487682,2024-08-25,Electronics,117.41,Returned,Lake Christopherberg,Indiana
+155aa4cd-c9c0-454c-bc3c-b96a031d1f39,7da3483d-44ec-4cc9-8a70-94fef507afac,2024-10-23,Sports,488.17,Returned,South Jasonburgh,Nevada
+dee17406-4c13-496f-b1e9-eca72bc47c1e,68d49ad6-6042-4d79-b480-75ba257fb1f5,2025-06-15,Sports,175.08,Cancelled,Farrellborough,Ohio
+178a5eaf-7250-4eef-a3d8-9fb2e92c3e2a,98b338e9-268c-4bd5-9d29-c2e7a7d49c03,2024-12-27,Clothing,99.24,Returned,Montgomerychester,Indiana
+d9c25dfd-9e64-477d-9978-ea41a838076f,5d3b3208-9f9e-4531-a54b-c2ca9a689ea5,2025-01-05,Clothing,396.95,Shipped,Allenburgh,Oklahoma
+dbd39bae-6d14-4410-b347-45512f91b689,657c0291-597c-487e-aa35-406245819cc2,2024-10-29,Clothing,332.77,Returned,Amyport,Illinois
+961e1b2f-26ef-4912-805d-9c05b6a3621b,01818b2d-6382-446e-839c-7a90d7b6f3e7,2025-05-16,Sports,254.12,Cancelled,Rayhaven,West Virginia
+ffa6621e-d0da-4076-a7a1-eaaff061387c,0f5f40d0-2d26-4bdf-877b-6ca15476a59b,2025-01-09,Books,282.13,Shipped,Bethfurt,New York
+da47c18d-1ec9-486e-affa-c14bef76fdd7,3c58581e-03a2-47e9-a0cf-f59724930337,2024-08-09,Sports,362.41,Cancelled,North Jared,Illinois
+7ee8f568-f0f0-4b9e-80fd-f61e7c1f1af3,a5d5426e-0e1b-47b9-aa3f-fafa7787abbe,2025-02-01,Books,121.94,Returned,Smithburgh,Connecticut
+4f34d717-a98a-4b53-af81-1c3df965bc2f,f87dc621-5b42-4a08-a564-092d1740473f,2024-12-01,Books,498.2,Cancelled,New Kimberlyview,Utah
+6edb7541-efd6-4fb6-b09c-d824d8ced9c3,353aaf40-3a44-494d-82cd-bbd2598c4b36,2024-08-16,Clothing,487.65,Cancelled,Elizabethstad,Colorado
+86606d32-da94-413e-a8c1-866e40148f31,0570efa1-fe43-466f-902b-6570fd3d2fb6,2024-08-28,Home & Kitchen,328.66,Delivered,Gonzalezside,Iowa
+a1334884-4a16-4b20-bdf0-dc7fed76e3fa,437a689c-5bd1-4bd7-8dcd-8925c9cec66a,2024-11-26,Electronics,107.78,Returned,East Joseshire,Indiana
+bd4b8f2b-6fce-4175-ac03-61f559a7075e,ccad6c22-5d28-4608-a3bd-280178f15bd8,2024-12-12,Clothing,343.31,Returned,Sandraville,Iowa
+04328a6d-fc9f-48c3-98e0-eaa096728c47,239d79e4-7a0e-4b01-87ac-a53f9b05e942,2025-03-02,Clothing,45.38,Cancelled,Meganview,North Carolina
+8b5f5d07-2758-4bf5-bad9-eede30e5955d,a0ea2b15-7935-4c75-8d14-b488b682fdd6,2024-10-15,Home & Kitchen,25.02,Delivered,Kimberlyberg,Arkansas
+73f652f4-c8ef-43e2-a2ce-da7b3e7d962a,f465cb9e-55ed-4727-9f18-c2169b59ebdc,2025-06-29,Electronics,136.26,Returned,Lake James,Arizona
+fd3913d4-691f-4ebf-a9c2-b87c2f0cac5d,c72aaa97-25e5-4e03-a716-f93e6ffe7d0e,2024-10-16,Sports,236.69,Shipped,North Douglasstad,Connecticut
+ab659164-f06a-466c-9a3c-1a5e50027099,b9286ff8-3260-4650-9665-805f4ac15d6c,2025-06-01,Sports,435.45,Cancelled,South Nicolefort,Colorado
+005f0ae6-4879-4ddf-960d-7d98d3099635,373d71d4-cf32-4f83-833e-2468b14057af,2024-11-23,Clothing,366.31,Returned,East Kathy,South Carolina
+f9411fc0-f592-439f-8de1-9fa74841a15f,db5f8853-3929-43a7-a5d3-263553194743,2025-03-24,Electronics,373.93,Shipped,Johnfort,Missouri
+3dc0192a-9010-41c9-a8e2-793c01a9c152,66573369-15fc-4b81-9c6e-b1a7bdf85800,2024-10-13,Clothing,218.49,Returned,Guerreroport,Kentucky
+f2f4bd0f-4e8d-420b-bf0a-887dc70c0f58,eddfbde8-feba-4276-8af9-f1c6f35e59a7,2025-07-22,Books,179.51,Shipped,Sampsonshire,Georgia
+b25fb010-4b19-4303-9318-291a552572bf,38f1a445-f4fa-45ea-a49a-ed73dd148f01,2024-11-14,Clothing,191.81,Cancelled,Rogersport,South Dakota
+422fa16d-39f8-42f9-963b-b872aba5009b,9635fcb2-ce0c-4135-80ec-70e7d145ab1a,2025-06-25,Clothing,493.95,Returned,Ricardoview,Arizona
+4b4020a7-7e37-427e-9fe0-f5a961ce6bc4,9bd9151d-0965-42ec-8594-ffecf48e923e,2025-03-25,Sports,29.65,Returned,East Sarah,Kentucky
+e3804829-2515-4d44-873a-9a1808d61057,a726dc54-bca7-460f-9fb6-ce498af31350,2025-01-05,Sports,434.85,Delivered,West Douglasside,Montana
+edfa2635-d610-4da7-a484-91175cf24aa6,3134a66f-78bf-45b4-9309-ca9c22de720e,2024-12-15,Sports,293.55,Cancelled,Anthonyfort,Tennessee
+d0b42edb-f904-4de3-8970-0bccb9a1bbef,fabead93-19ef-4f16-9ea0-e9a88ce4d547,2025-06-29,Books,224.92,Shipped,North Timothy,Louisiana
+1452c68c-66fc-4e82-83f1-2aa2e26037f7,263c86c8-3315-4713-98b8-93b74d716b16,2024-08-29,Sports,365.38,Returned,East Karen,New Hampshire
+2b3faab4-4634-4248-b7a6-0740d0691ac3,4e2c3729-053f-40cb-9d23-a615ffa9a7e0,2025-07-17,Electronics,248.47,Returned,Lake Bridgetview,Montana
+fabf5201-647e-4255-ab38-677499df77ef,5cd1b41e-a4c3-4202-ac20-cd3ec6f328e7,2025-02-26,Home & Kitchen,437.98,Shipped,South Monique,Utah
+c259018b-a833-4c93-ad79-2461b0bb6647,13dc2abf-c6d6-4f52-854b-3ca6cbacb910,2025-04-27,Electronics,451.34,Cancelled,North Kimberly,West Virginia
+2678890c-056d-42c0-be42-dded71ec08e1,c8621f81-2248-4b39-85e1-1bda6cad6aff,2024-09-19,Electronics,216.64,Delivered,Keithberg,Colorado
+777a92b2-47d9-48d2-a077-83b9f264e96b,80ce5240-7f0d-4c40-8928-fcf97adf619d,2024-10-26,Sports,145.65,Delivered,Kanemouth,Oregon
+5924d5d1-4b8e-431a-8383-f851a535be2b,a32394a7-054d-402e-abfd-4b42dd039696,2024-11-15,Home & Kitchen,300.25,Returned,New Tiffany,Florida
+4f3fc31e-1155-4cf1-9b5a-659ab95aa632,1a68897d-b2ab-4f1a-9607-e1dd67184c21,2024-07-29,Home & Kitchen,457.06,Shipped,Lauramouth,Florida
+c21a70e2-3685-4186-8038-5c28006c94a1,c13146d1-4cbf-4fbc-aea5-4fbaff7dc388,2024-12-04,Home & Kitchen,113.22,Returned,South Joechester,Wyoming
+c8deed97-a0b1-4cce-9ed9-a80bc62c0b97,4c418326-26f3-4122-8bc0-e31cabdb8158,2025-06-10,Books,315.25,Shipped,Port Ericahaven,Alaska
+925b8e21-8c6c-44a2-b05d-45c92e892144,a614b300-a32c-4afa-abf4-b9f35886741b,2024-09-07,Sports,319.46,Delivered,South Michael,New York
+b1e1b1b2-0d44-47ef-9a20-6060a015ffcd,bdd59a5d-54b4-4b77-b434-70f6e4cd0b56,2025-02-14,Home & Kitchen,369.23,Cancelled,East Amanda,Missouri
+43e90471-cea0-4f77-bb04-14714f8c8544,a274790b-ba93-479e-b66d-a269f8ed2f37,2025-01-12,Books,74.47,Shipped,Lake Andreashire,North Carolina
+8fc08709-76d2-4d7d-ad51-a7f1e460cb96,c8ffb928-4eef-406b-8b00-9be7f29a43c2,2024-10-25,Clothing,360.75,Delivered,Michaelstad,Arizona
+7e0a68d0-c213-49f0-b69d-180a15c4d842,66e73be5-b538-4344-a07f-f9e3d679c546,2025-01-13,Clothing,455.43,Returned,East Vanessaland,Connecticut
+a7f328a8-4bf9-4ada-8e55-1528ac16515f,bdd146cd-bc3a-4e71-aef6-2068c5c94d85,2025-04-14,Books,98.04,Shipped,Williamland,Louisiana
+c2770853-01b8-44ed-8002-35a0cea047cb,ec188959-2889-4f11-8ad1-a8d9b9d79d69,2025-05-08,Books,126.4,Cancelled,Ruizville,Connecticut
+ce541b00-6933-415d-a6cb-d3e4418ecc5c,ed922424-0de3-4a1d-bd5f-677bc85f22fe,2025-04-01,Sports,485.98,Returned,West Stacie,Michigan
+d6aa669e-d3a3-41df-b142-70b274d2b92c,ac33ce61-d793-481f-b52e-24152c5aac74,2025-05-05,Sports,98.68,Returned,Justinside,Montana
+3eac859a-98c9-4c44-9237-2e490a721188,4e737923-e2ec-4133-a874-ed64392fdfab,2025-03-24,Clothing,428.65,Delivered,Deniseburgh,Ohio
+0cd863f4-544f-4a8b-b04d-1321a1b42558,5325adb4-d528-4307-a817-d47b0d7d6a01,2025-05-26,Home & Kitchen,251.22,Shipped,Tannerton,Louisiana
+cdb15463-1f93-45ee-bec4-6c36add8102e,bfc992d9-f844-47a9-bd7e-93ad4293bc49,2025-01-15,Clothing,131.14,Returned,South Kristen,Arkansas
+f763b598-5915-4cd4-858b-3b534583db59,d84adc37-01bf-400f-ab46-c8a83af81c3c,2024-12-27,Home & Kitchen,436.67,Cancelled,Port Lindsey,Illinois
+092a853a-a105-46a1-9683-ac381f4dba45,c5070388-8848-481f-ab9f-60d9b04c4d64,2024-08-23,Home & Kitchen,228.2,Shipped,Melindamouth,Iowa
+fdf5af8e-3159-4e35-acb5-a8f5f4fa3964,220bc813-f392-42b3-a028-3fc8633035cf,2024-08-25,Sports,262.26,Cancelled,Nguyenmouth,Rhode Island
+32d70cb8-a9e5-4248-b59d-b379956cb5f8,063f4bf9-6bf1-48b3-b33c-cd0d23ee2a9a,2025-05-05,Electronics,186.02,Returned,West Christina,Hawaii
+f1bad462-c780-41e1-9d41-cfa5e127b112,5c1f7162-b7b4-4d10-8198-7fa8a7bbd00f,2024-08-25,Electronics,300.55,Cancelled,West Charlesland,Florida
+b59b73db-756c-4271-8f45-1f47fd80259e,f549c280-746a-41ad-a45a-65207de43828,2024-08-05,Books,90.13,Delivered,East Monique,California
+6944f570-465e-4a08-a7f9-554d89822af8,a777623c-2a6a-4a9e-8acd-47a65f6d29b9,2025-01-22,Sports,201.63,Cancelled,Colemanburgh,Texas
+d280abac-b779-402c-921a-5f1017c64a5b,24d97a71-4c3d-4121-909f-41477fd5226c,2024-12-21,Home & Kitchen,485.01,Shipped,Ortegashire,Illinois
+96ea959f-e40a-4c7c-b1c3-b0d37298f89e,7e4830ab-0f5a-4206-9f15-2e930e6dea86,2025-02-28,Electronics,136.49,Cancelled,Port Michaelfurt,Illinois
+1655e810-ec8e-4061-8276-32b5bfb9839e,177a7e31-f9fb-460a-92e3-561a6a84cb3e,2024-08-05,Home & Kitchen,331.8,Cancelled,West Misty,Georgia
+e9435dc0-1d6c-4ea9-a601-3133d5ebc3bf,7642799c-be17-46c3-b8ff-4d94203c5e34,2025-06-12,Electronics,169.34,Delivered,West Lisa,Massachusetts
+7d7ac7a0-27cd-4b65-99b4-391b00109bb6,79c639ee-329b-4c12-ac00-76190f358e4a,2024-09-24,Electronics,389.0,Cancelled,Samanthafurt,Michigan
+34fd706a-bc27-4e5c-ac08-a3f9aae11738,2fae0154-8fef-4e5e-8e7a-0c9f987097b3,2024-12-31,Electronics,74.13,Cancelled,Frankfort,Washington
+19adcf6b-edf4-4f63-9c80-0124e91fbb7c,db2d6d64-859d-425c-83d2-73cc8d37eed2,2024-09-19,Sports,485.21,Returned,New Stephaniefort,Maryland
+fd6f7837-8c70-41aa-bd88-dc7fe8b337f0,290ac879-cda5-443b-b70e-5835a1cb1eb3,2025-06-19,Clothing,232.36,Returned,West Jennifer,Georgia
+cd314112-433a-462b-a965-466584247b88,f430d663-79a2-4015-9730-51f623c433d7,2025-04-19,Home & Kitchen,125.66,Shipped,Lake Heidi,Indiana
+37805bc6-12b8-42d1-bccc-e77bcd9a7fe6,8f6f6baa-3a8d-4e74-8c59-15804be41acc,2025-06-12,Sports,46.01,Returned,South Anthony,Arizona
+ee3cc176-3975-442b-a7cf-3d37e9829647,dceac05b-b2bb-4a5f-9d24-016ac43efb7e,2025-04-01,Sports,93.18,Returned,Millerton,Georgia
+3b8adb6f-7009-41aa-aebe-99f400b083ff,69eb6e7e-3f72-4821-b211-7a2cac043018,2024-09-05,Sports,264.69,Returned,East Emily,Maryland
+38510fff-aca9-4b6c-a4fd-5b3f8e193fbb,7eaae031-9a0f-4fa9-aa2f-7800b1e5f7a5,2025-06-06,Sports,175.13,Returned,North Katelynshire,Alaska
+f19592c6-5b48-4e81-b15e-79b52d5364c7,c2d2d1b5-d97a-44e6-ad57-30ccae1e11c0,2025-05-11,Sports,416.15,Delivered,New Joshuaberg,California
+68f5119a-20af-4449-8391-6db475990a4a,36c85895-4682-4f0e-9cfc-708ec87625a0,2025-07-17,Books,221.13,Returned,Hensontown,Texas
+f25e3385-dce3-4cec-bf5b-1e51720b6b61,3ea84175-5f30-4616-838d-57ce13090a33,2025-06-13,Home & Kitchen,131.87,Delivered,New Emma,West Virginia
+3d68ae2e-2449-4114-9b77-39e1b9d2c86a,a81be8e2-a010-4ca7-bb76-c38963767c57,2024-11-12,Sports,312.4,Delivered,Austinchester,Rhode Island
+50382739-40ae-4267-82fd-688b99fd6366,c427f2cc-3f18-458f-9221-42c0ef737798,2025-05-08,Home & Kitchen,356.32,Returned,East Maria,Hawaii
+2e3412b6-34c8-4b64-83c5-91dd6f5cf918,94c7570f-8e05-4321-830a-381b159773ea,2025-02-20,Books,91.85,Cancelled,New Stacy,Oklahoma
+bc3eefa6-af55-4134-8233-c787c7150946,cb2f4439-e38f-4efe-a6d6-34ece93388a7,2025-07-13,Books,92.13,Delivered,Washingtonmouth,Montana
+abfd3ad7-d199-41ef-a8fe-3baf8753ea76,782398c3-811a-43da-bb3c-d76d011659ba,2024-08-31,Home & Kitchen,27.97,Cancelled,Chaseshire,Massachusetts
+419b235a-315c-44af-97e6-7a2d4a78bc5b,a853713e-a58b-4c5b-bff5-0c5261206005,2025-05-26,Electronics,370.84,Cancelled,South Robin,New Mexico
+c03edadb-9cf2-4f6b-8216-d1566ddff86e,e57ffef1-9d29-4bde-a005-3a55f95d08fc,2024-10-06,Clothing,335.26,Returned,North Jeffshire,Vermont
+8e4320b6-cf3b-474e-b6cd-d1db9b37a6f8,7ee651cf-8401-4490-bf37-5ad743efc02b,2024-11-18,Electronics,242.57,Shipped,South Scott,New Mexico
+8f4555f3-529b-4a24-b82d-fd2f4af5daf9,9226a819-aef3-4b06-9af1-96e42004785f,2025-07-21,Electronics,423.64,Returned,West Kristen,Louisiana
+5fa83e39-01dc-4cde-8a70-f0141170c787,6b91e907-2b92-43ab-8620-1432d8d0302f,2025-06-30,Electronics,404.78,Shipped,Port Samantha,South Carolina
+7d17e81e-e6f3-4a6c-947a-4bcf42978adb,cfc155c7-06d5-475d-9cf8-fff4a86214d9,2025-04-01,Sports,296.82,Shipped,West Juan,Utah
+8cc4d6aa-c727-47c5-8bd4-a7a3e456cb20,3841594b-f238-4b90-a90f-fca4f0476e81,2025-02-05,Books,435.45,Returned,Loriview,Georgia
+dc382642-d011-4ec0-9c0e-754f4ed0cd69,c4968b3c-ef1b-4c46-8edf-fa55a253a853,2025-06-03,Electronics,110.86,Returned,Higginsville,California
+578b1d4e-66a5-4c05-b308-f1c80bf47a0f,5c19d90c-5955-4820-827c-b2db4bfd4c29,2025-07-15,Books,64.84,Shipped,Coxmouth,Oklahoma
+46842e75-cbe3-4a6f-899c-48bb18a358d5,1aed23d5-10bc-4c6e-8504-906eac309b89,2024-09-23,Home & Kitchen,142.18,Returned,Jordanmouth,North Dakota
+4e33175f-8b6a-4377-8584-b9b5d68f3d33,73a80c96-a6f6-42ab-a71d-0d7733e11f09,2025-01-16,Clothing,37.97,Shipped,Gilbertmouth,North Dakota
+0dd35d8d-4d8e-40b5-9f8b-f4dc0cff5f4e,7c421ec8-2118-427f-b878-124ee7e6467f,2025-01-31,Home & Kitchen,270.27,Cancelled,Ashleychester,New Hampshire
+8a3fdf87-2db8-455e-a8d1-ab53cf2d0a64,c30426df-4feb-4786-b562-0731c085b4a8,2024-11-08,Home & Kitchen,468.94,Returned,Chadside,South Dakota
+9a4c35b5-9ebb-44a8-ac56-828923e00be6,9fc7e082-05c9-43fd-a8b5-a76915310cd4,2024-10-31,Sports,29.28,Cancelled,Farmerfort,Illinois
+2b8775e1-6126-4017-bce8-35da0af83059,4a9ba5c7-35ac-46d7-b670-061f61cf2678,2024-10-20,Clothing,69.83,Delivered,North Eric,Nevada
+0dbeb860-ab1a-4d19-ba1c-cd26bd51a7e7,7483834f-097a-42c8-ab7d-5de175b76594,2025-07-25,Home & Kitchen,231.58,Cancelled,North Josephburgh,Rhode Island
+80273e4e-54f6-42e2-bd6c-b992ed4618e1,17321b05-4baf-49df-a0c0-eaedb3560423,2025-07-11,Home & Kitchen,467.6,Cancelled,West Ryan,Minnesota
+cfb637c6-32b3-4b00-8275-a9d0c03d692a,1a8c681c-86ea-49b3-99b0-9d3293ba639c,2025-06-03,Clothing,164.92,Shipped,West Coreyborough,Arizona
+a433b8bd-038e-4985-b07e-398f7a86d537,063dd0f3-c2a9-4c33-86f8-52441e9e6b09,2025-02-02,Clothing,258.55,Cancelled,Port Wendyfurt,Utah
+0d61bd41-1b9e-47db-987e-55a731670c6a,870002e8-3184-48de-87b2-1d60bcbcfd35,2024-08-09,Home & Kitchen,30.37,Returned,Lake Lisahaven,Florida
+9512a3ab-70df-4f9c-a14e-9a7f0ae99adc,55971b17-6415-48a2-b39d-8ed2e525d0d1,2024-12-04,Clothing,82.69,Shipped,Joshuahaven,Maryland
+be6c9139-8fef-4946-9464-f5d7ebd7a2e1,165d2ea8-4956-4f34-b012-873cf265770c,2024-08-11,Home & Kitchen,493.45,Delivered,Marystad,Colorado
+b92be636-1605-4fcd-a076-8b83b5ad909c,75262c20-3105-48e2-bf8b-fe5033126903,2025-03-08,Home & Kitchen,482.91,Returned,New Dianestad,New Hampshire
+d9d8bc2b-fd1f-4d35-bba5-4fb9169b8ad0,52f60f58-3110-4191-ac74-b154dc772bfd,2024-11-11,Sports,12.42,Delivered,Laurenburgh,Iowa
+8d8f306f-cfb0-4960-a0c2-66ead32b1195,184eaca9-c6d0-4d08-bd10-380d216051a1,2025-07-21,Electronics,476.39,Cancelled,East Rebeccaside,Washington
+b7d4ad5d-5705-48bc-8570-01a8c50a862d,e9394a3a-63f0-4d25-8bcd-c6727ca16ed7,2024-11-13,Home & Kitchen,323.17,Returned,East Scott,Idaho
+68d01e72-de6b-4d95-b3e3-8c2c4a223319,2279d687-45a8-4d79-bec6-4e702e1dca93,2025-01-02,Books,435.28,Returned,Bryanmouth,North Carolina
+b9033093-4c26-46e7-ae20-7b02d5d34e32,9cef4533-557a-4e17-aae9-f565734f3e9b,2024-12-21,Electronics,232.82,Delivered,Mcgrathport,New Jersey
+df456436-7bd8-415e-8049-7093405c0e69,c2840769-972c-440b-90f0-3a95cf7431ac,2025-01-20,Electronics,262.64,Returned,Mauriceberg,New Mexico
+d6550d03-a9e0-4be5-90ab-c07abbf14736,861ea874-6608-422e-9eeb-66bb5e05376c,2025-01-09,Electronics,249.53,Returned,Hallburgh,West Virginia
+7e3f0d40-15d3-4117-9e9f-fbf44f06c002,e828202f-3740-46f2-81fe-afc288f9e613,2025-05-24,Sports,336.76,Returned,South Jenniferhaven,Oklahoma
+f5489736-1814-4e17-9996-946314e04b38,f296d721-2102-4d8f-bb02-0d50727ac027,2024-10-17,Home & Kitchen,78.43,Cancelled,Gonzalesberg,North Dakota
+ebd75551-5f08-4d1a-b845-fcb89c594e8c,5239c503-4a5e-4f18-85f8-6982d3a89fb1,2024-08-14,Sports,24.69,Delivered,New Nathanielton,Kentucky
+cb1eb9e3-8ea6-4228-9495-f59e3329b9d4,6c0ae070-b377-4399-b04f-a51ab3f79755,2025-06-15,Home & Kitchen,160.89,Returned,Michelleside,Rhode Island
+aa25cd66-42d4-4a9e-bf42-5d6c8d32faa1,a6a060e2-4c79-4ea6-a038-55e079ebf534,2025-01-02,Sports,355.29,Shipped,New John,Indiana
+61022a02-7132-4006-9276-1f781ac3c969,74cd1cac-b605-44bd-8639-0627ed90c2f8,2024-08-14,Sports,108.91,Shipped,West Christopher,Delaware
+471c0193-365c-4f94-b86b-ab0cab4b10e1,1ca2e1bd-8661-4a42-9f68-c8616f21b44a,2025-03-08,Books,339.98,Shipped,Lake Kiaraburgh,South Carolina
+49a6efc5-5cfd-43f9-a55e-d4348b737338,b86a8531-2af3-4294-8f48-bf7f7cad67c4,2024-12-02,Sports,485.26,Shipped,Bryanstad,Texas
+b1c718b5-5d8a-40e6-b304-21fe4beac9e8,794677de-1766-495f-aa4c-689ea8f951ab,2025-01-02,Clothing,56.01,Cancelled,Cynthiaberg,Wyoming
+b19f6071-2e6c-48fe-8310-4d84bbd71eda,7ede3791-9b71-41d9-829e-1bf07eb9c9d4,2025-04-08,Books,339.58,Returned,New Michael,Maine
+592565a9-64a9-43cf-afde-f524551acdf1,4ec6c76b-38d3-4ce0-827e-416a959336eb,2025-05-27,Sports,227.44,Delivered,Port Cindyburgh,New Hampshire
+ddd5ab6f-cbde-489a-9416-27be430ba54f,7c52da28-65b0-486f-9b31-f8f400ccfc0e,2025-07-17,Electronics,435.39,Returned,East Carriemouth,Alabama
+1f80bfac-c3e9-4108-9479-4b143ea6e7e0,0bbef24d-2cda-4303-a0d4-a1ae2c8babf9,2025-01-04,Clothing,96.8,Cancelled,West Juliemouth,Minnesota
+84eb867e-6c9c-41c6-867e-39601df7715e,f62873a1-d1ba-4b7f-b229-249b24dcb0ac,2025-01-19,Clothing,349.39,Shipped,New Theresaton,Arizona
+aa869b35-382a-48c8-9b83-76f578a0e01d,f0dcd8e5-ac3b-4584-a3ac-be009adbb232,2025-01-23,Clothing,420.68,Cancelled,North Rhondaborough,Hawaii
+3212e49d-db88-485a-a878-2f7b67debcc8,d8026000-f5a6-450e-a473-89fd072ad20a,2024-10-23,Books,472.86,Returned,Anthonyshire,Connecticut
+4474fd45-158e-4062-b8ef-f15030292863,0a204bec-431b-48b1-99b4-ad5cc6902cdd,2024-11-07,Sports,344.79,Delivered,Cowanville,Vermont
+cb8ea514-20b1-4414-91b1-4dbfc2e40ea5,b0a5c285-dfdc-486d-b6b3-801ff5e10d2a,2025-02-15,Sports,253.62,Cancelled,South Brittany,Florida
+a102df9d-e858-4b33-a66c-db0106b0672f,85b11bca-04d6-40b3-8175-7486b861dcf6,2025-02-09,Electronics,312.75,Delivered,Port Teresatown,Idaho
+b26132e8-fa42-4ac5-aa9b-77b46fe77f93,ee412ca4-778e-4d03-ba99-3203294efc6d,2024-09-20,Electronics,435.76,Cancelled,Lake Matthewton,Florida
+9d719196-e180-4fc9-a366-12a666670533,a9e02f5e-a88b-45c5-97de-89021c66a92d,2024-09-07,Clothing,289.6,Delivered,East Samuel,Connecticut
+2cd5ffb2-87bf-4145-8364-ed6db5c29959,00523a27-759c-4ef0-a021-cd556fb4af87,2025-05-26,Electronics,24.89,Delivered,Hamptonstad,West Virginia
+e5c1f1b5-1276-4340-8884-c1140759a2c6,e449fdc1-c7ce-4f13-946a-92e80e132c37,2024-09-14,Books,466.16,Shipped,West Jason,Maryland
+618f91ca-4ce2-45b7-a8b0-01581d0df1fb,7f02b68b-c4fb-4887-9617-cc656f37b058,2025-06-08,Sports,347.87,Delivered,South Miketon,South Dakota
+fae3d390-f836-4675-adc1-5cfea2d527e6,b4fb2b45-d092-4a7d-9bef-8c2ef435a536,2024-09-21,Clothing,341.49,Shipped,East Jennifer,Vermont
+25ae22e8-86d9-4cb2-a883-6570827dab38,30d60334-e04e-4204-b043-742ea4cf59da,2025-06-09,Electronics,115.68,Returned,Joshuaborough,West Virginia
+4f4afd22-b4b7-485b-a7d0-43314770a07d,0e3ef2aa-3d3e-41d2-9833-b9df51eaf189,2025-03-02,Books,332.85,Returned,New Kristintown,Tennessee
+10107518-fc22-4b71-8548-560ce33069ca,3f6ddde4-0339-488f-996d-877b7a6d47d7,2024-12-02,Books,202.99,Shipped,New Anthonyland,Florida
+7a8219a3-154c-46a9-b27c-ef6477ec2866,4c4f30df-292a-4d5a-b856-349b0c08f00b,2025-03-19,Electronics,329.1,Shipped,Lake Brooke,Minnesota
+5920c3d8-46b1-4843-b5d6-d11f2b948b23,34b55ed0-e40a-4087-9bb9-17d4415edc46,2025-03-15,Sports,62.23,Cancelled,South Stevenland,Tennessee
+f66210d3-7ccc-437d-911c-e27792373de7,7e7a4d5a-9bb9-44e7-9a09-19de88e0502b,2025-05-25,Electronics,332.34,Cancelled,Colemanfort,Oregon
+c8067c2d-6142-41d2-94f9-c0f9d5c5ad4f,04264d74-8d01-4823-bbb3-8072eff8a091,2024-08-22,Clothing,499.71,Cancelled,North Angela,Oklahoma
+b640320e-e9b6-4298-ac4c-43816b1c7e2d,bec8f487-8ed7-4cd0-8b82-1797dcb4fc7d,2025-02-28,Electronics,33.62,Returned,Gregorybury,Pennsylvania
+596824e6-2f11-4412-a71c-e4e4cf475e46,da4f6b3e-37cb-4477-a5af-d4b31e4c736a,2025-02-05,Books,488.82,Cancelled,Port Andrewbury,Virginia
+29f911a7-1fd1-4b1d-8450-ccf7cf8d5b4a,5684047c-e091-4101-8920-874e541c40da,2025-06-15,Electronics,209.38,Delivered,Evanstown,Arkansas
+b01fc470-f964-47c0-b884-3a7e765dc223,d9967444-6269-4c21-9f8e-2f48d9e9f2e9,2025-04-01,Sports,436.67,Delivered,Port Charlesborough,Louisiana
+c375213d-5587-43c3-92f5-bbf8681a0aa3,993586ce-c325-4103-a280-dd2084fe83aa,2025-04-17,Home & Kitchen,393.37,Cancelled,Kimburgh,North Carolina
+cff00204-913c-4a41-bb47-da96c8838362,8a6b7b11-881e-4224-8f2b-1c68d536abb3,2025-01-14,Electronics,287.84,Delivered,South Colleenville,Ohio
+80b067cf-4d88-49e3-aaba-ed505bb6736a,e025c742-fc16-49be-bc1e-325fa9d5d4e5,2024-12-25,Sports,371.84,Returned,New Paulahaven,Louisiana
+7832d6a9-2043-4165-ba01-163b46226548,29d70879-85bc-4ab1-9f8c-62a70ce94895,2024-08-04,Sports,440.47,Delivered,Port Diana,Texas
+b5219d1c-504c-40eb-bb4b-c8107f2918c3,38729ccc-607b-45aa-bc3c-7f508576215d,2024-11-01,Books,208.03,Returned,Port Glen,Massachusetts
+9a94c0dc-d201-4894-aa95-34748e3531e9,efbdaaec-fed9-45e8-870b-cdb33276060f,2024-08-12,Sports,170.25,Shipped,Derrickhaven,South Carolina
+2d095e70-9085-4a6d-bf7a-77c2540a0539,457392ca-9e0a-4a66-98cf-3359eb07a6ee,2024-12-19,Sports,337.12,Shipped,Jasonton,Massachusetts
+9b74fcf1-4cf4-4146-88a5-eb436bfa50f8,c6f4a1fe-327e-4157-9b66-5bb40e7fc22b,2024-12-18,Sports,405.84,Shipped,North Roseburgh,Maine
+cb08e903-3fe4-49a9-8a00-d1da922efa38,9af92854-0d79-4687-8e7a-4af9de7df485,2025-04-15,Sports,383.52,Shipped,New Deanna,Tennessee
+fd5a4b5f-7ab7-4c72-9626-87e3589da560,e713421f-c4e1-490f-be3c-818e0b10470e,2024-07-29,Clothing,400.93,Delivered,Maryfort,Hawaii
+f610579d-2e0b-447b-8894-5795e9826e0e,c72f0865-b192-4c55-8d55-14406074602a,2025-04-09,Clothing,223.44,Cancelled,Lake Joshuaville,Oklahoma
+90d34bde-c8e4-4592-91ad-64170afe07a8,91974e6c-695c-4f86-9e8a-2935be5a235b,2024-09-04,Books,410.74,Delivered,Port Kristinport,Idaho
+f2bc6e61-a071-4ae1-b32c-ab83af1acb6f,83ad6257-97e8-433d-9ad7-612026348a78,2024-08-25,Electronics,68.9,Returned,Markville,Kansas
+a395c963-4e65-4703-aa41-2d21f32450bc,77a3a59e-5843-4c12-a126-a051760e5fa7,2024-08-10,Sports,276.8,Delivered,Chavezstad,Maine
+60d89a9f-c98a-4cb9-a904-1141abe9f52c,f4f2ca94-daaa-4e6c-8185-5c16fcc0f1fc,2025-04-28,Electronics,12.82,Delivered,Fosterfurt,Arizona
+c53ab871-1680-4481-8f3d-aba9d9545106,8382329a-791c-4dd3-8ae3-7c1dd1e66ace,2025-04-26,Electronics,169.05,Returned,Seanville,Ohio
+92844b4b-2769-4e26-a275-28bd1330feb1,0fffbb28-45c2-45e2-88ca-b82c5a44c2eb,2025-03-26,Books,189.57,Shipped,Francistown,Wisconsin
+9c0fea89-8763-43ec-9e11-aae2e6c5fc4f,e2d0bb35-8617-4fdf-ba51-0205652376bf,2025-06-17,Sports,204.12,Shipped,South Michele,Ohio
+3f713b11-420a-4596-8ffa-89b7804a2082,0add3b60-9d44-4b94-989c-43e7ba92a3e0,2024-08-23,Sports,350.78,Shipped,Melindaview,Iowa
+e4b15914-8be0-45bf-bfe8-e303cb178114,b04be101-01bf-43a3-b17b-d7082ed5352f,2024-08-31,Home & Kitchen,200.39,Cancelled,Townsendview,Rhode Island
+eb7837ac-451c-4a75-bf1e-ffcbf646276f,da30a94b-7357-44b9-b7a0-0161c9c3a302,2024-08-29,Electronics,229.86,Returned,East Richardbury,Nevada
+ec5aa2c5-5aa5-4edd-b3e0-fa7aa12e7b90,14c84db7-f95c-44f5-8277-e551c835dd09,2024-09-12,Electronics,126.4,Returned,Port Courtneyside,Tennessee
+fa393287-1a85-4759-950a-225d759154cd,bde3da6f-e039-49b4-a8fc-5ecf00c3cf9d,2024-09-15,Clothing,192.89,Delivered,Lake Aaron,Delaware
+86b8a4a2-c471-4b95-a007-820204ddfadf,f1ae5c31-725e-41bb-ae53-9d03bd719f0b,2024-11-24,Home & Kitchen,121.36,Cancelled,Amyfort,Kansas
+a4c5f0f1-0207-47d9-812d-204075bcb0a7,aea4b2af-fb5e-4a61-b18b-2b076177e5ea,2024-09-21,Clothing,45.87,Shipped,Bakerstad,North Carolina
+fe9265cf-4386-4afe-a985-17f1d7abc053,6c2c972c-f4b9-496c-b411-57b4e264ef54,2024-09-06,Clothing,305.69,Cancelled,Pinedaton,Wyoming
+947a9eb7-6c9c-47c4-a2d6-6d2eb0bd2ab7,04f708ba-1561-4c90-86b3-858c50ba1121,2025-07-05,Clothing,337.42,Returned,Tinahaven,West Virginia
+9a3f946d-41f2-4225-9408-e6e49f8ce391,26718b02-835e-4988-9a15-ac38a8773e07,2024-08-17,Books,313.55,Returned,East Katie,Connecticut
+2857e70b-ef44-44b0-8059-bfe55c89670e,c9294e78-7148-4f97-b0da-566a1217dc95,2025-01-07,Books,237.11,Delivered,East Karen,Tennessee
+841edd93-cf72-4786-a260-d7a71ea3c5f6,d066825c-f929-4ed5-accb-d7990c27f267,2025-05-05,Clothing,196.1,Delivered,Lake Robert,North Carolina
+c2434040-7b1e-4be9-ad72-7f99b158f1db,dc2ecc06-3e0e-4d68-b213-c466f8e006fc,2024-07-29,Home & Kitchen,433.03,Returned,Melissastad,Nebraska
+70e30529-0bb1-45c4-ac01-2f110f693ea6,c5fa7e35-916d-4b8a-becb-1799b19a473a,2025-03-10,Electronics,264.35,Shipped,Williamside,Illinois
+fcd119b9-a4e6-4fc7-b6d7-847ef261bbe8,48270923-3059-441d-92ae-5a1e7393bc82,2024-10-04,Home & Kitchen,244.8,Shipped,Thompsonbury,Utah
+e8975734-c3ae-44fe-ac28-6f65d6314d99,72e23d48-0303-43a4-b901-7c99d80bc76c,2025-07-19,Sports,22.56,Cancelled,North Daniel,New Jersey
+57abb72f-990f-4e84-b939-6d0d51cd6762,b79cd34f-04f1-4322-84df-ca050656aba7,2024-12-19,Books,177.21,Returned,East Tammy,Arizona
+d05b307b-86d7-441b-b9a5-67288209cb69,d0dad538-cca1-46a5-b0ef-132375ff96fa,2024-12-14,Electronics,196.3,Returned,New Amber,Connecticut
+131de456-05e7-4d9b-b4f2-14f467a441e4,2650f51b-8819-407a-8cae-9b1f13343e61,2024-08-27,Electronics,205.42,Shipped,South Reginald,Arizona
+26e4a8a1-f68c-49df-bcab-ed22eea5f4a9,f9303f02-312e-4aa1-9304-0cec16e48b5a,2025-05-06,Sports,294.28,Shipped,Garzachester,Kentucky
+2c29e68a-7b36-4216-98f3-c6d5d503c041,42f151a4-1cca-4146-aef2-a86237d7bfa0,2024-11-17,Sports,271.47,Returned,Lisaton,Nevada
+5e13d8d0-572f-42ed-9535-f870197d5944,4dac49f0-1c4b-492a-812d-9172a588eff0,2024-08-11,Clothing,307.87,Delivered,East Jennifermouth,Nevada
+8a75bd1b-0bcc-494f-b309-a6495324e174,194fb1ab-572c-449c-8643-991b27c113d9,2025-01-26,Books,384.79,Returned,South Shane,West Virginia
+0f817b05-348d-425d-bb9b-29ed7f80f5c2,ce84aaef-6d19-41f8-b502-be2ce26dccc9,2024-08-31,Books,408.36,Returned,New Taylortown,West Virginia
+c3860e85-5c61-4c48-8242-f51f7c9eb8ce,6e1cf840-afc5-4d9e-9813-c48a444cb2d5,2025-05-14,Home & Kitchen,361.88,Shipped,Toddchester,New Hampshire
+e78fe196-fff0-4af7-83b2-49be5ef0cb9f,44dba200-fead-4c5c-a446-d142e7efa0ba,2025-07-03,Clothing,478.21,Shipped,East Timbury,Illinois
+a0ab3100-b6ef-40db-849f-57ecb4347207,2288678c-3595-46a2-8e08-b667890a933a,2024-09-17,Clothing,18.93,Delivered,Port Cindy,Pennsylvania
+f98e27f7-b9f5-4de3-b2c9-795861f61668,4604114a-7150-4fd6-8044-df49e8ba262b,2024-09-05,Clothing,105.93,Delivered,Hubbardhaven,Ohio
+467efd0c-d5af-4e6d-89a2-93d03a4b7c93,881fb4c7-25bc-4199-9edd-a85e6d1f7bae,2025-02-28,Clothing,13.71,Cancelled,Williamsland,Tennessee
+235a3f0d-6341-4a08-8eb1-66c17b73f1f6,792b59a4-ae49-4484-ba50-a0988585499c,2024-10-15,Books,327.26,Returned,West William,New Hampshire
+e162c082-a984-424f-bd03-54ea4a989f22,4fa189ff-52c0-4881-930f-ab422be4e859,2025-01-11,Books,450.03,Shipped,Port Lisa,Illinois
+29ab275f-92f0-4126-bfeb-cbb89f1f4ea2,f1c1cdfc-0695-42bb-8c3b-189806bf22d7,2025-01-03,Clothing,129.31,Delivered,West Katelyn,Arkansas
+d6aa626d-9bca-4bf9-9e1c-ecbd6200d0cc,2997d804-8b2b-487c-9c0f-66972cb5ef59,2025-05-20,Home & Kitchen,464.25,Cancelled,Robinsonfort,Hawaii
+2542d3fd-fe5f-49f0-ae2b-281bcbb302e1,9d18a0e6-222f-4d92-9c2a-e3e7d5faad56,2025-02-12,Electronics,39.53,Cancelled,South Walter,North Dakota
+c66d0db6-5605-4461-bcf2-d8581745c14e,2cf57396-6071-492a-8419-4f315e44cf3f,2025-06-26,Electronics,467.87,Shipped,Nicholasside,Kentucky
+995c9cd0-0e33-4767-b5f8-80e635ef9afb,a2749008-54d7-4b02-863c-b3022b713af8,2024-11-22,Home & Kitchen,182.3,Shipped,West Connie,Texas
+b2c7b8fc-d4b1-48b9-9920-856da07b1eab,2387fe87-812e-4c81-8fb2-e0a509155a63,2025-06-25,Clothing,59.7,Cancelled,Williamsmouth,Connecticut
+fbd236f8-7e12-44be-b916-a7beb7c89346,07308c98-7452-4455-bdfe-366c78fceb93,2024-12-31,Books,248.08,Delivered,West Aaronhaven,Washington
+d9326536-e840-4ac9-b5e8-8e6276aaae6c,d0e6d3d1-d270-4f1b-b6d6-321e14423c84,2025-06-09,Electronics,135.82,Cancelled,New Mitchellfurt,Arizona
+13d936f1-ee70-4b76-88a0-cd424e6f6475,096442df-7ae9-44d0-9cc8-9e43b5bc65f9,2025-05-10,Sports,149.59,Returned,Smithtown,Virginia
+1495f961-1438-406c-b29f-68bb2293375b,a05d933e-954c-4267-b196-e332e0ecabff,2024-12-08,Sports,160.57,Returned,West Sarah,Florida
+32ef13a1-1dd8-49cd-80bb-ea14d9127dd8,ef009140-5feb-402e-82f5-2f8b8c0801a6,2025-07-25,Home & Kitchen,403.48,Shipped,Vanessaborough,Delaware
+5fc35955-283e-424b-9f6d-402b3c69ecb8,4c230977-6372-4b2e-86be-ed5e40ef4a89,2025-03-15,Clothing,274.19,Delivered,Christopherborough,Tennessee
+3c5ad42e-102f-4351-8e75-f6e027cf4a7b,ef7a188d-e77b-4812-9bc8-96d3b6caf25d,2025-05-22,Electronics,162.54,Delivered,Greenshire,Nebraska
+4b6c6ce2-bc8f-4d7a-903a-045b69cea5fa,546cc44f-74ac-4533-b7ae-df85520c958e,2025-04-04,Clothing,309.06,Returned,Mooreton,Kansas
+f2dcb555-0330-4a46-842d-183728adcafb,56bda25a-f558-47e4-b6aa-21414a40522c,2024-11-04,Electronics,360.91,Cancelled,Port Gina,Michigan
+2547423a-545d-4ecb-9c30-ec869274bd52,de1addec-d36d-4090-8040-2f33e79de2a2,2025-04-19,Home & Kitchen,143.59,Shipped,East Cassandrashire,South Carolina
+c7f032d6-42f2-4a3b-958f-1e224736f551,81c01443-b9a6-4d71-b9e8-8b44ce339fc3,2025-03-27,Home & Kitchen,212.64,Cancelled,Gilbertshire,Maine
+493576dc-21ab-4c2c-aff8-7c28ef9958b6,ed9a24b9-a60a-4d62-8736-a4c41693d5c2,2025-03-26,Sports,69.72,Cancelled,West Ashley,Mississippi
+9881037b-d6fd-48f1-b7c7-e51d35de2645,c3aebb97-f052-4b9a-8648-f238b2a70827,2025-05-09,Clothing,98.76,Cancelled,Kevintown,Idaho
+e98440d4-b0c4-4942-9234-3329fd2fd5ae,34f85447-f896-499c-9c7f-d68590e1d565,2024-09-09,Sports,343.75,Delivered,South Ambershire,Delaware
+915c363e-c748-48d3-a60c-044eb7c6caf2,a2882e01-3188-46bd-a1af-163b0d088667,2025-03-18,Clothing,98.9,Returned,Robinsontown,North Carolina
+4d8cd3c4-7659-4d42-8fb5-c8489562fc78,a9d7c9b6-8c06-45e2-af42-253afa7c82e5,2024-11-19,Sports,267.33,Delivered,West Michael,Oklahoma
+ddaf6f53-d7e1-40d3-b588-6bd12c28fc57,af23a7eb-0dbc-40f0-a9e0-1b841c14daa3,2024-08-28,Books,357.43,Returned,West Davidborough,New Hampshire
+646ec23f-cb37-4c3a-98c7-3a20dbcce345,570293f0-4fad-47de-b263-5766f2fb4647,2024-10-05,Books,62.37,Shipped,Port Henryberg,Tennessee
+2210e6f3-4a61-49c4-adc2-78473a7789cf,3ac5a518-236e-434a-ac95-c7a4eecccb61,2024-12-11,Books,287.98,Shipped,Parkton,Idaho
+aca652ad-1ae9-4593-8072-828baccc1ba1,a541d252-d87f-4848-bb73-9714d269a282,2025-01-25,Books,135.72,Cancelled,Kellymouth,Wisconsin
+05f94141-fb0a-4bc6-9622-9a5a01bb8825,c00f50f0-baa7-4620-8d61-bf89c47ed40a,2025-06-23,Electronics,481.83,Returned,Port Thomas,Illinois
+08f1e08b-8c08-4cc5-87ad-f277a4963c5b,a46aec7b-c9b5-47ea-8801-86e5f98e7707,2025-02-23,Books,246.94,Returned,Austinville,Maryland
+c441648b-18b5-47f0-a430-980ceab341be,434f03c4-524b-4722-9509-4f506b6c30cf,2025-04-23,Home & Kitchen,404.94,Returned,East Adam,New Hampshire
+8aa314d2-67c3-42b0-a23b-5b4c88b4888b,b872b8c9-a36e-4d6f-a547-8658ec26480e,2025-05-16,Home & Kitchen,279.61,Cancelled,New Jessicashire,Iowa
+3ac9e073-b6ae-45d7-9858-975547549da8,ce6dea00-b136-4aaa-b1f8-6afcd7a1bf80,2025-04-05,Electronics,31.27,Cancelled,New Frankfort,New Jersey
+f6a7333f-faec-4031-8c6f-97468733036b,7a1dae97-f355-42c4-a6ed-2f6044e4f1b3,2025-03-20,Books,320.24,Shipped,Evanston,Iowa
+fef4390d-691a-4efa-9e32-917764dc7575,75b0e642-81b0-472e-b13c-41a5a06486f9,2025-07-07,Books,476.19,Delivered,East Carolyn,Oregon
+ed70ff52-a28d-4810-97d3-424b46c25e51,2cb39df4-65ed-459c-97b8-6cf08b14b1f9,2024-08-27,Books,304.79,Returned,Danielchester,Virginia
+0071275f-426b-4720-9686-62ba0c97795f,40424a7b-f9d2-44a0-b8eb-2925cf6e352a,2024-12-29,Sports,411.4,Returned,New Stephanie,Nevada
+750acea8-53d6-451e-a2bb-ff541ddbf8da,bb44e404-0bcd-478b-b715-2dbef54da871,2025-02-17,Clothing,443.26,Delivered,Port Ashley,New Hampshire
+f6513906-7e59-4a7b-bc13-ade69c6d7276,320d4acf-2f32-4ac5-a318-c1924fde7a01,2024-09-09,Sports,121.76,Returned,Christopherland,Indiana
+6e3073ef-bac0-4336-b994-fa1969096c67,78d29c77-9fec-411c-a69f-845c78c361bf,2025-05-28,Clothing,113.9,Cancelled,Barnettberg,Nebraska
+0c1677b1-720f-4c0e-93b0-022066261993,10cbaedb-620f-4258-8ebb-e45c75a720ee,2024-11-28,Books,309.38,Cancelled,East Alisonbury,Virginia
+7c95c04d-ea6c-4b9e-9e39-2d96c06f6a06,e2783c8e-df1e-4a3c-86b0-bd7acca9bca4,2025-02-27,Books,211.4,Returned,West Denise,Montana
+340e3334-81b8-43be-b922-c2326714d4c6,3e98f3ae-6df6-43f2-bdd6-6ef94b726038,2025-03-13,Sports,421.53,Cancelled,West Debramouth,South Carolina
+cb86d43c-e5d7-40fa-bcb9-5e0e4be3c134,0a07ee6f-8219-4463-8ecd-e342320d5304,2025-01-02,Sports,451.01,Cancelled,West Nicoleside,Arkansas
+b0b8ffd6-3333-4e63-b41e-d9627bee4991,0b84550c-71e2-4887-9572-8c08b3d873ee,2025-06-16,Clothing,183.18,Returned,New Donaldhaven,New York
+4ee5be96-db24-4ffe-9f5d-fd7061f18709,d36b23d9-e776-4268-862a-37869fa0d6fd,2024-11-21,Home & Kitchen,126.07,Shipped,New Sherry,West Virginia
+23de2793-e378-4e97-bf78-04fd13d59daf,a9d88358-f9dd-40b0-9494-c384aa659bc8,2024-08-16,Clothing,392.46,Delivered,Wangmouth,New Hampshire
+8130d0bb-06c9-45ca-af50-e1bcc8938168,604ca566-68a0-4a57-8a1c-690a59f78d44,2024-12-09,Sports,144.65,Cancelled,Port Patrick,Oregon
+24fb027f-9cd9-4092-a2db-81858b78f11f,080749db-ad54-4496-8588-fc62245b0b64,2025-01-21,Sports,413.08,Shipped,West Victoriaside,Iowa
+a853a587-1ab2-42bc-ae05-36a11d253816,00be1eec-fcc0-4ac6-8c3a-1b39747b4694,2024-10-13,Electronics,217.63,Cancelled,Dawnland,South Dakota
+168b3a30-0d68-457a-a4c7-feef0b9f884a,a76b922a-f2ba-421a-babe-61718971ebef,2025-07-10,Sports,337.1,Cancelled,West Lisamouth,Montana
+40efd0a5-f0f7-498e-8571-a8bd4af2f6fb,c85dc8d3-cc6d-4899-ad33-b6c1f5820b67,2025-07-04,Electronics,56.81,Delivered,Mckenziefurt,New York
+21097429-14f3-41b2-b25f-864ce9a3c789,eaa4a319-69b4-47d4-afa9-21e5e277260d,2024-11-09,Home & Kitchen,315.69,Cancelled,South Anthony,Kansas
+005a182d-1a72-4840-b343-ed0415671561,7a8d24d1-700a-4a0a-8729-e2365a6395da,2025-01-25,Clothing,231.37,Delivered,South Lisabury,Montana
+c79c3fac-f8f4-442b-8152-641632afde7f,5cf0c93d-b315-4707-b737-af56233a8f03,2025-01-19,Clothing,297.44,Delivered,Allenmouth,West Virginia
+a669cadd-ffb4-4db4-8280-6d6f7ed8fb2f,15b18549-e7c3-47b4-afaf-421e72f83bdb,2025-04-29,Electronics,92.33,Delivered,West Michele,Washington
+c2f90a6e-c28e-496a-a603-4a854681449f,562717f8-6e10-423d-9e86-ea99d83bcb0c,2024-09-08,Clothing,371.07,Shipped,South Patrickfort,Florida
+157e4042-769c-40b5-b892-c01a2160bd0c,68168dd0-0449-4045-8780-c6284802d90d,2025-02-08,Sports,432.77,Returned,Port Jessefort,Pennsylvania
+040015bd-8a4e-460e-99fc-087e891d507d,657cc695-fd1b-43a6-8090-71defa7b8a49,2024-10-19,Books,116.2,Shipped,Port Megan,Missouri
+f41d3099-a36b-4b0c-bae1-40445fc24ddf,dfb4aca0-de6d-4c7a-b952-38993dd1a585,2024-08-20,Electronics,56.9,Returned,Evansborough,Hawaii
+1437354b-8d3e-4b14-83bd-227b9482aeb5,d75eb228-5539-48f9-b263-5f23822fbc79,2025-02-26,Clothing,21.58,Returned,Susanshire,Maryland
+9a224ece-81df-4e42-abc4-ecec11a85933,526ea1b8-e233-4a92-b7f2-17a02a3a8b1e,2025-01-26,Electronics,324.57,Delivered,Nobleburgh,Washington
+2bf048cf-a674-4bb5-ad5f-57298c61b1a0,32edac53-8475-4022-b4ee-63923f7b76af,2024-08-01,Electronics,307.48,Cancelled,Garciachester,New Hampshire
+0537fef2-4c14-4335-be1b-ef31a369381d,4210a828-3aee-48de-939c-0bc30058b388,2025-07-13,Books,277.88,Delivered,Charlesberg,Montana
+27c6e137-5d3c-419a-9ce9-c2b1af5be914,018c96ec-ad69-402a-bf98-80952f8a2c7e,2025-07-13,Sports,123.65,Cancelled,Micheleburgh,Florida
+a89fd693-0767-45a2-949c-477243f09d48,8c5479b8-67ac-4102-a580-22b09260449b,2025-05-09,Electronics,201.54,Returned,Bradfordmouth,South Carolina
+fcb87ae6-d776-4380-950b-1822932e437b,db3a0ee4-5136-4717-9f78-1abaa341b756,2025-02-24,Clothing,301.29,Delivered,Bradleyburgh,Vermont
+5d70df9d-759f-47e6-8bab-7e4630b035e2,39c1788b-740a-4110-a909-863f79c721ad,2024-12-26,Home & Kitchen,253.42,Cancelled,Elizabethchester,Pennsylvania
+c2a72fbd-cd67-4749-9aa5-9835961a74e0,ea33bda2-04d4-4f26-b52f-d99a3bf7fee3,2024-08-07,Electronics,494.01,Shipped,South Mary,Washington
+315303d5-a051-41e4-82b9-6f9b57d73aa5,d5573b8a-0685-4524-aa51-378930b9aef1,2025-05-03,Electronics,76.86,Cancelled,East Patriciashire,Oregon
+5eae469c-e03b-484b-8c6b-3d60bd82951c,086ce08c-3253-42a6-89e2-4127cb9d6c39,2025-04-09,Books,350.62,Delivered,Danielport,Tennessee
+3acba017-9416-4b47-a35e-45108ef6b389,2b2702f2-0297-4d5b-ad62-2f3d7d9ab053,2025-07-20,Sports,208.12,Shipped,West Danielchester,Georgia
+64fee0ce-96ae-4710-b3c5-966f26d3f7c9,0f15882f-9732-49e8-bdbb-23a07c5305ba,2025-02-06,Home & Kitchen,219.82,Cancelled,Higginsfort,Oregon
+1d1eb988-512a-450f-8f31-83b7d184e7b4,0a36bbd4-e1b2-4bcb-878a-3e4173d21281,2025-01-28,Clothing,361.62,Cancelled,New Kenneth,Oklahoma
+cfe3d260-8ac8-45eb-a486-273d5712b6cd,43919dc6-0bd2-4c5c-ae35-5ce1dde2a8da,2025-06-27,Home & Kitchen,349.29,Cancelled,Harrisonmouth,Oklahoma
+1968fa05-7227-4438-af58-483d2b2215d4,986d96e0-c9cd-4fc6-ad5a-674957a45ce0,2024-09-10,Clothing,495.72,Cancelled,Morganshire,Nevada
+a54be29f-3286-41eb-8d60-ef9e05ee9a30,e8a1ba81-90f6-4f92-813a-da0cb034c089,2024-09-09,Sports,72.91,Cancelled,South Matthew,Oregon
+0ed05afd-2fc2-449c-8e42-f64273c3d042,4e26fb1a-d63b-4f9e-92ff-1ca47437a9d0,2024-08-11,Clothing,61.01,Shipped,Kerrychester,Michigan
+412a93d9-5fc5-44e5-ae18-5d19fbac4dfd,47ca2396-5464-4c26-a614-aaeb6e4b119c,2024-11-16,Books,364.93,Returned,Garciachester,Illinois
+687212ce-fddf-4034-990e-d6837043439f,b9cee2f7-6644-4938-ba69-d0611c45225c,2025-01-09,Books,293.41,Shipped,Christinabury,North Dakota
+6a2bc4de-c0dc-4746-8f66-40ee67673944,b75f08fb-f387-473e-9ded-858cc4ed50c7,2025-03-26,Books,144.34,Shipped,East Wyatt,Kentucky
+5afe72de-02fd-43e5-a932-c8ec495d3fbb,d4dbb872-ea7b-43ba-a87b-6b0bfacf1f09,2024-10-26,Books,48.92,Shipped,Oconnorburgh,Hawaii
+abba196e-56e9-485c-a738-47cb1ecab84a,97e41d2c-b0ae-4788-b62c-7b7cf3f31769,2024-10-16,Home & Kitchen,51.97,Returned,Wilsonborough,Tennessee
+b0c88726-d53d-4f81-83b9-d2c9a8f322a2,61b70862-816a-451e-a7a2-be136c887f50,2024-10-16,Sports,448.15,Delivered,Mcdanielfort,Hawaii
+4f42dfff-132a-47c3-9022-7e1ed695baaf,03f72145-8442-40c5-b048-a74d3842998d,2024-08-13,Clothing,104.01,Returned,Port Timothyburgh,Connecticut
+e7a5bf46-b28d-44f3-be82-bedd16440dc6,c0ae6142-348f-4848-91d2-d0ee3a45b24d,2025-07-23,Clothing,168.45,Shipped,West Kimberly,Utah
+8dc40a39-46ba-44f2-92db-db08af7dc1fc,2690c8f2-8b3c-487b-94e6-33765c0303ad,2024-09-03,Books,121.06,Cancelled,Kinghaven,Massachusetts
+c5a6a490-9200-4998-b4df-4a4221ebc979,79a4a1c7-ee65-4e67-928c-60d6bc971e82,2024-09-26,Books,183.95,Cancelled,West Katrina,New Hampshire
+24cffa73-c904-4477-9839-86126c1e3b37,9affde2b-82eb-4d6f-8d56-6312e1619228,2024-08-16,Electronics,44.02,Shipped,North Kaylaburgh,South Dakota
+3b463678-9bcd-4a1e-b556-62a03f52f4ab,90cf9d59-0ef1-42dc-9964-41451914591f,2025-07-11,Sports,264.34,Cancelled,West Justin,New Jersey
+2ffc543c-aea5-4304-881d-a3d8fb5e97ea,691d7450-694c-4415-8572-f149f2ed6530,2025-07-25,Home & Kitchen,43.13,Shipped,North Kristenmouth,Indiana
+097e3242-4be0-4ae6-b937-a3237140ff66,a9d11a9e-ae1b-447b-a20a-7e835f6d31d5,2025-04-03,Clothing,402.17,Cancelled,West Tracy,Mississippi
+40c919d4-eb46-4de7-8311-0f1d61df7888,59fa4a95-1301-41cb-b905-4f9f67483297,2025-05-25,Electronics,124.52,Returned,North Thomas,West Virginia
+1e8a8a5a-8999-4ec0-858b-1d4c887588b0,86fff628-dc64-4328-b6db-1c183d836345,2025-05-24,Electronics,274.61,Delivered,Briannashire,Wisconsin
+9d7232f0-c6ae-4c8b-b246-e0e68799308f,4fa6744f-9e2c-49ce-9e76-3eee26bf5b73,2025-06-09,Clothing,441.24,Delivered,Johnmouth,West Virginia
+511c6077-59aa-47da-a170-c65619eb650b,4f48299e-26ea-4c16-a0c0-eb008df1fd51,2025-03-28,Home & Kitchen,328.93,Returned,Heatherborough,Arizona
+b38d0ad9-15e2-44c6-a5cf-bb3bd854779a,08cbdf68-23a1-4ece-8d2f-f530471e10cc,2024-08-17,Electronics,271.15,Returned,South Christineberg,New York
+e11aee48-dbd5-4cd5-b125-91b1fe39d305,f2e9c649-116a-414e-9cc0-8e87a1c317a8,2025-02-22,Electronics,168.92,Shipped,Patrickmouth,Oregon
+56331d56-6a3f-45af-8c3b-dd892d792fa7,abcca367-3416-4b9c-8179-e8271c4e1a5a,2025-05-05,Sports,173.17,Shipped,Bradyshire,New Hampshire
+082ab8c5-7eba-4fa8-b826-bae233f9e4a6,6628bbab-78b9-46bd-9c79-58d6149e02cb,2025-01-22,Home & Kitchen,338.05,Shipped,Williamschester,Utah
+50aac987-7e9b-44f5-aae5-1003a7dfc3b1,766b8e0f-51d4-4c44-94a7-05ac45cc8c5b,2025-05-29,Electronics,497.13,Cancelled,Collinshaven,South Carolina
+b3fd57a0-d3be-411f-91c9-c3a021e33469,413e765b-0b12-45cf-9deb-040dbc354fd7,2024-08-09,Home & Kitchen,334.3,Shipped,Lake Kristina,Maryland
+c99baa40-38ee-4895-b080-1d6988448e03,e251940c-6704-4a7c-9867-1d6740b2da3d,2024-09-16,Clothing,283.31,Returned,Moranborough,Delaware
+35167f96-12aa-48e2-984d-9ffd4ec24f8b,eae740be-0a4c-43df-838e-c229c508d804,2025-05-27,Books,368.02,Delivered,Pattersonborough,Indiana
+40011c7d-cc37-48a5-a70d-94b3cfeab7f8,cea0d53b-ffd8-49fd-9162-7956cd1a8a04,2024-07-26,Electronics,237.95,Cancelled,Santanaburgh,Massachusetts
+0079cc4a-6533-4d0b-902a-57dd9e047b32,d5fe9d80-8cd3-4d7d-a033-f474d4036a32,2025-04-10,Sports,39.47,Shipped,Hineschester,Rhode Island
+5ff4f40d-0dd2-48b9-a075-966641e13309,8d42954d-5a2a-4fdf-929e-7cd393639e03,2025-02-21,Clothing,285.53,Cancelled,Rodriguezberg,Tennessee
+3b4cbd07-6c59-4d28-9aba-76ba73b5ed02,b7b5282a-f40c-4b5d-bdd9-4c10344769cc,2025-03-26,Home & Kitchen,479.24,Cancelled,South Johnny,Ohio
+cb0fce30-0e0f-4ae6-b75b-d8e989f96939,17129a17-c989-44bf-9eb2-cffa09814631,2025-05-25,Clothing,95.9,Shipped,Caldwellfort,Louisiana
+93cebcea-e98b-46f9-8547-2347dd81ee10,af2fda76-ff76-46ec-8ce1-93ad6e7ede19,2025-06-08,Electronics,348.1,Cancelled,East Roberto,New Jersey
+3285ad76-809e-4ce0-a338-a5dcad092175,55419c9c-0b42-44a7-876a-0a4af346287c,2025-04-10,Home & Kitchen,108.46,Delivered,West Shawn,Nevada
+25fe32cf-69b4-4f17-ad95-593aaf559ca1,c0fffb4d-df88-4686-89ca-462d922901f4,2024-09-04,Books,272.56,Returned,Davidville,Hawaii
+e09a5b94-277c-42c3-aa9d-4c4dfb7136c7,f597152e-ab44-4fbb-9662-73b317781f89,2025-06-02,Clothing,57.37,Returned,West Davidberg,West Virginia
+6b7b3fb8-1844-41eb-a294-4710a96eaabf,ad5814db-8682-4eb9-9d15-086f6c423e8e,2024-08-13,Electronics,230.68,Delivered,Lake Tammy,Arkansas
+dc53b4ba-b687-4289-b01c-6f560f61a387,ca0b6182-4427-4bd4-a76a-a822dfab2a5a,2024-08-03,Sports,380.52,Cancelled,Douglasborough,Kansas
+e9ec44d7-e6d0-4b10-b1b0-db9e4cde0438,8d6b0471-6510-42c5-919d-5f75a2a0562e,2024-10-29,Home & Kitchen,180.31,Shipped,Jenniferport,California
+e3dc05b2-b89c-47af-934d-82f873561b55,f3f2d04a-27be-4a43-866f-99d7c9f58e0f,2024-08-24,Clothing,335.81,Cancelled,New Justintown,Louisiana
+620838f1-623e-4020-af47-41ebd1c933cb,b84528ad-6ccf-4670-922e-12d90c02c081,2025-05-15,Clothing,399.77,Delivered,New Lauriemouth,West Virginia
+6179b951-a90f-4841-a441-9b8aea3fa527,3f99b205-bf8e-46a4-bbb3-0060eade67ab,2025-02-17,Books,464.32,Cancelled,South Michele,Utah
+97c3527c-cefe-40c0-af70-4f01f0a6d3c6,55d6b1cd-ae81-4e1f-ba8f-968d475981b5,2025-02-19,Books,124.97,Returned,Port Rhondastad,West Virginia
+b1469687-8523-44cb-a081-564c8ad8673f,459d2a41-d351-493c-99f3-73f83ba1e60e,2024-09-22,Sports,205.66,Cancelled,Port Nicoleberg,Connecticut
+ae6dad55-ec66-4e71-a4ae-5e89415fde78,7cf6572c-bce0-40a0-9a43-7a0ad5d981c6,2025-04-27,Sports,84.68,Delivered,Brandonchester,Maryland
+87020952-6a83-421e-a001-c2b6390f6ec7,7fbd0346-caf5-4ce2-845f-a47fe622af1d,2025-04-16,Electronics,496.32,Returned,Randymouth,Washington
+ff564172-334b-4547-8bf2-5a459514b0ec,87c33cb7-9ccb-4ccc-b5a0-c3d101fd8ee0,2025-03-29,Electronics,464.23,Cancelled,Sandramouth,Maine
+8da53271-591a-47d8-a478-060618c94a64,e6366a67-73cc-4fb5-8726-4c5839cb241d,2024-09-04,Sports,274.58,Cancelled,Maciasshire,Ohio
+9cf89711-ec8f-4b42-bbce-3c1de600da45,1d489aff-2f03-4545-b0f9-44e46fad87b5,2025-07-01,Sports,422.6,Returned,Christophershire,Montana
+791b8072-589e-4fe3-81da-f0d5724521de,05e89d4f-baa8-44bc-b2df-f6d6f85fa102,2024-09-17,Home & Kitchen,265.27,Shipped,Jacksonton,Wisconsin
+9af13b20-78a0-4170-bfab-5025abbba4b9,dd19f6f7-2b65-4165-a2ea-09aa3613c172,2024-10-19,Books,315.56,Returned,Travistown,New Hampshire
+6c9000ef-558f-47da-b987-e240c4b42ed6,1cc95cec-ec73-4427-8c66-9348b8208a46,2025-02-04,Electronics,53.67,Shipped,Melissahaven,Nevada
+6be7b401-6e04-4849-a6d9-cf5d7cfbdca6,956c48e5-63d1-4874-af0a-b2d0ccd6ccb6,2024-08-19,Books,380.08,Delivered,South Eugene,South Dakota
+f57fa78b-80f5-46db-80c8-25042289cb18,6f182af2-d361-4883-b3e1-47c77e30b3c9,2025-02-11,Books,72.58,Delivered,Homouth,South Dakota
+a0d16795-f4e5-4ae5-9b39-3022f9499348,dd6993b8-b185-4e08-b605-ba3dc96f7b4f,2025-06-30,Sports,414.77,Returned,Newtonside,Alaska
+88229fa7-fd1d-409e-9a35-83383ba198c2,3a585109-346e-494d-9b51-8cf72a214555,2025-02-28,Home & Kitchen,393.19,Returned,Lindsaymouth,Alabama
+b58a574c-77b4-4f89-8119-7aa0f131a506,058b5a50-2307-4022-a0a4-f45d8bf9f707,2024-09-25,Clothing,357.28,Delivered,Lisaport,Washington
+8d512247-2953-46e8-9fe6-e05a08b62537,5f58abd6-784b-4952-b637-953ce9d99b35,2025-01-30,Home & Kitchen,27.72,Shipped,Jessicastad,North Dakota
+24f92808-e195-4e62-8376-a8317718e81d,e62d4702-215a-4f31-9461-7d8aafed4285,2025-05-10,Home & Kitchen,158.53,Delivered,Tranfurt,Mississippi
+963ab405-882a-4e60-928a-4e8d2bd41f0f,27cf554e-edab-4321-b09b-b8a9d8fbf592,2024-10-16,Books,138.93,Returned,Rubioview,Minnesota
+d9f1ef3f-d5ff-4824-a7eb-4432a604e98f,c825b284-f002-4efc-9db5-f159e91fb89e,2024-09-27,Home & Kitchen,186.47,Delivered,East Jenniferfurt,South Dakota
+76758de3-927e-4bb4-8c37-73b382f20d0a,b22fff35-6f51-4cf2-9db2-03c78ec48c31,2024-10-07,Electronics,52.94,Returned,Johnsonmouth,Maryland
+1b48cdf2-9a37-4965-999f-989691afa405,be45fe04-8058-4405-bd69-e54ccee7a1bf,2025-06-01,Books,469.11,Returned,East Amyside,Oregon
+691edfbc-c3b0-4679-b3cd-5da96d32ba6a,c7626ff6-971f-47e4-bfca-511eba8ae0c5,2025-02-26,Electronics,281.36,Delivered,South Terrence,Delaware
+605b890b-c694-4ac5-9bb4-931b6a83f493,25b11487-7cb1-4ec8-be8b-27fbcb377ec1,2024-08-08,Clothing,159.71,Shipped,South Jeffrey,Iowa
+ac971cce-ad68-4f3d-ae78-79cdcf485c11,07ce4cc7-9d63-4ac9-87bf-7c36446678af,2024-12-02,Books,204.52,Cancelled,Lake Samanthaborough,Tennessee
+7a22a7f7-3498-444c-b651-e822e098fbb0,a4eb9c1f-7254-4a97-be8e-9cd15677a2cb,2025-07-04,Clothing,229.13,Delivered,South Lisaton,Maryland
+4ccf3e45-301a-4289-a7aa-0fa5be0f8416,b5c0b356-c4a7-4ac9-a10c-9e3b797da1a6,2024-11-05,Books,304.29,Cancelled,Lake Scott,Ohio
+82ada91d-a055-4f5d-afaa-76643c6d2eaa,5c2417e2-1784-42f2-9dfa-06951b39cada,2024-09-12,Sports,262.68,Delivered,New Christina,Texas
+55e0f3cc-6c8f-424f-bab6-ed7e92bbb25f,78bbabcf-4516-4908-ae19-8c5a5ffd6db5,2025-05-19,Home & Kitchen,460.5,Cancelled,Timothyborough,Connecticut
+202ff539-d6ea-4cb9-b84f-e95aa96396fa,737aa850-15e6-4aab-9b2b-93fffdd6fb0f,2025-03-31,Sports,253.51,Shipped,Courtneyberg,Massachusetts
+e6506ef5-e75f-4e29-9586-976cee823d10,5a254dd1-36ee-4195-bcb0-f3cd70372b99,2025-05-01,Clothing,496.16,Shipped,Jasonburgh,Kentucky
+d65837e3-1d3f-45a3-b500-ffe1ba400185,b15e7b92-31c1-4767-a75d-0cfefcee8260,2024-10-04,Home & Kitchen,427.2,Delivered,Breannaport,South Carolina
+c9562888-e2e6-453a-822f-935ba3092ae0,a7c05b4f-7449-42eb-a4a7-15c789f31364,2025-03-19,Books,112.17,Returned,North Ryan,Montana
+896ed2b2-42a5-467e-8b80-3e6814293f33,3823b98c-1ff9-407b-8d87-afd3212914b7,2024-09-11,Home & Kitchen,465.99,Cancelled,Tammyburgh,Kentucky
+cb83c923-ba74-4bd7-9902-8db50be84190,e23f3d38-ef5f-40c9-b6e9-c42d4c9a6db6,2024-09-18,Electronics,67.02,Returned,East Christopherchester,Mississippi
+e6ca223a-fb8d-4985-ae27-a487857800b3,1005149b-5b43-40d4-a5a7-d6259222d941,2024-10-24,Home & Kitchen,410.55,Returned,Andreatown,California
+7cdca28e-ab62-451c-bb6a-58b517215a45,ea718fe1-498b-4834-8dba-673bb5d48f6e,2025-01-22,Electronics,196.51,Returned,South Teresaberg,Nebraska
+a4b27e61-e9da-4025-828c-16c92be13dea,2df470e6-08c4-458c-a087-d7430d156c88,2024-07-27,Home & Kitchen,440.21,Shipped,New Jonathan,Vermont
+7180d1e4-04fc-4194-862e-2ce118e0b46c,8b3ee6b7-4dc3-4e6f-82ea-ba22b77a3c10,2025-02-02,Electronics,435.35,Delivered,North Williamport,Tennessee
+9ae7d75a-4e42-4399-8795-6268b68efa4c,ddee9a1d-10cc-4f6d-8f25-d4e9153d5703,2024-12-23,Clothing,404.9,Delivered,Cunninghammouth,Rhode Island
+5be81a87-0cbf-43aa-ab82-415d3a5bfeac,03d525de-c6df-4e65-a41d-72030e09e0be,2024-08-18,Sports,397.11,Shipped,East Austin,Utah
+5a1d26b3-8e37-4188-b94e-cbf15c67f204,7d5fb205-d5ad-4dca-a556-0233eb522929,2024-11-05,Books,159.29,Shipped,Lake Robert,Maine
+ec828de4-772c-4b0e-a044-0eaad5f4411b,49ec3ba7-aae4-4e27-8350-9a1d000a89fe,2025-04-08,Home & Kitchen,49.65,Delivered,Christineburgh,Idaho
+a16bdf29-02bb-4ecc-a492-0735095270df,232513a0-81a8-426c-813a-9e170429f6df,2024-09-27,Sports,207.46,Returned,East Angela,Georgia
+67ee79d9-849c-41f0-b9e2-508a325fb0c5,b925e448-cccb-42c7-80d8-81ed112ca835,2025-03-03,Books,95.03,Cancelled,East Bradleyland,Hawaii
+1bd9500a-582e-4e9d-b82a-bb0496436e70,76306a87-8978-46f0-814f-cfe3f8788ac7,2025-03-17,Books,350.53,Cancelled,Jennifershire,Mississippi
+f8ea8857-9626-435b-8b01-50aa6f68beba,d488ddf0-a595-4a41-9510-12b34167e63f,2025-02-26,Electronics,179.59,Cancelled,South Alexanderberg,Wisconsin
+8c5f3810-1c4a-4edc-89b4-b26d44142cff,b4c7e97c-49e9-465d-9fe2-2d26a833b54f,2025-01-25,Clothing,488.05,Returned,East Teresahaven,Utah
+3438104f-8673-4146-95cb-a11cc9faca14,6e2937c5-3afc-4ec1-9648-c116a72c54ef,2024-09-26,Clothing,324.08,Delivered,New Marilyn,Maryland
+a573dee6-9463-4ea4-b0da-12c0c4e20324,b683e5c5-c0ca-4963-8c7e-6ebbe54620aa,2024-09-15,Sports,413.02,Shipped,Cynthiafort,Nevada
+dd05a60b-cb47-426c-a936-54aa23a17e63,5d7e5998-2e65-45ab-8cd0-a4ba5affa0fb,2024-07-28,Clothing,74.94,Delivered,Gutierrezborough,New Mexico
+8c216228-9cc0-4a90-9747-cea630079d13,49f401d4-d959-4ee2-be21-c79b6d34c217,2025-02-25,Home & Kitchen,432.39,Returned,Shahburgh,Wyoming
+1604ba5a-95e8-4180-b6b7-657ac383f8ab,2e03e2bf-ee31-4168-80be-e6d08ec95cc8,2024-08-29,Clothing,462.15,Shipped,Kellyfort,South Carolina
+eb132cea-0a7c-4724-94cb-823f8a0ba1f0,d2a54771-b197-4786-83e0-1760e644e8de,2024-12-31,Sports,248.66,Returned,Melendezton,Illinois
+15271fee-864f-4607-a72a-eeab0e3ed8aa,c2181016-1338-455f-a255-af84ecb59bc3,2024-08-02,Clothing,307.06,Cancelled,Danielhaven,Minnesota
+0240852e-a422-4c71-9722-11e7f1179f2b,2fe82f9c-7692-49ee-8e40-6ad9a5823334,2025-02-22,Home & Kitchen,384.76,Cancelled,Smithberg,Louisiana
+69e76079-4827-4e26-98bc-c203c51a869c,396ea2f4-26f9-49db-8a80-aa6fe528fd4e,2025-02-17,Electronics,95.67,Returned,East Jenniferberg,Illinois
+508fa2d5-8edf-44b0-a523-80e9c5d8fd87,bc6cd9f6-492c-40ce-82ac-56d5840ff002,2024-09-20,Sports,256.26,Shipped,North Gerald,Arkansas
+0e437f62-c240-4438-9cc3-9b68f7875903,92fc41b7-2139-4101-ab49-1d2a42eba9c1,2024-09-30,Electronics,205.34,Shipped,Copelandhaven,Hawaii
+f354e1bb-b124-43cc-ac35-c0f76a35e37a,09fb4855-c978-4ccd-9d96-1d118300d109,2024-10-01,Electronics,81.72,Delivered,Castilloport,Massachusetts
+d60c7197-bcdb-488c-866f-e57a3614c8c8,ca7ae6b6-3dda-4cf6-86fc-7bc15c851dda,2025-06-12,Electronics,190.09,Cancelled,Lauraburgh,Nebraska
+4eba5da0-2495-4824-9fb2-5238d5579e38,6bb49321-2419-41c7-9116-79ab899355b0,2025-05-03,Books,43.4,Delivered,South Megan,Colorado
+84626a15-be88-4450-a5e3-22b8d34a53f2,54089e51-13a8-477c-a850-3de5646d9a5c,2024-09-16,Books,22.65,Delivered,West Lisaside,Colorado
+be488e37-9d29-42c0-88e9-a456c61a419f,8b87f256-0913-4eb6-b3a8-7dbf7c674fbe,2025-06-09,Electronics,76.23,Returned,Judyville,Nebraska
+6b571b53-5c97-4df1-af88-db2d65ea77cf,78d09b64-ab28-4af3-941a-020b18366d9e,2025-05-10,Sports,481.93,Returned,South Shawnfort,Kansas
+219472d7-41eb-438c-b6c2-35a01fb14e8d,b989f55e-383a-4f3a-a6cf-bc07d563be94,2024-07-31,Home & Kitchen,279.27,Delivered,Lopezmouth,New Hampshire
+383a46ca-5b40-4693-b3bc-6035456445ff,02eb0c0f-7ae2-43b0-9d0b-5db3a15ce36f,2025-05-27,Home & Kitchen,483.25,Cancelled,Lake Deborah,Maryland
+8ae3cd60-0a22-4091-8267-914aeac39f16,e567d6d0-225c-49b9-afd0-8fcc9a674dfa,2025-02-24,Clothing,221.92,Returned,West Michaelberg,California
+bc809049-4624-4435-9053-027256e1cbd3,c9751312-071e-4032-aa68-efc2c64fec41,2025-03-20,Sports,162.79,Delivered,New Rachel,Delaware
+b9432d7d-37e2-4091-84b6-0a6b47a218f6,d20a75eb-0533-4b1b-a16b-dbdba267012b,2025-04-30,Books,258.01,Delivered,Pattersonmouth,Arkansas
+e6d1370d-aaa7-4228-948a-e689816516d4,101b1b1e-4d01-4faf-a8cf-7ae9569189d9,2025-01-08,Electronics,225.36,Delivered,Johnstonville,Iowa
+050dbea8-e58e-4607-b1ae-413e82bf4a74,a74e4613-c872-418b-a54d-db043adce670,2024-10-11,Clothing,61.78,Delivered,Lake Bryan,Vermont
+94657db3-cbcc-4785-b82b-0e791dc41a2a,8e7e8642-3dbf-4503-9187-07a3335086d5,2024-12-01,Home & Kitchen,324.0,Delivered,Shelbyside,Louisiana
+181a8729-4007-47dc-b969-c67f1b65fa2c,bd618c57-ae02-4da5-80f6-50ced92302bf,2025-01-26,Books,115.86,Delivered,New Sheila,North Carolina
+212d5e2e-9091-4673-bd4c-5e0926663b71,efa2af1c-f051-4221-bc8b-0d6653c9b22f,2025-02-21,Books,313.6,Returned,Kennethmouth,Wisconsin
+86333274-f9e0-4bcf-ab8e-d3f5148c1d38,82803e4b-207a-4489-b4ce-1e8d7bd2cbcf,2024-08-31,Electronics,328.6,Cancelled,Sanchezside,Wyoming
+16e86f17-a0ad-47a1-b765-567d11ad651b,0c565292-0f3a-4165-a68c-d6d2619122b3,2025-04-08,Home & Kitchen,84.49,Delivered,Port Kimberlymouth,South Carolina
+a470adff-d627-4906-86e2-849968c005b0,f048a45e-16b6-47f2-9351-2c082dac48b4,2025-03-20,Sports,40.06,Shipped,North Josephmouth,Iowa
+f41dc126-2871-432f-b799-2b0859e167a6,aa854281-32aa-400b-940e-3df4c467b93f,2025-01-12,Books,392.57,Returned,Justinside,Kansas
+6d63f32a-54f1-423a-9b87-e9b6c240158f,3e2f43f5-58cd-4b5c-bbe1-3bafa9c51f76,2025-06-06,Electronics,235.3,Returned,Parrishfurt,Wisconsin
+5138e36b-b683-4e66-9efb-147f434c12d1,478c431f-9858-40b0-9f91-438710c16daf,2024-12-28,Sports,38.5,Delivered,Riggsfurt,Florida
+cd2856a0-cbc9-4337-b448-e4724634934e,2d8dd7b9-0506-4382-9476-d3be87524d7c,2025-07-23,Home & Kitchen,497.48,Returned,Dukeside,Arkansas
+0f57cff3-f5e5-44b3-a6d0-2849ab606155,f0174b7f-4d18-44d5-a3cf-7c078f90913c,2025-03-03,Books,38.31,Delivered,East Andrewside,Hawaii
+cce18aa4-2e59-4cfe-bbdf-5123ba5ffc4b,bb3f4e33-2ca5-4e4e-8583-6a1aa790859a,2025-03-23,Sports,350.57,Cancelled,Luisport,Ohio
+d1532a03-e3c1-4ff4-8ad9-469a37d3c862,3e2f0154-b4a3-40d4-a721-4078baa85c51,2025-04-11,Sports,492.0,Cancelled,Anitabury,Missouri
+aa587add-9325-47c6-8078-9a078d2cb5ac,8fa8af60-c235-43df-8aac-425072bb0abd,2025-05-12,Sports,127.2,Returned,Blackchester,North Carolina
+c547dd8e-335f-414c-b69f-5676644ba34b,047f2e87-dc9f-42c4-b91e-5eb41e42796c,2024-10-06,Books,79.7,Returned,New Donald,Rhode Island
+9093126e-d5b7-4105-a08a-49d4d411b4d0,89083700-bc0f-4eb3-a0d3-eb61d572d066,2024-09-06,Books,69.48,Shipped,South Heather,Rhode Island
+c2917165-22eb-4186-a524-c5fcdfa64b27,877cff4d-3dea-4c0e-8b13-a389b9ed513d,2024-09-12,Clothing,158.6,Returned,Albertbury,Massachusetts
+fffd763f-f9e4-416b-97d6-9b26279d0687,2e336970-e97a-41ca-86b2-5e5d7e2a59ab,2025-02-24,Home & Kitchen,59.51,Shipped,South Tonyahaven,Montana
+2d40196f-0ba8-44f6-9f35-6addf161e97d,a7dc130f-fb67-4985-baaa-aefa5c081f77,2025-07-16,Electronics,349.16,Cancelled,South Jeanne,West Virginia
+ed351383-e1ef-462c-937d-66b2ba263096,b83ec160-e5a0-482f-9cf2-1f268aefaa9b,2024-08-07,Sports,40.52,Cancelled,South Saramouth,North Dakota
+8bcede3b-8e56-4ff8-9990-718910c16cd6,7cb9d7c7-47c0-4b63-b8bb-a54b46f0137d,2025-01-19,Clothing,259.62,Delivered,New Richardhaven,Hawaii
+01732558-4989-4fb8-be2b-586b6cceef32,e6653d1c-dc07-4e67-a7e1-658c644d59b5,2025-03-08,Electronics,498.38,Cancelled,Perkinsburgh,Ohio
+82e2480f-bc6f-4477-97b0-c6529f9b0407,e3d82dfe-b1ec-4fd1-b175-36358eed3b0c,2024-07-29,Clothing,408.85,Shipped,New Maryton,Delaware
+aa5448e7-dfb2-4da6-a363-8733b80f9cbf,d0527cba-02b8-4a7c-bdba-6f1a52b55898,2025-07-18,Books,311.46,Returned,Port Michelle,North Dakota
+2be62b5d-cfc2-450d-a567-cb176bee9b7f,51e73e7d-a885-4d6b-abeb-efd434967331,2025-05-07,Sports,160.06,Delivered,Ivanview,Florida
+df3e0711-1499-4a14-b7df-0119be4a1318,329beda2-4334-4900-8bcb-38906382a48b,2025-02-20,Electronics,315.71,Shipped,Lake Robertton,Rhode Island
+27262743-53cf-4d64-8d5e-81bf9f3a836f,9b145eb8-c6a2-478c-bcc9-a1c175040673,2025-03-07,Electronics,268.25,Returned,New Lisa,Delaware
+087695ca-8ad7-449b-8dd3-52a2f38b7c17,c08dd247-9f23-4c45-9230-1c9d8826a0ee,2025-02-11,Electronics,218.78,Delivered,Port Melissa,Ohio
+951dd5ff-30d7-469f-bf1e-b5f837e28056,fe55afa4-be4b-4c8f-bbc7-b1a8e0ffb172,2025-07-24,Electronics,74.05,Cancelled,Fullerhaven,West Virginia
+9b2ebcca-7035-4b79-bba2-d2270e3a98e7,6c9f0c79-c436-4e5a-921d-87009b8a1ce2,2025-04-08,Electronics,444.44,Shipped,Taraborough,Mississippi
+51184fb5-2666-4fcf-a59d-1fdbbb99dca4,801fc6a0-62bf-4523-b2fa-d9a813f5f834,2025-04-28,Clothing,230.39,Returned,West Justin,Delaware
+1cb8b045-6422-4c3f-8149-187dc8dd997e,e457dd5c-0791-4d20-bffe-3da6dee679a6,2025-03-15,Sports,105.37,Delivered,Smithland,Tennessee
+23d99dfb-a7b4-4547-b75c-da77562c9672,c4e773ba-2907-4fd0-8596-a86f2b5547b9,2025-04-10,Books,190.2,Delivered,West Madeline,Nebraska
+313e4f60-079a-4887-8eb9-3b3d74bd2617,8adf138a-1b22-4873-a790-7e5a0cfb3cc4,2025-05-13,Books,212.92,Cancelled,Colefurt,Virginia
+becc9a90-1e38-4ff7-9de3-8785e09fcc9f,d3ee4610-a47b-4b6c-ac61-2cc9fb758551,2025-03-13,Books,415.49,Returned,East Teresa,Michigan
+d2f630d8-a40e-4fc9-9ef6-b2b1136db0e6,87956250-bc32-4364-b226-49b9f5788c57,2025-03-12,Books,369.47,Cancelled,Port Laurenborough,South Carolina
+a9c27268-e824-4b3b-9cd3-bebfe7bc4925,1fbb424e-6e00-49eb-8ba6-29c4951d893b,2025-01-02,Clothing,386.96,Cancelled,Williamstown,West Virginia
+215a9c13-02e2-4171-b786-a3f311eb1b8e,2601a951-3e46-4e73-94a5-ccb2ea9eff2a,2025-02-20,Home & Kitchen,15.41,Returned,Jonesville,Alabama
+cbe1d577-2df2-4dea-95cf-55551ce985b1,72545348-2e75-4530-811a-79fe4fc6838e,2025-04-09,Sports,213.92,Returned,North Melanieview,South Carolina
+09b9458d-30fc-4d76-bcd4-240a5351ca01,143eed43-a6bd-41d3-9720-b44ae4e53c70,2024-12-28,Electronics,245.86,Returned,Blackburnmouth,Tennessee
+0e9b2bbb-5e3d-46fd-9852-6481fc79cc76,7bf09e3c-d3dd-4bc9-9166-c20ec343a32f,2024-11-28,Home & Kitchen,19.4,Shipped,Hillport,Missouri
+844205cd-99ab-42cc-9f0d-c6bde2f768ed,941ea344-8f83-4ebb-a618-aa79e67577d4,2025-04-11,Books,137.31,Returned,Diazshire,New Hampshire
+e13f433d-7cb1-4d7c-8ee9-ffd18847391a,ac755d48-df3c-4936-be8c-1131ed5cf5c1,2025-06-04,Home & Kitchen,382.54,Delivered,South Andrew,Florida
+6cbe9ed3-5dbe-4230-ab02-60de852ebb7a,22ee7df5-45ae-41a3-b935-1343a57f4b23,2025-03-22,Sports,77.18,Cancelled,Lisahaven,Arkansas
+b8ce0579-670d-41a4-894c-74159a4ccbe6,22bee1b2-0608-4ed2-bc92-0da1caf518fe,2024-08-05,Electronics,272.3,Shipped,Anthonyshire,Utah
+96d6ce9f-d754-4461-8279-950c9fff7637,59c0ac5a-ba89-4881-ac57-bdc8879e9824,2024-11-30,Electronics,115.45,Returned,West Gary,Arizona
+6840478f-de8f-46ce-a9df-7c8edfc4367e,77f662e7-f60d-4a90-9ca2-7a8fc43a7d12,2024-10-28,Sports,15.94,Shipped,New Julie,Nebraska
+d77eb373-289d-4b5a-a31d-5b51276da602,ae31aba1-85c6-4d80-892e-744f58e0f403,2025-04-21,Sports,128.19,Returned,Port Blake,Colorado
+cdf3294f-6dba-4642-ad91-64d4007e9031,fc267a23-c05a-498b-9911-caeee1c36f9e,2024-12-23,Books,488.18,Shipped,Luceroport,Indiana
+eb0e21ee-8a1c-438b-b34a-1ae106a2e4fd,9258749d-f44d-44cd-b1bb-d2bcd60f2db3,2025-03-10,Electronics,402.75,Cancelled,New Patty,Nebraska
+ea868aa5-be41-4fbc-9f51-18af7b9bf334,c7fec4e0-94ce-42d3-aa21-9b5fb40b4d90,2024-08-14,Home & Kitchen,480.19,Cancelled,Lynchview,New Jersey
+8b888fdc-d9a1-443b-a6a7-a48b13df909a,65cff106-62ab-41a2-aada-088284261535,2024-08-06,Clothing,249.05,Delivered,North Samantha,Michigan
+a0fc7615-bd0b-443e-8ad2-3f03015ae693,e1e534b8-c852-48b6-a1c5-01053b7a8001,2025-04-13,Clothing,63.77,Delivered,North Robertfort,Delaware
+be213a8e-e0d7-41e0-999d-6c1e2db1e3f0,83f1c076-88fc-4527-8e49-75186cbc2c44,2025-02-16,Sports,278.5,Returned,Maryhaven,Oregon
+82bcc314-b003-43c4-8e3d-207d2f87eda9,1dda356f-fb6d-43b1-a7c9-280fae01c9e2,2025-01-09,Books,232.64,Cancelled,Lake Anthony,Arkansas
+fe38b9c2-f6d8-471b-aa42-6d277a9ea7b6,b6d02976-af96-40c8-90f6-3d2bfcf7fc20,2025-04-17,Clothing,423.73,Shipped,Robertsbury,Mississippi
+7386e8e8-6e89-4b68-9968-496189edea01,3838c3c1-8f87-4eea-be8f-8a97eb5185c9,2024-07-25,Electronics,58.06,Shipped,South Brian,New Mexico
+c7e8b5f9-8e4f-4677-b07b-68e717c457fc,670b9c9e-9fee-42d3-ba92-ab3faa9dc76c,2025-04-12,Sports,249.24,Shipped,New Luis,Maine
+ed57d5ab-6f92-42f1-a8ee-2eb43458f3d6,92831d2f-8f6e-4661-b865-ef3066865174,2024-08-08,Home & Kitchen,83.52,Delivered,Ryanberg,South Dakota
+46c72c17-94f6-49a4-9516-28c14bdd1173,18b79a31-219f-47d1-9f4f-e7be081fc114,2024-07-25,Sports,169.09,Shipped,Gonzaleshaven,Kansas
+fbd4927d-2d3b-4b60-9e92-81cae2dd7713,d9d51fbd-3025-4df8-a97f-20aafbb48863,2025-05-05,Home & Kitchen,371.3,Delivered,New Carlaview,Maine
+4e04b84f-a772-4569-9a6b-988109af064a,966cd348-3ff1-425d-a5ee-7006e4471eb1,2025-02-25,Sports,243.25,Delivered,South Melindabury,Illinois
+d230669e-b7f2-4682-b32b-c51a943a8442,4ea7a52a-9edb-45d7-890f-4a8f9dbd1507,2025-02-12,Sports,194.19,Returned,East Josephberg,Tennessee
+a94f5439-5169-42fc-83a9-d4c9b21da095,20e79693-06af-4832-b60d-8be19d290ea6,2025-05-20,Sports,203.29,Shipped,West Michael,Maine
+9a8ec48d-5884-4ebe-ade3-8ea7a2dedc2a,18a8c00a-f141-44ad-9a4a-c4f147ec1999,2025-05-18,Home & Kitchen,235.13,Shipped,East Joshuafort,New Hampshire
+d32852aa-bf79-4115-873f-e38a122855fe,52967e99-4637-4f68-85f5-fa1b13105a0a,2024-10-06,Home & Kitchen,394.66,Cancelled,North Tylerbury,Maine
+189022a8-f971-4969-9b7a-ce7298db9bc2,2d71e820-4ea2-46b1-8f65-4c0b4f845440,2025-01-26,Sports,447.12,Returned,New Lauriechester,Idaho
+64139951-cb71-43dc-8501-d33b74709388,146fe82d-0d1d-4237-9dfe-3ee017e79d76,2025-02-14,Clothing,478.11,Cancelled,South Kevinmouth,Indiana
+28e3183a-1158-4d10-a8cf-7f8cd010de7d,d1c8b6e3-7a96-495c-b732-44351477a658,2024-12-09,Books,395.58,Returned,Smithmouth,West Virginia
+86ae2084-0a24-4177-9ca1-7b41bd33235e,4b4bdda9-7f00-4895-bb33-dfdffcb1fa30,2024-09-24,Books,164.55,Shipped,Lake Amberburgh,Michigan
+97a06861-c64f-4aa6-828c-7e780547ecb9,bd0267ec-e6ac-42a8-a6a1-193fa8c605cd,2024-10-16,Books,347.19,Delivered,Mcguireberg,Iowa
+84f54d11-8c4c-4ce6-b9a0-fd59f67f3265,98050a96-294f-4c74-bed3-507a632e474d,2024-11-19,Home & Kitchen,224.43,Delivered,Edwardton,Washington
+862dfc72-0a65-492b-b5dd-f5b959596114,cfe43ed8-121c-4f8b-a2b5-90f7659c1641,2024-07-30,Home & Kitchen,134.79,Delivered,Lake Michealside,Connecticut
+76b513e7-bc2a-4221-a125-faa3f6eccc04,5e79129e-21cf-45c2-9399-413d21319c7b,2024-08-04,Clothing,422.03,Delivered,West Kayla,North Carolina
+5a08a656-a43b-473e-9270-367c43960169,1cfe0c09-22eb-4426-989b-cb9cec8be031,2025-03-08,Books,28.83,Delivered,North Holly,California
+2bf5bc39-cd8e-4c59-913c-459774cc01e1,0d725d23-1cd6-4853-9ac5-0c7c0248b881,2025-01-18,Books,451.86,Cancelled,East Michael,Mississippi
+0ad939a3-c332-4d29-9bc4-d24c9918936b,e8a9f7d4-8012-4fc4-aaec-2d07046e9d80,2024-12-19,Sports,236.12,Returned,Angelaton,South Carolina
+3db78ee8-8b18-4a9f-88d8-48660f8025ab,8e398e8a-f638-4c5e-921d-efa65b9b926c,2025-07-16,Home & Kitchen,322.23,Shipped,Kimberlyport,Hawaii
+c2b56a3e-2145-4545-bd28-4a1e3f9a2ebb,13316b34-1d74-473d-9b42-68ca87104665,2025-04-18,Books,333.08,Cancelled,Walkerfurt,Maryland
+e8ca6d61-7909-488f-8209-2c935c5a6b7b,88d68cd8-9957-4ddb-8a23-5aee222228bc,2024-09-06,Clothing,448.61,Returned,Pettymouth,Kansas
+bd50c497-e7a4-43cc-8bdc-da6074f63277,aaa54a7e-85c7-405f-9da3-c8dd89934eec,2025-06-27,Clothing,321.97,Delivered,New Beckychester,Massachusetts
+225957dc-baa4-4c12-a4ab-9f85cb640aa7,d1164a97-2e82-4af1-8fa0-dc6b81e4f117,2024-12-03,Books,310.83,Returned,Marybury,Minnesota
+ea6584ed-e05c-4262-a7f5-b20bc409fe39,d3950e57-e83a-4598-82f5-d4ef9d5fd013,2025-06-10,Home & Kitchen,42.66,Returned,Lauriebury,Indiana
+3106eb60-6ee9-4c80-9b94-0fac7d2b3c3f,9ad6cfdc-c303-46e3-acb8-2e22be1a9edc,2025-06-21,Clothing,264.02,Delivered,East Gregory,Colorado
+12f5726d-83b3-467c-8380-ef4f3ca7ab32,1d237ef4-569c-44bb-aa17-246b135aaa81,2025-03-11,Sports,83.58,Delivered,Port Aaronmouth,West Virginia
+c2f91c1a-e555-432b-bf65-910c41045819,c519c6b5-9c2a-4967-8a76-069f75fcbaf8,2024-12-28,Clothing,371.34,Delivered,Taylortown,New York
+e042d1cc-79cd-49d0-9e74-a2e809668de9,f10d36d2-1a85-40a5-b13b-98a460457054,2025-05-13,Electronics,260.99,Shipped,South Jenniferbury,Maine
+6164f71b-8c7f-4a0b-984a-6fb988b5aa89,b97a2e4b-c67d-4239-b456-f61cb3aa9e78,2024-10-27,Electronics,343.31,Delivered,West Jessicashire,Nevada
+acaeaa46-44c7-4693-8fbc-a707d006e4f5,6aec9558-723c-4b9b-9333-9fae3bee535f,2025-01-25,Home & Kitchen,30.42,Shipped,Port Kayleeside,Missouri
+758695f2-0481-42be-8d86-26414613fe38,fa5278d0-0242-4839-bf0a-0765a9c71d2e,2025-05-24,Books,51.55,Delivered,Lake Collin,Tennessee
